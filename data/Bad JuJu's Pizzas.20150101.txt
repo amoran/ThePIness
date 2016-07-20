@@ -1,0 +1,5956 @@
+Bad JuJu's Pizzas
+
+Good
+CHEESE
+EXTRA_CHEESE
+
+Bad
+CHEESE
+PEPPERONI
+ONIONS
+GREEN_PEPPERS
+SPINACH
+SARDINES
+JALAPENOS
+
+Ugly
+CHEESE
+MUSHROOMS
+ONIONS
+EXTRA_CHEESE
+BLACK_OLIVES
+GREEN_PEPPERS
+PINEAPPLE
+SPINACH
+JALAPENOS
+
+-2369985153822692915	Oliver	12/1/14	Janet	12696 Pinon Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692914	Anthony	12/1/14	Jorge	18964 Columbine Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692913	Alexander	12/1/14	Kathleen	16672 Kahili Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692912	Louis	12/1/14	Ethan	28106 Tenth Spring Field, New Cicily
+Good
+
+-2369985153822692911	Mario	12/1/14	Kathleen	21149 Pioneer Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692910	Tara	12/1/14	Jorge	28296 Pioneer Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692909	Joel	12/1/14	Janet	8609 Jackson Spring Field, New Cicily
+Bad
+
+-2369985153822692908	Madison	12/1/14	Tracey	1630 Malulani Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692907	Edith	12/1/14	Anthony	13287 Aloha Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692906	Jason	12/1/14	Angela	17333 Fourth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692905	Dorothy	12/1/14	Spencer	20364 First Spring Field, New Cicily
+Good
+
+-2369985153822692904	Krista	12/1/14	Jorge	6645 Magnolia Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692903	Timothy	12/1/14	Ethan	15206 Lee Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692902	Tommy	12/1/14	Spencer	26723 First Spring Field, New Cicily
+Bad
+
+-2369985153822692901	Devon	12/1/14	Jorge	24362 Fourth Spring Field, New Cicily
+Good
+
+-2369985153822692900	Nevaeh	12/1/14	Spencer	8521 Thirteenth Spring Field, New Cicily
+Bad
+
+-2369985153822692899	Chloe	12/1/14	Anthony	14524 Shore Spring Field, New Cicily
+Good
+Ugly
+Bad
+Good
+
+-2369985153822692898	Tristan	12/1/14	Spencer	26661 Evergreen Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822692897	Michelle	12/1/14	Angela	16570 Cypress Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692896	Thomas	12/1/14	Ethan	27003 River Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692895	Mitchell	12/1/14	Ethan	8099 Malulani Spring Field, New Cicily
+Bad
+
+-2369985153822692894	Jimmy	12/1/14	Kathleen	24169 Eleventh Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692893	George	12/1/14	Angela	22200 Malulani Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822692892	Gerald	12/1/14	Anthony	22660 Mountain View Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822692891	Kimberly	12/1/14	Tracey	29870 Broadway Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692890	Richard	12/1/14	Ethan	21400 Shore Spring Field, New Cicily
+Bad
+
+-2369985153822692889	Kyle	12/1/14	Anthony	2307 Canyon Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692888	Traci	12/1/14	Jorge	7973 Hampton Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692887	Dianne	12/1/14	Jorge	2276 Johnson Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692886	Nathan	12/1/14	Tracey	3108 Wilson Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692885	Betty	12/1/14	Janet	29539 First Spring Field, New Cicily
+Bad
+
+-2369985153822692884	Walter	12/1/14	Anthony	14975 Kansas Spring Field, New Cicily
+Ugly
+
+-2369985153822692883	Marie	12/1/14	Spencer	20726 County Line Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692882	Luis	12/1/14	Kathleen	18453 Jackson Spring Field, New Cicily
+Ugly
+
+-2369985153822692881	Landon	12/1/14	Jorge	28919 Lee Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692880	Faye	12/1/14	Janet	21631 Center Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692879	Keith	12/1/14	Angela	23909 County Line Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822692878	Tanya	12/1/14	Anthony	9972 Highland Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692877	Julian	12/1/14	Janet	26615 Lake Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692876	Mary	12/1/14	Tracey	9725 Malulani Spring Field, New Cicily
+Good
+
+-2369985153822692875	Max	12/1/14	Ethan	12253 Kahili Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692874	Debbie	12/1/14	Ethan	29147 Cottonwood Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692873	Ray	12/1/14	Jorge	13213 Lehua Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822692872	Jeffrey	12/1/14	Spencer	3849 Meadow Spring Field, New Cicily
+Bad
+
+-2369985153822692871	Jack	12/1/14	Jorge	20067 Broadway Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692870	Manuel	12/1/14	Tracey	12421 Center Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692869	Clayton	12/2/14	Jorge	21596 Narragansett Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692868	Billy	12/2/14	Jorge	25536 Lee Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692867	Mya	12/2/14	Anthony	13432 Palo Verde Spring Field, New Cicily
+Ugly
+
+-2369985153822692866	Madeline	12/2/14	Janet	1521 Elm Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692865	Yvonne	12/2/14	Tracey	26533 Ridge Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692864	Danny	12/2/14	Tracey	9876 Lakeview Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692863	Elaine	12/2/14	Kathleen	28576 Twelfth Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692862	Cynthia	12/2/14	Spencer	19786 Lee Spring Field, New Cicily
+Good
+
+-2369985153822692861	Trevor	12/2/14	Anthony	23373 Thirteenth Spring Field, New Cicily
+Good
+
+-2369985153822692860	Evan	12/2/14	Kathleen	15527 Ridge Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692859	Yvonne	12/2/14	Jorge	5619 Main Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692858	Diana	12/2/14	Jorge	23087 Elm Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692857	Shelia	12/2/14	Tracey	3440 Hill Spring Field, New Cicily
+Ugly
+
+-2369985153822692856	Jake	12/2/14	Ethan	13883 Malulani Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692855	Shannon	12/2/14	Anthony	10758 Johnson Spring Field, New Cicily
+Ugly
+
+-2369985153822692854	Stephanie	12/2/14	Angela	13140 Evergreen Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692853	Suzanne	12/2/14	Kathleen	29239 Aloha Spring Field, New Cicily
+Bad
+Bad
+Ugly
+Ugly
+
+-2369985153822692852	Gerald	12/2/14	Jorge	1014 Williams Spring Field, New Cicily
+Ugly
+
+-2369985153822692851	Heidi	12/2/14	Angela	5509 Hickory Spring Field, New Cicily
+Good
+
+-2369985153822692850	Jeanne	12/2/14	Spencer	1548 Maple Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692849	Steven	12/2/14	Spencer	29248 Park Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692848	Audrey	12/2/14	Ethan	21490 Meadow Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692847	Barbara	12/2/14	Janet	19230 Wilson Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692846	Kaitlin	12/2/14	Angela	26105 Narragansett Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692845	Derek	12/2/14	Angela	10829 Lake Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692844	Isabella	12/2/14	Angela	5213 Elm Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692843	Marianne	12/2/14	Anthony	19727 Ridge Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692842	Jared	12/2/14	Anthony	24783 Broadway Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692841	Brad	12/2/14	Angela	3738 Lehua Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692840	Christina	12/2/14	Spencer	25935 Hickory Spring Field, New Cicily
+Bad
+
+-2369985153822692839	Dan	12/2/14	Kathleen	5872 Redwood Spring Field, New Cicily
+Bad
+
+-2369985153822692838	Marsha	12/2/14	Anthony	16745 Washington Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692837	Stanley	12/2/14	Spencer	8768 Pine Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692836	Joe	12/2/14	Spencer	14775 Aspen Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692835	Monique	12/2/14	Kathleen	15694 Twelfth Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692834	Douglas	12/2/14	Tracey	2638 Redwood Spring Field, New Cicily
+Ugly
+
+-2369985153822692833	Yvonne	12/2/14	Angela	25493 Columbine Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692832	Tiffany	12/2/14	Anthony	7223 Pine Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692831	Connie	12/2/14	Janet	22244 Pioneer Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692830	Cheyenne	12/2/14	Ethan	9374 Sycamore Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692829	Gerald	12/2/14	Jorge	19137 Lakeview Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692828	Eric	12/2/14	Tracey	29691 Lehua Spring Field, New Cicily
+Ugly
+
+-2369985153822692827	Wesley	12/2/14	Spencer	18545 A Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692826	Krystal	12/2/14	Jorge	6566 Shore Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692825	Scott	12/2/14	Ethan	11510 Pine Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692824	Tyrone	12/2/14	Ethan	3402 Hill Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822692823	Irene	12/2/14	Tracey	18083 Jackson Spring Field, New Cicily
+Bad
+
+-2369985153822692822	Faye	12/2/14	Jorge	21631 Center Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692821	Jay	12/2/14	Tracey	3215 Sixth Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692820	Joann	12/2/14	Angela	16448 Johnson Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692819	Manuel	12/2/14	Anthony	7274 Maple Spring Field, New Cicily
+Ugly
+
+-2369985153822692818	Suzanne	12/2/14	Jorge	15150 Seventh Spring Field, New Cicily
+Ugly
+
+-2369985153822692817	Luis	12/2/14	Ethan	21780 Fourth Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822692816	Edward	12/2/14	Janet	21169 West Spring Field, New Cicily
+Good
+
+-2369985153822692815	Brent	12/2/14	Kathleen	443 Hampton Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+Good
+
+-2369985153822692814	Eddie	12/3/14	Angela	4012 Navajo Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692813	Steven	12/3/14	Angela	20596 Bay Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822692812	Marilyn	12/3/14	Kathleen	15256 Aspen Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692811	Adam	12/3/14	Steven	6801 Center Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692810	Franklin	12/3/14	Janet	18774 Laurel Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692809	Rachel	12/3/14	Steven	9072 Aspen Spring Field, New Cicily
+Ugly
+
+-2369985153822692808	Carl	12/3/14	Tracey	23294 Pinon Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692807	Katherine	12/3/14	Kathleen	13584 Jackson Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692806	Mya	12/3/14	Kathleen	27462 Kukui Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692805	Haley	12/3/14	Ethan	23077 S 400 Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692804	Devin	12/3/14	Steven	9108 Pecan Spring Field, New Cicily
+Good
+
+-2369985153822692803	Erica	12/3/14	Steven	14731 Cherry Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822692802	Douglas	12/3/14	Janet	13057 Birch Spring Field, New Cicily
+Ugly
+
+-2369985153822692801	Seth	12/3/14	Steven	8379 Tenth Spring Field, New Cicily
+Good
+
+-2369985153822692800	Brett	12/3/14	Kathleen	27661 Willow Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692799	Eugene	12/3/14	Jorge	16069 Fifth Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692798	David	12/3/14	Janet	28039 Palo Verde Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692797	Frank	12/3/14	Jorge	27095 Fifth Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692796	Valerie	12/3/14	Kathleen	22924 Maple Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692795	Tammy	12/3/14	Jorge	18965 Main Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692794	Joel	12/3/14	Steven	10954 Malulani Spring Field, New Cicily
+Good
+Ugly
+Bad
+Ugly
+
+-2369985153822692793	Steven	12/3/14	Spencer	4418 Third Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692792	Kendra	12/3/14	Jorge	13505 Juniper Spring Field, New Cicily
+Good
+Ugly
+Bad
+Bad
+
+-2369985153822692791	Roger	12/3/14	Steven	23219 Ridge Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692790	Adriana	12/3/14	Kathleen	22421 Hampton Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692789	Sharon	12/3/14	Steven	24143 Malulani Spring Field, New Cicily
+Ugly
+
+-2369985153822692788	Kathryn	12/3/14	Ethan	20264 Columbine Spring Field, New Cicily
+Good
+
+-2369985153822692787	George	12/3/14	Spencer	28141 Williams Spring Field, New Cicily
+Bad
+Good
+Good
+Good
+
+-2369985153822692786	Amy	12/3/14	Steven	24018 Main Spring Field, New Cicily
+Bad
+Ugly
+Good
+Good
+
+-2369985153822692785	Joel	12/3/14	Tracey	870 Dogwood Spring Field, New Cicily
+Ugly
+
+-2369985153822692784	Traci	12/3/14	Angela	7973 Hampton Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692783	Tonya	12/3/14	Tracey	3858 Seventh Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692782	Destiny	12/3/14	Kathleen	6478 Eleventh Spring Field, New Cicily
+Bad
+
+-2369985153822692781	Meghan	12/3/14	Spencer	27102 Cottonwood Spring Field, New Cicily
+Ugly
+
+-2369985153822692780	Evan	12/3/14	Janet	274 Fifth Spring Field, New Cicily
+Ugly
+Ugly
+Good
+Bad
+
+-2369985153822692779	Allen	12/3/14	Spencer	18421 Eleventh Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692778	Patrick	12/3/14	Angela	21932 Lake Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822692777	Desiree	12/3/14	Steven	25320 Pleasant Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692776	Jose	12/3/14	Kathleen	4493 Smith Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692775	Erin	12/3/14	Angela	28226 Hill Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822692774	Omar	12/3/14	Steven	17757 First Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692773	Robin	12/3/14	Janet	23919 Cherry Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692772	Megan	12/3/14	Spencer	26611 Fourth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692771	Maxine	12/3/14	Ethan	28019 Smith Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692770	Cory	12/3/14	Ethan	16908 S 400 Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692769	Selena	12/3/14	Ethan	26628 Meadow Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822692768	Herbert	12/3/14	Ethan	26135 Pinon Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692767	Eric	12/3/14	Ethan	26142 Spruce Spring Field, New Cicily
+Ugly
+
+-2369985153822692766	Janet	12/3/14	Spencer	4540 Quail Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692765	Virgil	12/4/14	Jorge	14817 Fourth Spring Field, New Cicily
+Bad
+
+-2369985153822692764	Jeanette	12/4/14	Ethan	27685 Ninth Spring Field, New Cicily
+Ugly
+Good
+Good
+Good
+
+-2369985153822692763	Cynthia	12/4/14	Janet	6004 Airport Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692762	Marcia	12/4/14	Steven	12723 Twelfth Spring Field, New Cicily
+Ugly
+Bad
+Good
+Good
+
+-2369985153822692761	Nicholas	12/4/14	Ethan	2370 Lehua Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692760	Thelma	12/4/14	Jorge	21558 Aspen Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692759	Louise	12/4/14	Angela	13311 Ninth Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692758	Evelyn	12/4/14	Ethan	379 Walnut Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692757	Jaclyn	12/4/14	Angela	9470 Oak Spring Field, New Cicily
+Good
+Ugly
+Ugly
+Ugly
+
+-2369985153822692756	Kate	12/4/14	Spencer	8731 Redwood Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822692755	Michele	12/4/14	Kathleen	17769 Fifth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692754	Audrey	12/4/14	Steven	21311 Lehua Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692753	Michelle	12/4/14	Steven	21502 Walnut Spring Field, New Cicily
+Ugly
+
+-2369985153822692752	Helen	12/4/14	Angela	28260 First Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692751	Jillian	12/4/14	Angela	6692 Tenth Spring Field, New Cicily
+Ugly
+Bad
+Bad
+Ugly
+
+-2369985153822692750	Laura	12/4/14	Tracey	24373 Columbine Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692749	Desiree	12/4/14	Tracey	10356 Quail Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692748	Nicholas	12/4/14	Angela	14873 Williams Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692747	Troy	12/4/14	Angela	8628 Birch Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822692746	Sharon	12/4/14	Spencer	23201 A Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692745	Mia	12/4/14	Ethan	25481 North Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692744	Jazmin	12/4/14	Kathleen	25153 Delaware Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692743	Lisa	12/4/14	Janet	6403 Seventh Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692742	Nichole	12/4/14	Janet	24577 Mesquite Spring Field, New Cicily
+Good
+
+-2369985153822692741	Nancy	12/4/14	Tracey	11763 Magnolia Spring Field, New Cicily
+Bad
+
+-2369985153822692740	Kevin	12/4/14	Tracey	16127 Cypress Spring Field, New Cicily
+Good
+
+-2369985153822692739	Jerry	12/4/14	Angela	28029 Highland Spring Field, New Cicily
+Ugly
+
+-2369985153822692738	Matthew	12/4/14	Tracey	3450 Tenth Spring Field, New Cicily
+Good
+
+-2369985153822692737	Dave	12/4/14	Spencer	833 Mountain View Spring Field, New Cicily
+Good
+
+-2369985153822692736	Haley	12/4/14	Ethan	16809 Sycamore Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692735	Arthur	12/4/14	Kathleen	13931 River Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692734	Debra	12/4/14	Tracey	11413 Wood Spring Field, New Cicily
+Ugly
+
+-2369985153822692733	Monica	12/4/14	Tracey	12796 Fourth Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692732	Felicia	12/4/14	Ethan	20767 Hill Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692731	Connor	12/4/14	Jorge	18372 Sycamore Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692730	Jill	12/4/14	Ethan	13338 Laurel Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692729	Sydney	12/4/14	Steven	28743 Maple Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692728	Blake	12/4/14	Spencer	5320 N 400 Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692727	Norma	12/4/14	Angela	2076 Williams Spring Field, New Cicily
+Bad
+
+-2369985153822692726	Joel	12/5/14	Kathleen	20225 Seventh Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692725	George	12/5/14	Ethan	20625 Lehua Spring Field, New Cicily
+Ugly
+
+-2369985153822692724	Maureen	12/5/14	Steven	7691 Cherry Spring Field, New Cicily
+Good
+Good
+Good
+Ugly
+
+-2369985153822692723	Sherri	12/5/14	Janet	15563 Pinon Spring Field, New Cicily
+Good
+
+-2369985153822692722	Mitchell	12/5/14	Ethan	25153 Fifth Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692721	Jose	12/5/14	Janet	27729 Sycamore Spring Field, New Cicily
+Ugly
+
+-2369985153822692720	Adrian	12/5/14	Tracey	7523 Ridge Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822692719	Herman	12/5/14	Steven	21773 Pine Spring Field, New Cicily
+Ugly
+
+-2369985153822692718	Shannon	12/5/14	Angela	10758 Johnson Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692717	Joseph	12/5/14	Angela	25584 Narragansett Spring Field, New Cicily
+Bad
+Good
+Ugly
+Good
+
+-2369985153822692716	Josephine	12/5/14	Ethan	11433 A Spring Field, New Cicily
+Bad
+
+-2369985153822692715	Eric	12/5/14	Tracey	14473 Meadow Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692714	Robin	12/5/14	Tracey	4492 Holly Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692713	Kirsten	12/5/14	Kathleen	22301 Bay Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692712	Nicholas	12/5/14	Ethan	5445 Narragansett Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Ugly
+
+-2369985153822692711	Alexia	12/5/14	Tracey	21510 Pioneer Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822692710	Billy	12/5/14	Kathleen	27288 Oak Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692709	Ella	12/5/14	Steven	28931 Kahili Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692708	Adriana	12/5/14	Jorge	22421 Hampton Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692707	Johnny	12/5/14	Steven	21679 Cypress Spring Field, New Cicily
+Ugly
+Good
+Good
+Good
+
+-2369985153822692706	Kirsten	12/5/14	Ethan	19146 Meadow Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692705	Hannah	12/5/14	Jorge	27212 Aspen Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692704	Stanley	12/5/14	Spencer	9157 Broadway Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822692703	Xavier	12/5/14	Angela	20343 Cottonwood Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692702	Harold	12/5/14	Janet	1746 Malulani Spring Field, New Cicily
+Good
+
+-2369985153822692701	Darren	12/5/14	Tracey	29855 Delaware Spring Field, New Cicily
+Bad
+
+-2369985153822692700	Martin	12/5/14	Ethan	20060 Thirteenth Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692699	Pamela	12/5/14	Angela	1903 S 400 Spring Field, New Cicily
+Ugly
+
+-2369985153822692698	Beth	12/5/14	Steven	15280 Ridge Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692697	Ashley	12/5/14	Steven	5455 Fifth Spring Field, New Cicily
+Ugly
+
+-2369985153822692696	Nicole	12/5/14	Jorge	5576 Laurel Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692695	Mia	12/5/14	Tracey	20445 Aloha Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692694	Monica	12/5/14	Ethan	5089 Seventh Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692693	Joan	12/5/14	Tracey	17221 Mesquite Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822692692	Holly	12/5/14	Jorge	7391 Ninth Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692691	Yesenia	12/5/14	Janet	17259 Apache Spring Field, New Cicily
+Good
+
+-2369985153822692690	Faye	12/5/14	Ethan	21631 Center Spring Field, New Cicily
+Bad
+Good
+Ugly
+Ugly
+
+-2369985153822692689	Donna	12/5/14	Jorge	4051 Broadway Spring Field, New Cicily
+Ugly
+
+-2369985153822692688	Rex	12/5/14	Ethan	24563 Malulani Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692687	Sonia	12/5/14	Spencer	14986 Dogwood Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692686	Angelina	12/5/14	Spencer	5773 Quail Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692685	Randall	12/5/14	Jorge	15328 Hill Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692684	Marissa	12/5/14	Tracey	28365 Pecan Spring Field, New Cicily
+Ugly
+
+-2369985153822692683	Linda	12/5/14	Kathleen	7915 Airport Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692682	Tammie	12/5/14	Steven	2675 Pine Spring Field, New Cicily
+Good
+Ugly
+Bad
+Ugly
+
+-2369985153822692681	Lynne	12/6/14	Kathleen	13506 Tenth Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692680	Gina	12/6/14	Ethan	12993 Sycamore Spring Field, New Cicily
+Ugly
+
+-2369985153822692679	Caleb	12/6/14	Janet	11147 Apache Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822692678	Harold	12/6/14	Steven	7506 Narragansett Spring Field, New Cicily
+Good
+
+-2369985153822692677	Yesenia	12/6/14	Kathleen	22713 Kukui Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692676	Joe	12/6/14	Colleen	23320 Pecan Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822692675	Christine	12/6/14	Kathleen	25290 Columbine Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692674	Rosemary	12/6/14	Spencer	23776 Pioneer Spring Field, New Cicily
+Good
+
+-2369985153822692673	Lonnie	12/6/14	Colleen	16409 Kukui Spring Field, New Cicily
+Ugly
+Good
+Bad
+Ugly
+
+-2369985153822692672	Steven	12/6/14	Colleen	4418 Third Spring Field, New Cicily
+Good
+
+-2369985153822692671	Eli	12/6/14	Tracey	19335 Lee Spring Field, New Cicily
+Bad
+
+-2369985153822692670	Stuart	12/6/14	Kathleen	29201 Pioneer Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822692669	Juan	12/6/14	Colleen	17160 Redwood Spring Field, New Cicily
+Ugly
+
+-2369985153822692668	Cindy	12/6/14	Tracey	8790 Twelfth Spring Field, New Cicily
+Bad
+Bad
+Ugly
+Bad
+
+-2369985153822692667	Colleen	12/6/14	Kathleen	3288 Airport Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692666	Alejandro	12/6/14	Ethan	4308 Johnson Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692665	Walter	12/6/14	Janet	23699 Mesquite Spring Field, New Cicily
+Ugly
+
+-2369985153822692664	Kenneth	12/6/14	Tracey	27561 North Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692663	Jody	12/6/14	Janet	17055 North Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692662	Nancy	12/6/14	Tracey	14164 Meadow Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692661	Peggy	12/6/14	Janet	11156 Lee Spring Field, New Cicily
+Ugly
+
+-2369985153822692660	Monica	12/6/14	Spencer	15969 Laurel Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692659	Kathleen	12/6/14	Spencer	12897 Lincoln Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692658	Terri	12/6/14	Tracey	1939 Apache Spring Field, New Cicily
+Bad
+Bad
+Ugly
+Bad
+
+-2369985153822692657	Paul	12/6/14	Spencer	9197 Williams Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692656	Tonya	12/6/14	Janet	5316 S 100 Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692655	Dominic	12/6/14	Steven	20311 Twelfth Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692654	Tiffany	12/6/14	Kathleen	22844 Pleasant Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692653	Chelsey	12/6/14	Steven	21138 Eighth Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+Good
+
+-2369985153822692652	Bruce	12/6/14	Kathleen	28831 Oak Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692651	Vera	12/6/14	Ethan	10881 Cypress Spring Field, New Cicily
+Bad
+
+-2369985153822692650	Oscar	12/6/14	Kathleen	154 Wilson Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692649	Russell	12/7/14	Steven	24838 Pine Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692648	Diana	12/7/14	Steven	4714 S 100 Spring Field, New Cicily
+Ugly
+Good
+Good
+Ugly
+
+-2369985153822692647	Arianna	12/7/14	Tracey	13323 Eleventh Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692646	Owen	12/7/14	Tracey	23520 Smith Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692645	Ethan	12/7/14	Angela	16020 Cedar Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692644	Cynthia	12/7/14	Janet	9598 Seventh Spring Field, New Cicily
+Good
+
+-2369985153822692643	Lonnie	12/7/14	Spencer	13522 Lake Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692642	Richard	12/7/14	Spencer	10395 Wilson Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692641	Lance	12/7/14	Janet	25283 Kansas Spring Field, New Cicily
+Bad
+
+-2369985153822692640	Ruth	12/7/14	Steven	22213 Mesquite Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692639	Rachel	12/7/14	Ethan	9072 Aspen Spring Field, New Cicily
+Good
+
+-2369985153822692638	Elizabeth	12/7/14	Steven	1275 Apache Spring Field, New Cicily
+Good
+
+-2369985153822692637	Cooper	12/7/14	Janet	19181 Magnolia Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692636	Ian	12/7/14	Tracie	11288 Kahili Spring Field, New Cicily
+Good
+
+-2369985153822692635	Marvin	12/7/14	Steven	15292 Wilson Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692634	Susan	12/7/14	Tracey	4946 Sunset Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692633	Joe	12/7/14	Angela	21459 Fourth Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692632	Yvonne	12/7/14	Tracie	17574 Main Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692631	Bruce	12/7/14	Janet	4935 Pecan Spring Field, New Cicily
+Good
+
+-2369985153822692630	Francisco	12/7/14	Steven	610 N 400 Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692629	Ivan	12/7/14	Steven	8748 Cypress Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692628	Sherry	12/7/14	Angela	9780 Pecan Spring Field, New Cicily
+Bad
+Ugly
+Bad
+Bad
+
+-2369985153822692627	Marsha	12/7/14	Tracie	17706 Cypress Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692626	Bryan	12/7/14	Janet	4513 Hickory Spring Field, New Cicily
+Bad
+
+-2369985153822692625	Carlos	12/7/14	Tracie	9531 Lake Spring Field, New Cicily
+Ugly
+
+-2369985153822692624	Marcus	12/7/14	Ethan	11087 Walnut Spring Field, New Cicily
+Bad
+
+-2369985153822692623	Laura	12/7/14	Colleen	13397 Oak Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692622	Corey	12/7/14	Angela	16866 S 100 Spring Field, New Cicily
+Good
+
+-2369985153822692621	Erin	12/7/14	Tracie	14765 Fourth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692620	Frederick	12/7/14	Janet	9827 Ninth Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692619	Henry	12/7/14	Ethan	1620 Hemlock Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+Bad
+
+-2369985153822692618	Elizabeth	12/7/14	Janet	27874 Lake Spring Field, New Cicily
+Good
+
+-2369985153822692617	Heather	12/7/14	Angela	12389 Quail Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692616	Brian	12/7/14	Janet	26130 Aspen Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692615	Clinton	12/7/14	Angela	24126 N 400 Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692614	James	12/7/14	Tracey	9259 Wilson Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692613	Rachael	12/7/14	Tracie	25399 Church Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692612	Julie	12/7/14	Janet	4409 Smith Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692611	Ruth	12/7/14	Spencer	27431 Thirteenth Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692610	Roxanne	12/7/14	Colleen	234 Fifth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692609	Fernando	12/7/14	Janet	19578 Bay Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692608	Bruce	12/7/14	Ethan	9922 Cedar Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692607	Bobby	12/7/14	Tracey	15575 Mountain View Spring Field, New Cicily
+Bad
+
+-2369985153822692606	Desiree	12/7/14	Tracey	22916 Orchard Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692605	Melinda	12/7/14	Colleen	2312 Palo Verde Spring Field, New Cicily
+Ugly
+
+-2369985153822692604	Pedro	12/8/14	Ethan	26980 Lee Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692603	Nichole	12/8/14	Ethan	9211 Redwood Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692602	Jesus	12/8/14	Ethan	3072 Third Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692601	Barbara	12/8/14	Tracey	1487 Delaware Spring Field, New Cicily
+Good
+Good
+Ugly
+Good
+
+-2369985153822692600	Randy	12/8/14	Helen	20953 Fifth Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Good
+
+-2369985153822692599	Jerome	12/8/14	Janet	27179 Birch Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692598	Mikayla	12/8/14	Steven	16899 Pine Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692597	Clarence	12/8/14	Janet	22097 West Spring Field, New Cicily
+Ugly
+
+-2369985153822692596	Cheryl	12/8/14	Ethan	3836 Jackson Spring Field, New Cicily
+Ugly
+
+-2369985153822692595	Brandon	12/8/14	Helen	7598 Fifth Spring Field, New Cicily
+Bad
+Good
+Good
+Bad
+
+-2369985153822692594	Megan	12/8/14	Steven	7011 Delaware Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692593	Rebecca	12/8/14	Ethan	5954 Navajo Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Good
+
+-2369985153822692592	Rebecca	12/8/14	Tracey	11033 Highland Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692591	Jaime	12/8/14	Colleen	25967 Hickory Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692590	Maria	12/8/14	Steven	25239 Apache Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692589	Alexandria	12/8/14	Janet	906 Orchard Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692588	Juan	12/8/14	Janet	19673 Quail Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822692587	Leslie	12/8/14	Helen	8183 First Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822692586	Ricardo	12/8/14	Steven	687 Palo Verde Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692585	Peter	12/8/14	Steven	7118 Cedar Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692584	Jerry	12/8/14	Ethan	10736 Tenth Spring Field, New Cicily
+Bad
+
+-2369985153822692583	Luke	12/8/14	Angela	12498 Apache Spring Field, New Cicily
+Good
+
+-2369985153822692582	Carl	12/8/14	Ethan	11003 Canyon Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692581	Wesley	12/8/14	Ethan	6621 Ridge Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692580	John	12/8/14	Ethan	15711 Highland Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692579	Gail	12/8/14	Helen	19646 Pinon Spring Field, New Cicily
+Good
+
+-2369985153822692578	Larry	12/8/14	Angela	28021 Pinon Spring Field, New Cicily
+Ugly
+Good
+Ugly
+Good
+
+-2369985153822692577	Lloyd	12/8/14	Spencer	29548 Cedar Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692576	Brandon	12/8/14	Janet	19651 Ridge Spring Field, New Cicily
+Good
+
+-2369985153822692575	Beverly	12/8/14	Tracey	5282 Second Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692574	Lee	12/8/14	Steven	4277 N 400 Spring Field, New Cicily
+Good
+Ugly
+Bad
+Good
+
+-2369985153822692573	Suzanne	12/8/14	Helen	7985 Quail Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692572	Daryl	12/8/14	Janet	15033 Smith Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692571	Ethel	12/8/14	Helen	3347 Narragansett Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692570	Jay	12/8/14	Janet	24365 Williams Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692569	Andrew	12/8/14	Ethan	23850 Cypress Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692568	Christy	12/8/14	Tracey	4169 North Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Good
+
+-2369985153822692567	Emma	12/8/14	Steven	28943 Hickory Spring Field, New Cicily
+Ugly
+
+-2369985153822692566	Andrea	12/8/14	Helen	13147 Pioneer Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692565	Leslie	12/8/14	Ethan	14101 County Line Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692564	Phyllis	12/8/14	Tracey	12589 Maple Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692563	Christopher	12/8/14	Steven	26261 Orchard Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692562	Patty	12/8/14	Ethan	23154 Oak Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692561	Kristopher	12/8/14	Colleen	5985 Pioneer Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822692560	Elmer	12/8/14	Janet	6222 Orchard Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692559	Steven	12/8/14	Ethan	1399 Lakeview Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692558	Edward	12/8/14	Colleen	1996 Cherry Spring Field, New Cicily
+Ugly
+
+-2369985153822692557	Jerome	12/8/14	Steven	19989 Navajo Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692556	Caroline	12/8/14	Tracey	10383 Mountain View Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692555	Renee	12/8/14	Janet	23997 Spruce Spring Field, New Cicily
+Ugly
+
+-2369985153822692554	Jill	12/8/14	Angela	6772 Kukui Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692553	Catherine	12/8/14	Janet	9525 Mesquite Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692552	Lynne	12/9/14	Tracey	692 S 100 Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692551	Eileen	12/9/14	Angela	23961 Meadow Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692550	Kendra	12/9/14	Colleen	34 Hillside Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692549	Jennifer	12/9/14	Spencer	23363 Sunset Spring Field, New Cicily
+Ugly
+
+-2369985153822692548	Marcus	12/9/14	Spencer	5637 Magnolia Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692547	Roberta	12/9/14	Spencer	4607 Williams Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692546	Sherri	12/9/14	Ethan	20825 Center Spring Field, New Cicily
+Bad
+
+-2369985153822692545	Peter	12/9/14	Ethan	4526 Tenth Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692544	Deborah	12/9/14	Colleen	12421 Cedar Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692543	Tina	12/9/14	Tracey	20747 Lakeview Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Good
+
+-2369985153822692542	Stanley	12/9/14	Colleen	19061 Hill Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692541	Louise	12/9/14	Helen	17823 Lehua Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692540	Randy	12/9/14	Angela	7638 Ninth Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822692539	Shane	12/9/14	Helen	6638 Pleasant Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692538	Howard	12/9/14	Ethan	21477 Smith Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692537	Kerri	12/9/14	Angela	21054 Hill Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692536	Kelsey	12/9/14	Angela	8728 Birch Spring Field, New Cicily
+Ugly
+
+-2369985153822692535	Shane	12/9/14	Spencer	29341 Walnut Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692534	Jaime	12/9/14	Spencer	28733 Juniper Spring Field, New Cicily
+Good
+
+-2369985153822692533	Elaine	12/9/14	Ethan	28047 Elm Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692532	Richard	12/9/14	Helen	14888 Kansas Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692531	Paula	12/9/14	Spencer	19176 Hampton Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692530	Brad	12/9/14	Tracey	3738 Lehua Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692529	Terrance	12/9/14	Janet	23556 Lincoln Spring Field, New Cicily
+Ugly
+
+-2369985153822692528	Rickey	12/9/14	Ethan	29690 Third Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822692527	Tristan	12/9/14	Steven	6475 Holly Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692526	Monique	12/9/14	Helen	1312 Cottonwood Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692525	Kristen	12/9/14	Helen	27830 Mountain View Spring Field, New Cicily
+Bad
+
+-2369985153822692524	April	12/9/14	Colleen	566 Hemlock Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692523	Mario	12/9/14	Janet	24752 Cherry Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692522	Abigail	12/9/14	Ethan	15293 Cedar Spring Field, New Cicily
+Good
+
+-2369985153822692521	Morgan	12/9/14	Ethan	20410 S 400 Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692520	Joann	12/9/14	Janet	16448 Johnson Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692519	Charlotte	12/9/14	Steven	17816 Hillside Spring Field, New Cicily
+Bad
+
+-2369985153822692518	Tyrone	12/9/14	Spencer	23070 Twelfth Spring Field, New Cicily
+Bad
+
+-2369985153822692517	Caleb	12/9/14	Ethan	15074 Pioneer Spring Field, New Cicily
+Good
+Good
+Good
+Ugly
+
+-2369985153822692516	Philip	12/10/14	Helen	9172 Walnut Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692515	Donald	12/10/14	Colleen	7545 Lee Spring Field, New Cicily
+Good
+
+-2369985153822692514	Virginia	12/10/14	Ethan	5720 Laurel Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692513	Monica	12/10/14	Ethan	26513 Orchard Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692512	Angela	12/10/14	Colleen	22425 Lehua Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692511	Nathaniel	12/10/14	Steven	17732 Cherry Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822692510	Steven	12/10/14	Spencer	17204 Quail Spring Field, New Cicily
+Good
+
+-2369985153822692509	Sabrina	12/10/14	Spencer	22890 West Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692508	Jamie	12/10/14	Angela	8177 Palo Verde Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692507	Daryl	12/10/14	Spencer	24079 Maple Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692506	William	12/10/14	Janet	6636 Pine Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822692505	Terrence	12/10/14	Angela	2091 Tenth Spring Field, New Cicily
+Good
+
+-2369985153822692504	Suzanne	12/10/14	Colleen	29239 Aloha Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692503	Mia	12/10/14	Ethan	5814 Center Spring Field, New Cicily
+Good
+
+-2369985153822692502	Calvin	12/10/14	Ethan	2000 Quail Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692501	Harold	12/10/14	Helen	579 Wilson Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692500	Betty	12/10/14	Helen	26773 Meadow Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692499	Brendan	12/10/14	Colleen	20901 Fifth Spring Field, New Cicily
+Good
+
+-2369985153822692498	Kent	12/10/14	Janet	9040 County Line Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822692497	Howard	12/10/14	Ethan	7297 Lakeview Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692496	Samuel	12/10/14	Steven	13138 Holly Spring Field, New Cicily
+Bad
+
+-2369985153822692495	Christina	12/10/14	Malik	14510 Juniper Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692494	Johnnie	12/10/14	Janet	1071 Spruce Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692493	Bonnie	12/10/14	Steven	9756 Hill Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692492	Manuel	12/10/14	Ethan	286 Hillside Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692491	Frederick	12/10/14	Helen	9827 Ninth Spring Field, New Cicily
+Bad
+Ugly
+Bad
+Ugly
+
+-2369985153822692490	Russell	12/10/14	Malik	24591 County Line Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692489	Linda	12/10/14	Colleen	3198 Walnut Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692488	Denise	12/10/14	Malik	9488 Willow Spring Field, New Cicily
+Good
+
+-2369985153822692487	Joanne	12/10/14	Ethan	4281 Sixth Spring Field, New Cicily
+Bad
+
+-2369985153822692486	Rachel	12/10/14	Steven	2990 Highland Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692485	Edwin	12/10/14	Janet	26486 Sunset Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692484	Nicole	12/10/14	Spencer	5576 Laurel Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692483	Patrick	12/10/14	Helen	15387 Third Spring Field, New Cicily
+Bad
+Good
+Ugly
+Bad
+
+-2369985153822692482	Erin	12/10/14	Spencer	28226 Hill Spring Field, New Cicily
+Ugly
+
+-2369985153822692481	William	12/10/14	Ethan	804 Orchard Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692480	Samantha	12/10/14	Ethan	29411 Kahili Spring Field, New Cicily
+Bad
+Bad
+Good
+Good
+
+-2369985153822692479	Colin	12/10/14	Malik	12519 Quail Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692478	Jessie	12/10/14	Ethan	22406 Church Spring Field, New Cicily
+Bad
+
+-2369985153822692477	Marcus	12/10/14	Angela	8887 West Spring Field, New Cicily
+Bad
+
+-2369985153822692476	Leah	12/10/14	Malik	9591 Spruce Spring Field, New Cicily
+Good
+
+-2369985153822692475	Katrina	12/10/14	Ethan	26248 Meadow Spring Field, New Cicily
+Good
+Ugly
+Good
+Ugly
+
+-2369985153822692474	Jerome	12/10/14	Spencer	20682 Holly Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692473	Stacie	12/10/14	Steven	22780 Mountain View Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692472	Kim	12/10/14	Janet	9575 Sunset Spring Field, New Cicily
+Ugly
+
+-2369985153822692471	Levi	12/10/14	Ethan	21552 Pine Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822692470	Philip	12/10/14	Angela	23819 Main Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692469	Pedro	12/11/14	Malik	26980 Lee Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692468	Katherine	12/11/14	Janet	19285 Mesquite Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692467	Carl	12/11/14	Malik	27154 Oak Spring Field, New Cicily
+Bad
+
+-2369985153822692466	Louise	12/11/14	Angela	2145 Mountain View Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822692465	June	12/11/14	Helen	1341 A Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692464	Angie	12/11/14	Helen	16211 Evergreen Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692463	Erik	12/11/14	Janet	18983 Jackson Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692462	Jesse	12/11/14	Ethan	12830 Sixth Spring Field, New Cicily
+Bad
+
+-2369985153822692461	Katelyn	12/11/14	Helen	5835 Pioneer Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692460	Calvin	12/11/14	Helen	1945 Canyon Spring Field, New Cicily
+Ugly
+
+-2369985153822692459	Mindy	12/11/14	Ethan	19382 Apache Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692458	Bernice	12/11/14	Ethan	12520 Quail Spring Field, New Cicily
+Ugly
+
+-2369985153822692457	Nicole	12/11/14	Colleen	27929 Quail Spring Field, New Cicily
+Good
+
+-2369985153822692456	Brianna	12/11/14	Colleen	5279 Canyon Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692455	Cecil	12/11/14	Ethan	29767 Maple Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692454	Ted	12/11/14	Helen	12560 Mesquite Spring Field, New Cicily
+Bad
+Good
+Ugly
+Good
+
+-2369985153822692453	Danny	12/11/14	Malik	25322 Broadway Spring Field, New Cicily
+Ugly
+
+-2369985153822692452	Shane	12/11/14	Janet	29527 Smith Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692451	Joe	12/11/14	Janet	21459 Fourth Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692450	Zachary	12/11/14	Donovan	24168 Cottonwood Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692449	Kimberly	12/11/14	Colleen	21773 Pioneer Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692448	Natasha	12/11/14	Janet	13242 Airport Spring Field, New Cicily
+Ugly
+
+-2369985153822692447	Manuel	12/11/14	Colleen	19973 Center Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822692446	Kent	12/11/14	Donovan	20780 First Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692445	Valerie	12/11/14	Janet	9267 Twelfth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692444	Andrea	12/11/14	Angela	11997 Meadow Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692443	Holly	12/11/14	Helen	8167 Cedar Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692442	Ann	12/11/14	Ethan	18329 Delaware Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692441	George	12/11/14	Ethan	4635 Mountain View Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692440	Robert	12/11/14	Malik	8461 Meadow Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692439	Jack	12/11/14	Colleen	19802 Williams Spring Field, New Cicily
+Good
+
+-2369985153822692438	Jenna	12/11/14	Donovan	2482 Eleventh Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692437	Jerry	12/11/14	Ethan	9229 River Spring Field, New Cicily
+Ugly
+
+-2369985153822692436	Phyllis	12/11/14	Helen	6388 Washington Spring Field, New Cicily
+Good
+
+-2369985153822692435	Monica	12/11/14	Donovan	12796 Fourth Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692434	Kristie	12/11/14	Janet	22911 Juniper Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692433	Ronald	12/11/14	Spencer	12055 Pinon Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692432	Jennifer	12/11/14	Donovan	23436 Center Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692431	Edwin	12/11/14	Janet	8779 Johnson Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692430	Thomas	12/11/14	Colleen	27743 Lakeview Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692429	Marie	12/11/14	Ethan	20726 County Line Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692428	Faye	12/11/14	Colleen	21631 Center Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822692427	Leon	12/11/14	Donovan	1793 Laurel Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692426	Michelle	12/11/14	Malik	777 N 400 Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692425	Geraldine	12/11/14	Spencer	28750 River Spring Field, New Cicily
+Bad
+
+-2369985153822692424	Lisa	12/11/14	Ethan	12546 Oak Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692423	Genesis	12/12/14	Ethan	19015 S 100 Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692422	Hugh	12/12/14	Janet	18494 Main Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692421	Francisco	12/12/14	Malik	25996 Main Spring Field, New Cicily
+Ugly
+
+-2369985153822692420	Connor	12/12/14	Spencer	1970 Fifth Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692419	Gabrielle	12/12/14	Ethan	26474 Holly Spring Field, New Cicily
+Bad
+
+-2369985153822692418	Yvonne	12/12/14	Malik	22098 Lee Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692417	Vicki	12/12/14	Spencer	23930 Tenth Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692416	Maryann	12/12/14	Angela	11602 Hampton Spring Field, New Cicily
+Bad
+
+-2369985153822692415	Andrea	12/12/14	Donovan	26348 Sixth Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822692414	Patricia	12/12/14	Helen	21559 Walnut Spring Field, New Cicily
+Ugly
+
+-2369985153822692413	Delaney	12/12/14	Malik	25340 Meadow Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692412	Brooklyn	12/12/14	Ethan	27825 Sycamore Spring Field, New Cicily
+Ugly
+Good
+Good
+Ugly
+
+-2369985153822692411	Ricardo	12/12/14	Malik	19561 Apache Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692410	Sergio	12/12/14	Janet	18326 Orchard Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692409	Elizabeth	12/12/14	Ethan	29022 Pinon Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692408	Jerome	12/12/14	Janet	26840 Pine Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692407	Manuel	12/12/14	Janet	13381 County Line Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692406	Brady	12/12/14	Malik	29144 Aloha Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822692405	Wallace	12/12/14	Donovan	12593 Pleasant Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692404	Jeanette	12/12/14	Ethan	26382 First Spring Field, New Cicily
+Good
+
+-2369985153822692403	Steven	12/12/14	Malik	29248 Park Spring Field, New Cicily
+Good
+Bad
+Ugly
+Ugly
+
+-2369985153822692402	Alexandra	12/12/14	Helen	27044 Ninth Spring Field, New Cicily
+Good
+
+-2369985153822692401	Yvette	12/12/14	Helen	21911 Pine Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692400	Ronald	12/12/14	Angela	23349 Lee Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692399	Sarah	12/12/14	Donovan	26505 Meadow Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692398	Carmen	12/12/14	Helen	18733 Hemlock Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692397	Madeline	12/12/14	Colleen	26300 Magnolia Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692396	Joyce	12/12/14	Spencer	5058 Evergreen Spring Field, New Cicily
+Good
+
+-2369985153822692395	Denise	12/12/14	Malik	9488 Willow Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692394	Eugene	12/12/14	Helen	20128 Cypress Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692393	Jenna	12/12/14	Spencer	2482 Eleventh Spring Field, New Cicily
+Good
+Good
+Bad
+Bad
+
+-2369985153822692392	Jerry	12/12/14	Helen	9229 River Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692391	Edwin	12/12/14	Ethan	23917 Willow Spring Field, New Cicily
+Good
+
+-2369985153822692390	Chase	12/12/14	Donovan	9639 Main Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692389	Nicolas	12/12/14	Janet	6776 Sycamore Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692388	Matthew	12/12/14	Spencer	7201 Eleventh Spring Field, New Cicily
+Bad
+
+-2369985153822692387	Rodney	12/12/14	Angela	28421 Church Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692386	Brian	12/12/14	Donovan	12482 Cypress Spring Field, New Cicily
+Bad
+
+-2369985153822692385	Eva	12/12/14	Janet	3838 A Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692384	Kyle	12/12/14	Janet	21287 S 100 Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692383	Michelle	12/12/14	Malik	29046 River Spring Field, New Cicily
+Bad
+
+-2369985153822692382	Oscar	12/12/14	Helen	16674 Orchard Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692381	Carl	12/12/14	Donovan	27663 Kahili Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822692380	Luis	12/12/14	Donovan	19825 Cottonwood Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Ugly
+
+-2369985153822692379	Bailey	12/12/14	Malik	262 Smith Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692378	Carolyn	12/12/14	Janet	6225 Lakeview Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692377	Norma	12/12/14	Ethan	10901 Wood Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692376	Meghan	12/13/14	Spencer	16096 Holly Spring Field, New Cicily
+Good
+
+-2369985153822692375	Tom	12/13/14	Malik	2730 Columbine Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692374	Billy	12/13/14	Ethan	21166 Church Spring Field, New Cicily
+Good
+
+-2369985153822692373	Audrey	12/13/14	Spencer	7399 Pioneer Spring Field, New Cicily
+Bad
+Bad
+Bad
+Bad
+
+-2369985153822692372	Jean	12/13/14	Malik	10347 Eleventh Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692371	Sylvia	12/13/14	Colleen	19834 Cherry Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692370	Jade	12/13/14	Malik	24140 Apache Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692369	Geraldine	12/13/14	Janet	15227 Birch Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692368	Mike	12/13/14	Helen	4148 Lincoln Spring Field, New Cicily
+Ugly
+
+-2369985153822692367	Eva	12/13/14	Donovan	8661 Pleasant Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692366	Regina	12/13/14	Malik	6311 Spruce Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692365	Aubrey	12/13/14	Donovan	354 Pine Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692364	Audrey	12/13/14	Ethan	21311 Lehua Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692363	Mark	12/13/14	Ethan	8153 North Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692362	Destiny	12/13/14	Angela	25804 Mountain View Spring Field, New Cicily
+Ugly
+
+-2369985153822692361	Adam	12/13/14	Malik	7710 Park Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692360	Alfred	12/13/14	Donovan	28295 Pine Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692359	Anna	12/13/14	Janet	28410 Quail Spring Field, New Cicily
+Good
+Ugly
+Bad
+Bad
+
+-2369985153822692358	Doris	12/13/14	Janet	28272 Cedar Spring Field, New Cicily
+Good
+Bad
+Ugly
+Good
+
+-2369985153822692357	Troy	12/13/14	Angela	6550 Hillside Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692356	Terri	12/13/14	Colleen	13895 Quail Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692355	Stephen	12/13/14	Angela	8076 Holly Spring Field, New Cicily
+Bad
+Bad
+Bad
+Good
+
+-2369985153822692354	Eddie	12/13/14	Angela	24078 Redwood Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692353	Jasmine	12/13/14	Janet	9731 West Spring Field, New Cicily
+Ugly
+Bad
+Good
+Bad
+
+-2369985153822692352	Lucas	12/13/14	Angela	2987 Navajo Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692351	Teresa	12/13/14	Malik	26210 Navajo Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692350	Jared	12/13/14	Donovan	1018 Redwood Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692349	Tracey	12/13/14	Spencer	25061 Williams Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692348	Doris	12/13/14	Malik	481 Lake Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692347	Leonard	12/13/14	Spencer	19021 Fourth Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692346	Omar	12/13/14	Helen	13762 Second Spring Field, New Cicily
+Bad
+
+-2369985153822692345	Sandra	12/13/14	Angela	29216 Aspen Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692344	Felicia	12/13/14	Malik	25036 Pioneer Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822692343	Ronnie	12/13/14	Janet	17049 Second Spring Field, New Cicily
+Bad
+
+-2369985153822692342	Connor	12/13/14	Spencer	18372 Sycamore Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692341	Kendra	12/13/14	Helen	2449 Juniper Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692340	Donna	12/13/14	Donovan	4051 Broadway Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692339	Ellie	12/13/14	Donovan	14806 Fourth Spring Field, New Cicily
+Good
+
+-2369985153822692338	Frederick	12/13/14	Donovan	5451 Hampton Spring Field, New Cicily
+Good
+
+-2369985153822692337	Sergio	12/13/14	Donovan	14836 Oak Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692336	Michelle	12/13/14	Malik	777 N 400 Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692335	Serenity	12/13/14	Colleen	3813 Lake Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692334	Sabrina	12/13/14	Malik	23833 Laurel Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692333	Brittany	12/14/14	Colleen	25430 Ninth Spring Field, New Cicily
+Bad
+
+-2369985153822692332	Stefanie	12/14/14	Ethan	4172 Malulani Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692331	Sherry	12/14/14	Janet	11782 County Line Spring Field, New Cicily
+Bad
+
+-2369985153822692330	Kerry	12/14/14	Malik	8088 Narragansett Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822692329	Elizabeth	12/14/14	Helen	1275 Apache Spring Field, New Cicily
+Ugly
+Good
+Good
+Ugly
+
+-2369985153822692328	Brittany	12/14/14	Helen	24434 Hampton Spring Field, New Cicily
+Good
+
+-2369985153822692327	Richard	12/14/14	Angela	14317 Twelfth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692326	Priscilla	12/14/14	Helen	6612 Pine Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692325	Tina	12/14/14	Spencer	20747 Lakeview Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692324	Karen	12/14/14	Janet	20649 Kahili Spring Field, New Cicily
+Ugly
+
+-2369985153822692323	Mercedes	12/14/14	Helen	25174 Cedar Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692322	Andre	12/14/14	Janet	13241 Hickory Spring Field, New Cicily
+Good
+Good
+Ugly
+Good
+
+-2369985153822692321	Keith	12/14/14	Colleen	28411 Johnson Spring Field, New Cicily
+Good
+Ugly
+Good
+Bad
+
+-2369985153822692320	Kendra	12/14/14	Malik	29807 S 400 Spring Field, New Cicily
+Good
+
+-2369985153822692319	Gary	12/14/14	Colleen	29677 Williams Spring Field, New Cicily
+Good
+
+-2369985153822692318	Jeremy	12/14/14	Ethan	26838 S 100 Spring Field, New Cicily
+Bad
+
+-2369985153822692317	Tony	12/14/14	Colleen	2554 Hemlock Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692316	Eileen	12/14/14	Helen	1025 Lakeview Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692315	Meredith	12/14/14	Janet	19520 Willow Spring Field, New Cicily
+Good
+
+-2369985153822692314	Martin	12/14/14	Donovan	23117 S 100 Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692313	Chelsey	12/14/14	Malik	26001 Juniper Spring Field, New Cicily
+Bad
+
+-2369985153822692312	Joan	12/14/14	Helen	27896 Center Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692311	Kimberly	12/14/14	Angela	18008 West Spring Field, New Cicily
+Ugly
+
+-2369985153822692310	Stephen	12/14/14	Helen	28743 Ridge Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692309	Aidan	12/14/14	Colleen	4929 Washington Spring Field, New Cicily
+Good
+
+-2369985153822692308	Freddie	12/14/14	Helen	16482 Ninth Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692307	Martha	12/14/14	Spencer	21707 Sycamore Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692306	Tracy	12/14/14	Spencer	19661 S 100 Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692305	Harold	12/14/14	Angela	1746 Malulani Spring Field, New Cicily
+Bad
+
+-2369985153822692304	Jesus	12/14/14	Janet	10462 Holly Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822692303	Yvonne	12/14/14	Donovan	25493 Columbine Spring Field, New Cicily
+Ugly
+Good
+Bad
+Bad
+
+-2369985153822692302	Reginald	12/14/14	Colleen	28147 County Line Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692301	Nathan	12/14/14	Colleen	3108 Wilson Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692300	Edna	12/14/14	Colleen	17309 Birch Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692299	Xavier	12/14/14	Janet	17675 Kansas Spring Field, New Cicily
+Good
+
+-2369985153822692298	Pauline	12/14/14	Colleen	28736 Second Spring Field, New Cicily
+Good
+Ugly
+Ugly
+Good
+
+-2369985153822692297	Erin	12/14/14	Malik	8614 Hampton Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692296	Marco	12/14/14	Colleen	19597 Smith Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692295	Jose	12/14/14	Colleen	16861 Quail Spring Field, New Cicily
+Good
+
+-2369985153822692294	Edward	12/14/14	Angela	1996 Cherry Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822692293	Anita	12/14/14	Janet	16327 Quail Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692292	Vincent	12/14/14	Colleen	28315 N 400 Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692291	Karina	12/14/14	Donovan	12554 Evergreen Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692290	Carly	12/14/14	Colleen	25538 Cypress Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692289	Phillip	12/14/14	Angela	6923 Meadow Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692288	Bobby	12/14/14	Malik	15575 Mountain View Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692287	Jocelyn	12/14/14	Colleen	22756 Narragansett Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692286	Michele	12/15/14	Helen	19302 Juniper Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692285	Leroy	12/15/14	Janet	21439 Navajo Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692284	Douglas	12/15/14	Janet	12208 Pleasant Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822692283	Daniel	12/15/14	Spencer	6026 Oak Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692282	Tammy	12/15/14	Helen	29927 Thirteenth Spring Field, New Cicily
+Good
+
+-2369985153822692281	Deanna	12/15/14	Spencer	13153 Main Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692280	Johnathan	12/15/14	Janet	27863 Columbine Spring Field, New Cicily
+Good
+Good
+Ugly
+Bad
+
+-2369985153822692279	Jeffery	12/15/14	Helen	16797 Williams Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692278	David	12/15/14	Malik	2688 Sixth Spring Field, New Cicily
+Bad
+
+-2369985153822692277	Stacy	12/15/14	Helen	1552 Hillside Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692276	Danny	12/15/14	Donovan	25322 Broadway Spring Field, New Cicily
+Good
+
+-2369985153822692275	Shane	12/15/14	Helen	29341 Walnut Spring Field, New Cicily
+Bad
+
+-2369985153822692274	Nevaeh	12/15/14	Colleen	8521 Thirteenth Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692273	Bertha	12/15/14	Colleen	6241 Bay Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692272	Donald	12/15/14	Spencer	29984 Highland Spring Field, New Cicily
+Ugly
+
+-2369985153822692271	Ruth	12/15/14	Malik	74 Columbine Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692270	Carmen	12/15/14	Janet	18733 Hemlock Spring Field, New Cicily
+Ugly
+
+-2369985153822692269	Bianca	12/15/14	Janet	15804 Mountain View Spring Field, New Cicily
+Ugly
+
+-2369985153822692268	Bryce	12/15/14	Angela	9006 Meadow Spring Field, New Cicily
+Ugly
+Good
+Good
+Ugly
+
+-2369985153822692267	Audrey	12/15/14	Helen	1017 Shore Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692266	Andre	12/15/14	Malik	8446 Apache Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692265	Claudia	12/15/14	Spencer	8728 Hillside Spring Field, New Cicily
+Good
+Good
+Ugly
+Good
+
+-2369985153822692264	Frances	12/15/14	Ethan	24178 Hickory Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692263	Kiara	12/15/14	Colleen	17520 Ridge Spring Field, New Cicily
+Good
+
+-2369985153822692262	Tony	12/15/14	Helen	21045 Center Spring Field, New Cicily
+Ugly
+
+-2369985153822692261	Shelley	12/15/14	Donovan	11817 Ridge Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692260	Catherine	12/15/14	Helen	17403 Redwood Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692259	Christopher	12/15/14	Janet	25862 Jackson Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692258	Matthew	12/15/14	Helen	15461 Eighth Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692257	Zoe	12/15/14	Malik	27057 A Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692256	Ricky	12/15/14	Ethan	3461 County Line Spring Field, New Cicily
+Bad
+
+-2369985153822692255	Diana	12/15/14	Donovan	3162 West Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692254	Elijah	12/15/14	Spencer	28522 A Spring Field, New Cicily
+Good
+
+-2369985153822692253	Krystal	12/15/14	Malik	6566 Shore Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692252	Angel	12/15/14	Ethan	19765 Church Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692251	Ricardo	12/15/14	Spencer	19875 Quail Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692250	Tonya	12/15/14	Malik	5316 S 100 Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692249	Christian	12/15/14	Helen	12545 N 400 Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692248	Oscar	12/15/14	Angela	154 Wilson Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692247	Stacy	12/16/14	Spencer	8464 Lincoln Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692246	Martha	12/16/14	Angela	19772 Elm Spring Field, New Cicily
+Bad
+
+-2369985153822692245	Clayton	12/16/14	Helen	21596 Narragansett Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692244	Ian	12/16/14	Ethan	28806 Hillside Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692243	Daniel	12/16/14	Cory	6174 Palo Verde Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692242	Juan	12/16/14	Angela	25055 Mountain View Spring Field, New Cicily
+Ugly
+
+-2369985153822692241	Brian	12/16/14	Cory	4182 Fifth Spring Field, New Cicily
+Bad
+
+-2369985153822692240	Cynthia	12/16/14	Ethan	6004 Airport Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692239	Sherri	12/16/14	Janet	20032 Park Spring Field, New Cicily
+Bad
+Ugly
+Bad
+Good
+
+-2369985153822692238	Kathryn	12/16/14	Donovan	21104 Oak Spring Field, New Cicily
+Bad
+
+-2369985153822692237	Daniel	12/16/14	Donovan	27840 Center Spring Field, New Cicily
+Bad
+Bad
+Good
+Bad
+
+-2369985153822692236	Sylvia	12/16/14	Ethan	19834 Cherry Spring Field, New Cicily
+Good
+
+-2369985153822692235	Melanie	12/16/14	Helen	14745 Maple Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692234	Jillian	12/16/14	Ethan	23360 Twelfth Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692233	Hannah	12/16/14	Spencer	21961 Tenth Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822692232	Shawn	12/16/14	Janet	11619 Evergreen Spring Field, New Cicily
+Good
+
+-2369985153822692231	Gabriela	12/16/14	Angela	14287 Cottonwood Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692230	Eva	12/16/14	Spencer	8661 Pleasant Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692229	Leslie	12/16/14	Ethan	4209 Airport Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692228	Krista	12/16/14	Cory	18642 Kukui Spring Field, New Cicily
+Bad
+
+-2369985153822692227	Joseph	12/16/14	Donovan	29143 Highland Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692226	Carmen	12/16/14	Janet	25788 Mountain View Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822692225	Jay	12/16/14	Helen	7667 Williams Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822692224	Tyler	12/16/14	Donovan	25741 Canyon Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692223	Jesus	12/16/14	Donovan	14726 Shore Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692222	Bryan	12/16/14	Helen	4668 Washington Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692221	Kirk	12/16/14	Ethan	1240 Lincoln Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692220	Bill	12/16/14	Donovan	21909 Meadow Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692219	Gina	12/16/14	Donovan	19723 Shore Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692218	Kathryn	12/16/14	Colleen	22216 River Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692217	Levi	12/16/14	Donovan	8507 Navajo Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822692216	Joshua	12/16/14	Ethan	10491 Apache Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692215	Hector	12/16/14	Donovan	17205 Wood Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692214	Jeffery	12/16/14	Cory	17475 Thirteenth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692213	Jeff	12/16/14	Spencer	18804 Cherry Spring Field, New Cicily
+Good
+
+-2369985153822692212	Joel	12/16/14	Cory	993 Third Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822692211	Matthew	12/16/14	Ethan	28444 Quail Spring Field, New Cicily
+Ugly
+
+-2369985153822692210	Kristine	12/16/14	Helen	9421 Evergreen Spring Field, New Cicily
+Bad
+Bad
+Bad
+Ugly
+
+-2369985153822692209	Kari	12/16/14	Donovan	6560 Center Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692208	Tiffany	12/16/14	Spencer	7223 Pine Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692207	Danielle	12/16/14	Spencer	7814 Palo Verde Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692206	Aaron	12/16/14	Janet	23951 Lee Spring Field, New Cicily
+Bad
+
+-2369985153822692205	Jack	12/16/14	Ethan	27402 Aloha Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692204	Fred	12/16/14	Colleen	8738 Dogwood Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692203	Lewis	12/16/14	Cory	27240 Eighth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692202	Jimmy	12/16/14	Janet	9784 Wood Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692201	William	12/16/14	Janet	28826 Magnolia Spring Field, New Cicily
+Good
+
+-2369985153822692200	Blake	12/16/14	Helen	5320 N 400 Spring Field, New Cicily
+Good
+Ugly
+Bad
+Ugly
+
+-2369985153822692199	Omar	12/16/14	Helen	19836 Sunset Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692198	Kathy	12/16/14	Angela	20003 Kahili Spring Field, New Cicily
+Ugly
+Good
+Ugly
+Good
+
+-2369985153822692197	Chelsey	12/17/14	Molly	5080 Wood Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692196	Michele	12/17/14	Molly	19302 Juniper Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692195	Philip	12/17/14	Spencer	29554 Pecan Spring Field, New Cicily
+Ugly
+
+-2369985153822692194	Maureen	12/17/14	Cory	7691 Cherry Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692193	Sharon	12/17/14	Molly	27796 Sycamore Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692192	Mary	12/17/14	Angela	26569 Hickory Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692191	Rebecca	12/17/14	Colleen	25793 Twelfth Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692190	Joyce	12/17/14	Helen	4656 Magnolia Spring Field, New Cicily
+Bad
+
+-2369985153822692189	Garrett	12/17/14	Cory	2725 Navajo Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822692188	Jason	12/17/14	Janet	28806 Evergreen Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692187	Gerard	12/17/14	Cory	20608 Hickory Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692186	Tina	12/17/14	Angela	18671 Cedar Spring Field, New Cicily
+Good
+
+-2369985153822692185	Benjamin	12/17/14	Spencer	24275 Pleasant Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692184	Doris	12/17/14	Cory	15512 County Line Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692183	Terry	12/17/14	Spencer	29796 Juniper Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692182	Kurt	12/17/14	Spencer	7542 Main Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692181	Madeline	12/17/14	Ethan	12312 Park Spring Field, New Cicily
+Ugly
+Bad
+Good
+Bad
+
+-2369985153822692180	Jon	12/17/14	Ethan	18023 Kahili Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692179	Phillip	12/17/14	Angela	12160 Thirteenth Spring Field, New Cicily
+Good
+Ugly
+Good
+Ugly
+
+-2369985153822692178	Fernando	12/17/14	Ethan	9218 S 100 Spring Field, New Cicily
+Good
+
+-2369985153822692177	Jeffrey	12/17/14	Ethan	25392 Hillside Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692176	Marcus	12/17/14	Janet	11087 Walnut Spring Field, New Cicily
+Bad
+
+-2369985153822692175	Cassandra	12/17/14	Ethan	19952 Jackson Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692174	Russell	12/17/14	Cory	24591 County Line Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692173	Roger	12/17/14	Helen	477 Navajo Spring Field, New Cicily
+Bad
+Good
+Bad
+Bad
+
+-2369985153822692172	Douglas	12/17/14	Ethan	3757 Redwood Spring Field, New Cicily
+Bad
+
+-2369985153822692171	Andre	12/17/14	Cory	4061 Pinon Spring Field, New Cicily
+Good
+
+-2369985153822692170	Shaun	12/17/14	Cory	3563 Mountain View Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692169	Abigail	12/17/14	Helen	2491 Hemlock Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692168	Thomas	12/17/14	Spencer	17062 Palo Verde Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692167	Andre	12/17/14	Janet	21210 Aloha Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822692166	Monica	12/17/14	Helen	12796 Fourth Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822692165	Mario	12/17/14	Angela	21894 Kukui Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692164	Danielle	12/17/14	Ethan	11320 Sunset Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692163	Amy	12/17/14	Cory	23631 Washington Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+Ugly
+
+-2369985153822692162	Kaitlyn	12/17/14	Spencer	7727 S 400 Spring Field, New Cicily
+Ugly
+
+-2369985153822692161	Eric	12/17/14	Helen	26142 Spruce Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692160	Desiree	12/17/14	Colleen	22916 Orchard Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692159	Amy	12/17/14	Angela	9265 Navajo Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692158	Helen	12/17/14	Ethan	24506 Wilson Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692157	Karen	12/17/14	Spencer	28120 Hampton Spring Field, New Cicily
+Ugly
+
+-2369985153822692156	Samuel	12/18/14	Ethan	12889 Washington Spring Field, New Cicily
+Good
+
+-2369985153822692155	Patrick	12/18/14	Angela	22462 Mesquite Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692154	Audrey	12/18/14	Cory	2432 First Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692153	Kaitlyn	12/18/14	Spencer	10676 Holly Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692152	Colleen	12/18/14	Colleen	15224 Hill Spring Field, New Cicily
+Good
+
+-2369985153822692151	Jesse	12/18/14	Helen	12830 Sixth Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692150	Bernice	12/18/14	Molly	12520 Quail Spring Field, New Cicily
+Bad
+Good
+Good
+Bad
+
+-2369985153822692149	Tina	12/18/14	Ethan	8657 Quail Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692148	Matthew	12/18/14	Cory	21786 Willow Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692147	Wesley	12/18/14	Spencer	8497 Pecan Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692146	Mike	12/18/14	Spencer	4148 Lincoln Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692145	Danielle	12/18/14	Colleen	22060 Apache Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692144	Lee	12/18/14	Ethan	22890 Lake Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692143	Alexander	12/18/14	Diane	18552 Washington Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692142	Kurt	12/18/14	Angela	18879 Redwood Spring Field, New Cicily
+Ugly
+
+-2369985153822692141	Avery	12/18/14	Colleen	24447 Aloha Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692140	Bernard	12/18/14	Molly	3689 Pine Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692139	Addison	12/18/14	Cory	3876 Malulani Spring Field, New Cicily
+Ugly
+Bad
+Bad
+Bad
+
+-2369985153822692138	Charles	12/18/14	Ethan	2526 Pecan Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692137	Tony	12/18/14	Diane	21817 Fourth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692136	Jaime	12/18/14	Spencer	28733 Juniper Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692135	Tristan	12/18/14	Helen	26661 Evergreen Spring Field, New Cicily
+Bad
+Good
+Ugly
+Bad
+
+-2369985153822692134	Penny	12/18/14	Helen	7802 West Spring Field, New Cicily
+Good
+Ugly
+Good
+Good
+
+-2369985153822692133	Jon	12/18/14	Diane	18023 Kahili Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692132	Bennie	12/18/14	Spencer	2006 Main Spring Field, New Cicily
+Ugly
+
+-2369985153822692131	Elaine	12/18/14	Diane	28047 Elm Spring Field, New Cicily
+Good
+
+-2369985153822692130	Christy	12/18/14	Cory	19982 Smith Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692129	Jim	12/18/14	Cory	14554 Highland Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692128	Jesus	12/18/14	Helen	10462 Holly Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692127	Monica	12/18/14	Molly	28545 Lincoln Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692126	Mark	12/18/14	Angela	5364 Fifth Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692125	Terry	12/18/14	Ethan	15393 Malulani Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692124	Edith	12/18/14	Colleen	4703 Cottonwood Spring Field, New Cicily
+Good
+
+-2369985153822692123	Doris	12/18/14	Cory	22004 Seventh Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692122	Darren	12/18/14	Colleen	26419 Jackson Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692121	Mason	12/18/14	Ethan	22705 Eleventh Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692120	Alexia	12/18/14	Diane	18268 Cottonwood Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692119	Betty	12/18/14	Cory	29539 First Spring Field, New Cicily
+Good
+Bad
+Ugly
+Ugly
+
+-2369985153822692118	Carl	12/18/14	Diane	17443 Mountain View Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692117	Monica	12/18/14	Angela	15969 Laurel Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692116	Marcia	12/18/14	Spencer	17860 Sunset Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692115	Harold	12/18/14	Helen	20269 Hickory Spring Field, New Cicily
+Ugly
+
+-2369985153822692114	Lucy	12/18/14	Colleen	23543 Dogwood Spring Field, New Cicily
+Good
+
+-2369985153822692113	Francisco	12/18/14	Molly	18632 S 400 Spring Field, New Cicily
+Bad
+
+-2369985153822692112	Skylar	12/18/14	Molly	3807 Narragansett Spring Field, New Cicily
+Bad
+
+-2369985153822692111	Joel	12/18/14	Diane	18621 Lee Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692110	Luis	12/18/14	Diane	3735 Pine Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692109	Zachary	12/19/14	Ethan	22524 Ridge Spring Field, New Cicily
+Ugly
+
+-2369985153822692108	Dolores	12/19/14	Ethan	19700 Lincoln Spring Field, New Cicily
+Ugly
+
+-2369985153822692107	Victoria	12/19/14	Ethan	16521 Wilson Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692106	Angie	12/19/14	Molly	16211 Evergreen Spring Field, New Cicily
+Ugly
+
+-2369985153822692105	Richard	12/19/14	Molly	14317 Twelfth Spring Field, New Cicily
+Bad
+
+-2369985153822692104	Alan	12/19/14	Angela	2410 Elm Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822692103	Trevor	12/19/14	Molly	16455 Willow Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692102	Earl	12/19/14	Spencer	13811 Narragansett Spring Field, New Cicily
+Bad
+
+-2369985153822692101	Maryann	12/19/14	Spencer	11602 Hampton Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692100	Darlene	12/19/14	Angela	4007 Lehua Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692099	Jack	12/19/14	Ethan	14788 Williams Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692098	Andre	12/19/14	Cory	29414 Lehua Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692097	Lindsay	12/19/14	Helen	16744 Church Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692096	Dennis	12/19/14	Colleen	22013 Walnut Spring Field, New Cicily
+Bad
+Good
+Good
+Ugly
+
+-2369985153822692095	Douglas	12/19/14	Spencer	21939 Dogwood Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692094	Betty	12/19/14	Helen	10234 Holly Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692093	Martha	12/19/14	Ethan	26760 Williams Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822692092	Max	12/19/14	Ethan	27899 Navajo Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692091	Lawrence	12/19/14	Helen	1491 A Spring Field, New Cicily
+Good
+
+-2369985153822692090	Cynthia	12/19/14	Angela	7203 Quail Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692089	Billy	12/19/14	Angela	27288 Oak Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692088	Breanna	12/19/14	Molly	29601 Eleventh Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692087	Jazmin	12/19/14	Helen	25153 Delaware Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692086	Adriana	12/19/14	Angela	22421 Hampton Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822692085	Cassandra	12/19/14	Colleen	19952 Jackson Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692084	George	12/19/14	Diane	4635 Mountain View Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692083	Chelsea	12/19/14	Molly	17680 Bay Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692082	Veronica	12/19/14	Diane	3315 Mountain View Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692081	Amelia	12/19/14	Helen	13803 Hill Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692080	John	12/19/14	Cory	14242 Aloha Spring Field, New Cicily
+Good
+
+-2369985153822692079	Ashley	12/19/14	Ethan	5455 Fifth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692078	Ruth	12/19/14	Molly	17929 Palo Verde Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692077	Andrea	12/19/14	Spencer	13147 Pioneer Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692076	Traci	12/19/14	Helen	17884 Fourth Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822692075	Sally	12/19/14	Ethan	12124 Smith Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692074	Penny	12/19/14	Colleen	10671 Canyon Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692073	Heather	12/19/14	Molly	27527 West Spring Field, New Cicily
+Ugly
+
+-2369985153822692072	Guy	12/19/14	Cory	20352 Third Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692071	Ronnie	12/19/14	Molly	14237 Evergreen Spring Field, New Cicily
+Bad
+
+-2369985153822692070	Irene	12/19/14	Angela	18083 Jackson Spring Field, New Cicily
+Good
+Bad
+Good
+Bad
+
+-2369985153822692069	Allison	12/19/14	Helen	15928 Kahili Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692068	Diana	12/19/14	Angela	20163 Main Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692067	Nancy	12/19/14	Colleen	6927 Wilson Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822692066	Deanna	12/19/14	Spencer	22776 Airport Spring Field, New Cicily
+Bad
+
+-2369985153822692065	Daniel	12/20/14	Jack	6174 Palo Verde Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692064	Russell	12/20/14	Helen	13709 Aspen Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822692063	Maurice	12/20/14	Jack	20454 Jackson Spring Field, New Cicily
+Bad
+
+-2369985153822692062	Jacob	12/20/14	Molly	29179 S 400 Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692061	Anna	12/20/14	Molly	20098 Ninth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692060	Christopher	12/20/14	Colleen	1560 Tenth Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692059	John	12/20/14	Jack	16425 Twelfth Spring Field, New Cicily
+Good
+Good
+Good
+Good
+
+-2369985153822692058	Adam	12/20/14	Angela	6801 Center Spring Field, New Cicily
+Good
+
+-2369985153822692057	Jeffrey	12/20/14	Ethan	16037 Fourth Spring Field, New Cicily
+Bad
+
+-2369985153822692056	Loretta	12/20/14	Ethan	23363 Hampton Spring Field, New Cicily
+Bad
+
+-2369985153822692055	Jonathan	12/20/14	Angela	15283 Quail Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692054	Bethany	12/20/14	Jack	18579 Lee Spring Field, New Cicily
+Good
+
+-2369985153822692053	Shaun	12/20/14	Colleen	19709 Center Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692052	Catherine	12/20/14	Jack	13249 Malulani Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692051	Lillian	12/20/14	Diane	3961 Jackson Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692050	Sonia	12/20/14	Ethan	13479 Church Spring Field, New Cicily
+Good
+Good
+
+-2369985153822692049	Sheila	12/20/14	Cory	26111 Thirteenth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822692048	Louise	12/20/14	Angela	17823 Lehua Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822692047	Juanita	12/20/14	Jack	20310 Redwood Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692046	Jeffery	12/20/14	Diane	22726 Washington Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822692045	Marcus	12/20/14	Molly	15107 Lakeview Spring Field, New Cicily
+Good
+
+-2369985153822692044	Charles	12/20/14	Cory	12689 Main Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822692043	Harold	12/20/14	Angela	579 Wilson Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822692042	Sarah	12/20/14	Jack	19320 Wilson Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692041	Marilyn	12/20/14	Molly	6656 Park Spring Field, New Cicily
+Ugly
+
+-2369985153822692040	Brad	12/20/14	Diane	18219 Cypress Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692039	Ann	12/20/14	Diane	16134 Birch Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692038	Carolyn	12/20/14	Jack	4541 Eighth Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692037	George	12/20/14	Jack	4635 Mountain View Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822692036	Gregory	12/20/14	Molly	14492 Cedar Spring Field, New Cicily
+Good
+
+-2369985153822692035	Rosie	12/20/14	Cory	23081 West Spring Field, New Cicily
+Good
+
+-2369985153822692034	Matthew	12/20/14	Helen	3450 Tenth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692033	Wayne	12/20/14	Colleen	28122 River Spring Field, New Cicily
+Good
+Good
+Good
+Good
+
+-2369985153822692032	Connie	12/20/14	Jack	6284 Sycamore Spring Field, New Cicily
+Bad
+Ugly
+Good
+Bad
+
+-2369985153822692031	Mario	12/20/14	Cory	24752 Cherry Spring Field, New Cicily
+Ugly
+
+-2369985153822692030	Carlos	12/20/14	Helen	5205 Magnolia Spring Field, New Cicily
+Bad
+
+-2369985153822692029	Danielle	12/20/14	Jack	7814 Palo Verde Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692028	Darrell	12/20/14	Cory	13518 Walnut Spring Field, New Cicily
+Ugly
+
+-2369985153822692027	Douglas	12/20/14	Angela	16605 Lee Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822692026	Shirley	12/20/14	Ethan	14326 Canyon Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822692025	Joel	12/20/14	Jack	14858 A Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692024	Brent	12/20/14	Cory	6903 Columbine Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822692023	Ethel	12/20/14	Jack	25800 Hickory Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822692022	Keith	12/20/14	Angela	23440 Cypress Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822692021	Katie	12/20/14	Cory	8075 Canyon Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692020	Oscar	12/20/14	Colleen	16674 Orchard Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692019	Sabrina	12/20/14	Colleen	23833 Laurel Spring Field, New Cicily
+Ugly
+Bad
+Good
+Ugly
+
+-2369985153822692018	Miranda	12/20/14	Angela	20118 Holly Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822692017	Luis	12/20/14	Molly	19825 Cottonwood Spring Field, New Cicily
+Good
+Ugly
+Good
+Bad
+
+-2369985153822692016	Tony	12/20/14	Diane	22415 Redwood Spring Field, New Cicily
+Good
+
+-2369985153822692015	Shawn	12/20/14	Cory	9437 Shore Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822692014	Earl	12/20/14	Diane	22580 Fourth Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822692013	Caleb	12/20/14	Colleen	15074 Pioneer Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692012	Alexis	12/20/14	Helen	15814 Williams Spring Field, New Cicily
+Ugly
+
+-2369985153822692011	Brian	12/20/14	Cory	27246 Park Spring Field, New Cicily
+Good
+
+-2369985153822692010	Kathleen	12/20/14	Jack	21896 Wilson Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822692009	Jillian	12/21/14	Diane	27414 Dogwood Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822692008	Carl	12/21/14	Ellen	27154 Oak Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822692007	Ruby	12/21/14	Jack	15202 Fifth Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822692006	Gary	12/21/14	Angela	20072 Birch Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822692005	Louis	12/21/14	Colleen	3323 Seventh Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822692004	Jason	12/21/14	Ethan	21409 Pinon Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822692003	Alan	12/21/14	Cory	29350 Elm Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822692002	Johnny	12/21/14	Diane	22112 Elm Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822692001	Kellie	12/21/14	Ellen	13365 Maple Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Bad
+
+-2369985153822692000	Haley	12/21/14	Cory	23077 S 400 Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691999	Mia	12/21/14	Diane	5814 Center Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691998	Frank	12/21/14	Diane	3524 Shore Spring Field, New Cicily
+Bad
+Good
+Bad
+Bad
+
+-2369985153822691997	Cathy	12/21/14	Colleen	16913 Cedar Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822691996	Francis	12/21/14	Diane	11528 Williams Spring Field, New Cicily
+Ugly
+
+-2369985153822691995	Rickey	12/21/14	Diane	5006 First Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691994	Heidi	12/21/14	Ellen	5509 Hickory Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691993	Wendell	12/21/14	Cory	26253 Fourth Spring Field, New Cicily
+Ugly
+
+-2369985153822691992	Sophia	12/21/14	Helen	15711 River Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822691991	Ryan	12/21/14	Jack	22526 Mountain View Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691990	Walter	12/21/14	Colleen	21252 Mountain View Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691989	Evan	12/21/14	Diane	25009 A Spring Field, New Cicily
+Bad
+
+-2369985153822691988	Kent	12/21/14	Angela	26176 Lehua Spring Field, New Cicily
+Ugly
+
+-2369985153822691987	Charles	12/21/14	Jack	6774 Willow Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691986	Kelly	12/21/14	Cory	9637 Spruce Spring Field, New Cicily
+Bad
+
+-2369985153822691985	Marilyn	12/21/14	Diane	6656 Park Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691984	Preston	12/21/14	Colleen	17840 West Spring Field, New Cicily
+Good
+
+-2369985153822691983	Jesse	12/21/14	Cory	2848 Ridge Spring Field, New Cicily
+Bad
+
+-2369985153822691982	George	12/21/14	Jack	4635 Mountain View Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822691981	Carl	12/21/14	Helen	13418 S 400 Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691980	Regina	12/21/14	Ellen	26248 Aloha Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822691979	Andre	12/21/14	Cory	8446 Apache Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822691978	Andrew	12/21/14	Ethan	20012 First Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691977	Thelma	12/21/14	Diane	2609 Laurel Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822691976	Bryce	12/21/14	Diane	11093 Wood Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691975	Rodney	12/21/14	Cory	5868 Wilson Spring Field, New Cicily
+Bad
+
+-2369985153822691974	Sylvia	12/21/14	Diane	28929 Dogwood Spring Field, New Cicily
+Ugly
+Good
+Bad
+Bad
+
+-2369985153822691973	Theodore	12/21/14	Cory	25992 Pleasant Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822691972	Howard	12/21/14	Diane	14788 Kahili Spring Field, New Cicily
+Ugly
+
+-2369985153822691971	Andre	12/21/14	Diane	20433 Oak Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691970	Tiffany	12/21/14	Ellen	7223 Pine Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691969	Sandra	12/21/14	Angela	15620 Kahili Spring Field, New Cicily
+Good
+
+-2369985153822691968	Eric	12/21/14	Angela	29691 Lehua Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691967	Russell	12/21/14	Ethan	7564 Tenth Spring Field, New Cicily
+Bad
+
+-2369985153822691966	Gina	12/21/14	Ethan	21826 Walnut Spring Field, New Cicily
+Ugly
+Bad
+Good
+Good
+
+-2369985153822691965	Anna	12/21/14	Helen	9369 Pioneer Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691964	Lee	12/21/14	Cory	18670 Oak Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691963	Jermaine	12/21/14	Diane	16518 Hillside Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822691962	Scott	12/21/14	Cory	12476 Tenth Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691961	Gary	12/21/14	Ellen	25852 Pleasant Spring Field, New Cicily
+Good
+Good
+Bad
+Ugly
+
+-2369985153822691960	Amy	12/21/14	Helen	9265 Navajo Spring Field, New Cicily
+Bad
+
+-2369985153822691959	Alexander	12/21/14	Angela	15506 Fourth Spring Field, New Cicily
+Ugly
+
+-2369985153822691958	Gerald	12/22/14	Ethan	713 A Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822691957	Duane	12/22/14	Angela	13389 Narragansett Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691956	Gerald	12/22/14	Helen	21958 Mesquite Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691955	Kimberly	12/22/14	Colleen	11484 Hemlock Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822691954	Marie	12/22/14	Diane	23190 River Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691953	Alexis	12/22/14	Jack	11441 Walnut Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691952	Adrian	12/22/14	Christine	27190 Delaware Spring Field, New Cicily
+Good
+
+-2369985153822691951	Michael	12/22/14	Ellen	23468 Hampton Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691950	Peggy	12/22/14	Ellen	13160 Third Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691949	Gloria	12/22/14	Diane	2552 Williams Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822691948	Sarah	12/22/14	Jack	23137 Williams Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822691947	Miguel	12/22/14	Diane	6905 Highland Spring Field, New Cicily
+Ugly
+
+-2369985153822691946	Maryann	12/22/14	Helen	11602 Hampton Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822691945	Scott	12/22/14	Helen	25489 Shore Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691944	Kyle	12/22/14	Diane	6290 Columbine Spring Field, New Cicily
+Bad
+
+-2369985153822691943	Suzanne	12/22/14	Helen	26492 Ninth Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691942	Marcus	12/22/14	Helen	16221 Broadway Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691941	Isabelle	12/22/14	Angela	19260 Pecan Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822691940	Craig	12/22/14	Colleen	20668 Broadway Spring Field, New Cicily
+Ugly
+Bad
+Bad
+Bad
+
+-2369985153822691939	Mitchell	12/22/14	Helen	24790 Lakeview Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822691938	Adam	12/22/14	Diane	7710 Park Spring Field, New Cicily
+Bad
+Good
+Good
+Bad
+
+-2369985153822691937	Adriana	12/22/14	Diane	17186 Orchard Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691936	Nathan	12/22/14	Colleen	29497 Redwood Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822691935	Marc	12/22/14	Helen	10572 Johnson Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822691934	Phillip	12/22/14	Jack	14470 Pine Spring Field, New Cicily
+Ugly
+
+-2369985153822691933	Wesley	12/22/14	Ethan	20954 Cottonwood Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822691932	Lisa	12/22/14	Helen	6597 Broadway Spring Field, New Cicily
+Good
+
+-2369985153822691931	Gail	12/22/14	Ellen	19646 Pinon Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691930	Devin	12/22/14	Ellen	9966 A Spring Field, New Cicily
+Good
+
+-2369985153822691929	Sonya	12/22/14	Colleen	15590 Holly Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691928	Cody	12/22/14	Angela	9114 Juniper Spring Field, New Cicily
+Bad
+
+-2369985153822691927	Lucas	12/22/14	Angela	2987 Navajo Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691926	Kirsten	12/22/14	Diane	19146 Meadow Spring Field, New Cicily
+Bad
+
+-2369985153822691925	Carolyn	12/22/14	Colleen	4541 Eighth Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822691924	Robert	12/22/14	Jack	8461 Meadow Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691923	Bryan	12/22/14	Ellen	5233 Park Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822691922	Phillip	12/22/14	Angela	430 Lakeview Spring Field, New Cicily
+Bad
+
+-2369985153822691921	Cameron	12/22/14	Angela	4688 Cypress Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691920	Jane	12/22/14	Colleen	3433 Park Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822691919	Kathy	12/22/14	Angela	21146 Juniper Spring Field, New Cicily
+Ugly
+Good
+Good
+Ugly
+
+-2369985153822691918	Henry	12/22/14	Ellen	2093 Highland Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691917	Rick	12/22/14	Ellen	6865 Twelfth Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822691916	Frank	12/22/14	Colleen	22314 Cherry Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822691915	Diego	12/22/14	Helen	29917 Aloha Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691914	Gina	12/22/14	Jack	22234 Spruce Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691913	Ricardo	12/22/14	Helen	28223 Mesquite Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822691912	Shirley	12/22/14	Diane	5190 Church Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691911	Adrian	12/22/14	Colleen	17323 First Spring Field, New Cicily
+Bad
+
+-2369985153822691910	Mitchell	12/22/14	Colleen	24085 Evergreen Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822691909	Holly	12/22/14	Diane	3371 Hemlock Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691908	Tyrone	12/22/14	Diane	15120 Mountain View Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691907	Brett	12/22/14	Diane	6947 Narragansett Spring Field, New Cicily
+Bad
+
+-2369985153822691906	Mitchell	12/22/14	Ellen	18466 Sixth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691905	Jillian	12/22/14	Ellen	16898 Second Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691904	Bobby	12/22/14	Christine	15575 Mountain View Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691903	Christian	12/22/14	Ethan	14988 Holly Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822691902	Tom	12/22/14	Diane	26283 Lehua Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691901	Brent	12/22/14	Ellen	443 Hampton Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691900	Misty	12/22/14	Colleen	20695 Eighth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691899	Michael	12/23/14	Colleen	24792 Orchard Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822691898	Meghan	12/23/14	Anita	16096 Holly Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822691897	Casey	12/23/14	Anita	13313 Hampton Spring Field, New Cicily
+Bad
+
+-2369985153822691896	Daniel	12/23/14	Christine	11547 Johnson Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691895	Candice	12/23/14	Jack	21266 Lehua Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691894	Kiara	12/23/14	Helen	17099 Evergreen Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691893	Caitlyn	12/23/14	Helen	8163 Canyon Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+Bad
+
+-2369985153822691892	Dylan	12/23/14	Jack	20110 Redwood Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691891	Wesley	12/23/14	Christine	8497 Pecan Spring Field, New Cicily
+Bad
+
+-2369985153822691890	Bethany	12/23/14	Anita	4526 Juniper Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822691889	Hector	12/23/14	Christine	11083 Pine Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691888	Sally	12/23/14	Anita	9926 Fifth Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822691887	Francis	12/23/14	Ellen	11528 Williams Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822691886	Stephen	12/23/14	Jack	23542 Birch Spring Field, New Cicily
+Bad
+Bad
+Bad
+Good
+
+-2369985153822691885	Crystal	12/23/14	Angela	9859 Lakeview Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822691884	Sierra	12/23/14	Jack	1914 Cypress Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691883	Robert	12/23/14	Ethan	21296 Lincoln Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691882	Kaitlin	12/23/14	Colleen	26105 Narragansett Spring Field, New Cicily
+Ugly
+
+-2369985153822691881	Pedro	12/23/14	Angela	16192 Hillside Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822691880	Charles	12/23/14	Colleen	23184 Evergreen Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691879	Colby	12/23/14	Jack	10681 Sunset Spring Field, New Cicily
+Bad
+
+-2369985153822691878	Rodney	12/23/14	Christine	26605 Shore Spring Field, New Cicily
+Ugly
+Bad
+Bad
+Bad
+
+-2369985153822691877	Garrett	12/23/14	Colleen	29319 Pioneer Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691876	Alicia	12/23/14	Angela	21941 Canyon Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822691875	Gerard	12/23/14	Christine	22605 Seventh Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691874	Norman	12/23/14	Angela	1989 Highland Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691873	Owen	12/23/14	Angela	8788 Birch Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822691872	Xavier	12/23/14	Jack	17675 Kansas Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822691871	Kristine	12/23/14	Jack	28913 North Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822691870	Cynthia	12/23/14	Helen	7444 Hickory Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691869	Anne	12/23/14	Ellen	22173 Mesquite Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691868	Emma	12/23/14	Ellen	25173 Holly Spring Field, New Cicily
+Bad
+
+-2369985153822691867	Vernon	12/23/14	Angela	15791 Kansas Spring Field, New Cicily
+Good
+Bad
+Good
+Ugly
+
+-2369985153822691866	Manuel	12/23/14	Christine	28403 Eighth Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691865	Anita	12/23/14	Helen	7921 Mountain View Spring Field, New Cicily
+Ugly
+
+-2369985153822691864	Randy	12/23/14	Christine	19144 Willow Spring Field, New Cicily
+Good
+Ugly
+Ugly
+Bad
+
+-2369985153822691863	Alex	12/23/14	Anita	25560 Second Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822691862	Joy	12/23/14	Jack	16861 Kansas Spring Field, New Cicily
+Ugly
+Bad
+Bad
+Bad
+
+-2369985153822691861	Marilyn	12/23/14	Jack	1046 Lake Spring Field, New Cicily
+Bad
+
+-2369985153822691860	Brittany	12/23/14	Colleen	9476 Holly Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691859	Curtis	12/23/14	Angela	20425 Mesquite Spring Field, New Cicily
+Bad
+
+-2369985153822691858	Alan	12/23/14	Jack	2197 Smith Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691857	Bradley	12/24/14	Angela	16918 Hampton Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822691856	Logan	12/24/14	Ethan	20298 Eighth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691855	Kendra	12/24/14	Ellen	34 Hillside Spring Field, New Cicily
+Bad
+
+-2369985153822691854	Audrey	12/24/14	Anita	23269 Main Spring Field, New Cicily
+Ugly
+
+-2369985153822691853	Leonard	12/24/14	Jack	28998 Lee Spring Field, New Cicily
+Ugly
+
+-2369985153822691852	Logan	12/24/14	Christine	12310 Broadway Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822691851	Harold	12/24/14	Christine	7506 Narragansett Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691850	Mikayla	12/24/14	Colleen	25757 Kansas Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822691849	Wayne	12/24/14	Colleen	17282 Shore Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691848	David	12/24/14	Angela	5937 Evergreen Spring Field, New Cicily
+Bad
+
+-2369985153822691847	Jessie	12/24/14	Ellen	3148 Walnut Spring Field, New Cicily
+Ugly
+
+-2369985153822691846	Ted	12/24/14	Anita	1994 Laurel Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691845	Wanda	12/24/14	Jack	29097 Walnut Spring Field, New Cicily
+Ugly
+
+-2369985153822691844	Patrick	12/24/14	Christine	26001 Jackson Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822691843	Katherine	12/24/14	Anita	13584 Jackson Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691842	Ernest	12/24/14	Colleen	10400 Broadway Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822691841	Brett	12/24/14	Anita	28796 North Spring Field, New Cicily
+Ugly
+
+-2369985153822691840	Holly	12/24/14	Colleen	7169 Lake Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822691839	Sharon	12/24/14	Angela	1672 Fourth Spring Field, New Cicily
+Good
+
+-2369985153822691838	Kristina	12/24/14	Anita	6717 Redwood Spring Field, New Cicily
+Good
+
+-2369985153822691837	Gene	12/24/14	Colleen	20812 Twelfth Spring Field, New Cicily
+Good
+
+-2369985153822691836	Shirley	12/24/14	Christine	6338 Washington Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691835	Juan	12/24/14	Angela	19673 Quail Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691834	Isabella	12/24/14	Helen	14399 Lakeview Spring Field, New Cicily
+Ugly
+Bad
+Good
+Ugly
+
+-2369985153822691833	Perry	12/24/14	Angela	23045 First Spring Field, New Cicily
+Good
+Ugly
+Good
+Ugly
+
+-2369985153822691832	Sierra	12/24/14	Ellen	1914 Cypress Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691831	Evan	12/24/14	Angela	25009 A Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691830	Jamie	12/24/14	Christine	17657 Cherry Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822691829	Darrell	12/24/14	Angela	22205 Pleasant Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691828	Jodi	12/24/14	Ellen	21113 Oak Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691827	Terrence	12/24/14	Helen	21518 Thirteenth Spring Field, New Cicily
+Good
+Ugly
+Bad
+Good
+
+-2369985153822691826	Norman	12/24/14	Ethan	1989 Highland Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691825	Micheal	12/24/14	Ethan	29946 Ridge Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691824	Anna	12/24/14	Angela	28857 North Spring Field, New Cicily
+Bad
+
+-2369985153822691823	Patsy	12/24/14	Jack	21281 Hemlock Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691822	Ernest	12/24/14	Colleen	10672 Lee Spring Field, New Cicily
+Bad
+Bad
+Ugly
+Bad
+
+-2369985153822691821	Robin	12/24/14	Angela	23919 Cherry Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822691820	Robin	12/24/14	Ellen	15865 Broadway Spring Field, New Cicily
+Ugly
+
+-2369985153822691819	April	12/24/14	Ethan	12973 S 400 Spring Field, New Cicily
+Good
+
+-2369985153822691818	Terry	12/24/14	Christine	27410 Airport Spring Field, New Cicily
+Good
+
+-2369985153822691817	Heather	12/24/14	Ethan	22100 Johnson Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691816	Herbert	12/24/14	Angela	26135 Pinon Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822691815	Jada	12/24/14	Helen	15246 Third Spring Field, New Cicily
+Bad
+
+-2369985153822691814	Kimberly	12/24/14	Ethan	12101 Holly Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822691813	Joe	12/24/14	Ellen	12136 Park Spring Field, New Cicily
+Good
+
+-2369985153822691812	Landon	12/24/14	Angela	20442 Hillside Spring Field, New Cicily
+Bad
+
+-2369985153822691811	Ryan	12/24/14	Helen	3840 Aloha Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822691810	Damian	12/25/14	Colleen	27667 Park Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691809	Janice	12/25/14	Melanie	17875 Narragansett Spring Field, New Cicily
+Ugly
+
+-2369985153822691808	Francisco	12/25/14	Ethan	25996 Main Spring Field, New Cicily
+Good
+Bad
+Bad
+Good
+
+-2369985153822691807	Erik	12/25/14	Ellen	12309 Lake Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691806	Oliver	12/25/14	Helen	12696 Pinon Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691805	Maurice	12/25/14	Ethan	7032 Pecan Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691804	Sydney	12/25/14	Colleen	18408 Apache Spring Field, New Cicily
+Bad
+
+-2369985153822691803	Shelley	12/25/14	Angela	18004 Aloha Spring Field, New Cicily
+Bad
+
+-2369985153822691802	Megan	12/25/14	Colleen	7011 Delaware Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691801	Gayle	12/25/14	Helen	29545 West Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691800	Catherine	12/25/14	Angela	13249 Malulani Spring Field, New Cicily
+Bad
+
+-2369985153822691799	Valerie	12/25/14	Ethan	18328 Bay Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691798	Suzanne	12/25/14	Anita	29239 Aloha Spring Field, New Cicily
+Bad
+
+-2369985153822691797	Levi	12/25/14	Melanie	22282 Williams Spring Field, New Cicily
+Ugly
+Ugly
+Good
+Bad
+
+-2369985153822691796	Leon	12/25/14	Melanie	1577 A Spring Field, New Cicily
+Bad
+Bad
+Good
+Ugly
+
+-2369985153822691795	Heidi	12/25/14	Angela	5509 Hickory Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691794	Marilyn	12/25/14	Helen	769 Thirteenth Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822691793	Sherri	12/25/14	Colleen	14888 Elm Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691792	Stephen	12/25/14	Ellen	24842 Pecan Spring Field, New Cicily
+Good
+
+-2369985153822691791	Barbara	12/25/14	Colleen	15046 A Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Bad
+
+-2369985153822691790	Brandy	12/25/14	Christine	5267 Cottonwood Spring Field, New Cicily
+Ugly
+
+-2369985153822691789	Sophia	12/25/14	Melanie	15711 River Spring Field, New Cicily
+Ugly
+
+-2369985153822691788	Hannah	12/25/14	Anita	23775 Meadow Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822691787	Sharon	12/25/14	Anita	573 Sycamore Spring Field, New Cicily
+Bad
+
+-2369985153822691786	Carol	12/25/14	Helen	9937 Smith Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691785	Helen	12/25/14	Ethan	7655 Shore Spring Field, New Cicily
+Bad
+
+-2369985153822691784	Holly	12/25/14	Helen	8167 Cedar Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691783	Jonathan	12/25/14	Helen	10461 Airport Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691782	Angie	12/25/14	Helen	20436 Columbine Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822691781	Micheal	12/25/14	Ethan	29946 Ridge Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691780	Gerald	12/25/14	Ethan	12633 Redwood Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691779	Craig	12/25/14	Ethan	676 Hampton Spring Field, New Cicily
+Ugly
+
+-2369985153822691778	Roger	12/25/14	Colleen	22434 Delaware Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691777	Aaron	12/25/14	Ethan	10899 Walnut Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691776	Joanna	12/25/14	Anita	11951 S 100 Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691775	Brett	12/25/14	Colleen	5632 Kansas Spring Field, New Cicily
+Good
+Bad
+Bad
+Bad
+
+-2369985153822691774	Tanya	12/25/14	Christine	9972 Highland Spring Field, New Cicily
+Good
+
+-2369985153822691773	David	12/25/14	Ellen	27606 Eleventh Spring Field, New Cicily
+Ugly
+
+-2369985153822691772	Angelina	12/25/14	Helen	5773 Quail Spring Field, New Cicily
+Bad
+
+-2369985153822691771	Jimmy	12/25/14	Ethan	9784 Wood Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691770	Dalton	12/25/14	Melanie	4339 Cottonwood Spring Field, New Cicily
+Ugly
+
+-2369985153822691769	Danielle	12/25/14	Melanie	21428 A Spring Field, New Cicily
+Bad
+
+-2369985153822691768	Annette	12/26/14	Jacqueline	1186 Magnolia Spring Field, New Cicily
+Good
+
+-2369985153822691767	Leslie	12/26/14	Angela	12045 Cherry Spring Field, New Cicily
+Bad
+
+-2369985153822691766	Betty	12/26/14	Ethan	14645 Johnson Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822691765	Jacqueline	12/26/14	Ethan	6300 Pleasant Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822691764	Heidi	12/26/14	Ellen	15467 Twelfth Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691763	Julie	12/26/14	Ellen	249 Birch Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+-2369985153822691762	Jill	12/26/14	Ethan	13215 Lehua Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691761	Ivan	12/26/14	Helen	19389 Pleasant Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691760	Tanya	12/26/14	Helen	8588 Elm Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822691759	Jean	12/26/14	Helen	10347 Eleventh Spring Field, New Cicily
+Bad
+
+-2369985153822691758	Francis	12/26/14	Ethan	13398 First Spring Field, New Cicily
+Ugly
+
+-2369985153822691757	Julie	12/26/14	Anita	11345 Cottonwood Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691756	Charles	12/26/14	Melanie	1705 Fourth Spring Field, New Cicily
+Good
+
+-2369985153822691755	Lillian	12/26/14	Ethan	2875 Juniper Spring Field, New Cicily
+Bad
+Ugly
+Good
+Good
+
+-2369985153822691754	Lynn	12/26/14	Jacqueline	21171 Wood Spring Field, New Cicily
+Bad
+
+-2369985153822691753	Kayla	12/26/14	Ethan	12313 Tenth Spring Field, New Cicily
+Ugly
+
+-2369985153822691752	Vicky	12/26/14	Christine	11003 Hillside Spring Field, New Cicily
+Ugly
+
+-2369985153822691751	Kelly	12/26/14	Ethan	13108 Quail Spring Field, New Cicily
+Good
+
+-2369985153822691750	Willie	12/26/14	Helen	1308 Hillside Spring Field, New Cicily
+Bad
+
+-2369985153822691749	Ann	12/26/14	Angela	7798 Elm Spring Field, New Cicily
+Ugly
+
+-2369985153822691748	Carolyn	12/26/14	Melanie	5558 Cottonwood Spring Field, New Cicily
+Good
+Good
+Bad
+Bad
+
+-2369985153822691747	Lance	12/26/14	Anita	7632 Redwood Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691746	Maria	12/26/14	Jacqueline	2207 Cypress Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691745	Christine	12/26/14	Helen	1791 Mountain View Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691744	Dawn	12/26/14	Helen	11029 Ninth Spring Field, New Cicily
+Good
+
+-2369985153822691743	Edna	12/26/14	Helen	11692 River Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691742	Marianne	12/26/14	Melanie	19727 Ridge Spring Field, New Cicily
+Good
+
+-2369985153822691741	Brittany	12/26/14	Ethan	6841 Willow Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691740	Marisa	12/26/14	Jacqueline	8463 Lincoln Spring Field, New Cicily
+Bad
+
+-2369985153822691739	Daniela	12/26/14	Helen	1923 Kukui Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822691738	Carolyn	12/26/14	Anita	13484 Thirteenth Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822691737	Karen	12/26/14	Christine	8987 Laurel Spring Field, New Cicily
+Good
+Ugly
+Bad
+Bad
+
+-2369985153822691736	Janice	12/26/14	Angela	20509 Wood Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822691735	Jay	12/26/14	Ethan	24365 Williams Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822691734	Grace	12/26/14	Christine	23114 Broadway Spring Field, New Cicily
+Good
+Bad
+Ugly
+Bad
+
+-2369985153822691733	Everett	12/26/14	Melanie	2829 Lee Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691732	Deanna	12/26/14	Christine	12779 Redwood Spring Field, New Cicily
+Ugly
+
+-2369985153822691731	Glenn	12/26/14	Ellen	23051 Jackson Spring Field, New Cicily
+Ugly
+Good
+Good
+Ugly
+
+-2369985153822691730	Elijah	12/26/14	Melanie	28522 A Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822691729	Holly	12/26/14	Helen	7391 Ninth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691728	Philip	12/26/14	Ellen	8957 County Line Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691727	Matthew	12/26/14	Helen	5620 Lakeview Spring Field, New Cicily
+Bad
+
+-2369985153822691726	Judy	12/26/14	Anita	21080 Third Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691725	Carl	12/26/14	Ethan	27663 Kahili Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822691724	Larry	12/27/14	Angela	22606 Hampton Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Good
+
+-2369985153822691723	Ray	12/27/14	Melanie	8338 First Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691722	Dolores	12/27/14	Ethan	19700 Lincoln Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691721	Nicole	12/27/14	Melanie	3875 Redwood Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691720	Kristy	12/27/14	Angela	28292 Johnson Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691719	Carl	12/27/14	Angela	15064 Cottonwood Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691718	Alice	12/27/14	Christine	18273 Thirteenth Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691717	Kristi	12/27/14	Jacqueline	26587 Thirteenth Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822691716	Thomas	12/27/14	Ellen	15967 Pleasant Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822691715	Jason	12/27/14	Melanie	5025 S 100 Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691714	Troy	12/27/14	Ellen	28754 Park Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691713	Terrence	12/27/14	Helen	2091 Tenth Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822691712	Sarah	12/27/14	Christine	15771 Kansas Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691711	David	12/27/14	Jacqueline	28039 Palo Verde Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691710	Bobbie	12/27/14	Ellen	21420 Malulani Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691709	Calvin	12/27/14	Melanie	15328 Kukui Spring Field, New Cicily
+Ugly
+
+-2369985153822691708	Megan	12/27/14	Angela	28177 Fifth Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691707	Sierra	12/27/14	Ellen	1914 Cypress Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691706	Kendra	12/27/14	Ellen	13505 Juniper Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822691705	Martin	12/27/14	Kayla	836 Sycamore Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822691704	Earnest	12/27/14	Christine	13169 Evergreen Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691703	Barbara	12/27/14	Christine	23656 S 400 Spring Field, New Cicily
+Ugly
+Bad
+Good
+Ugly
+
+-2369985153822691702	George	12/27/14	Ethan	12191 North Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691701	Haley	12/27/14	Helen	20039 Eighth Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822691700	Rosemary	12/27/14	Melanie	3608 Pleasant Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691699	Gavin	12/27/14	Angela	19225 Sixth Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822691698	Erin	12/27/14	Christine	11789 Wood Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691697	Connie	12/27/14	Christine	6284 Sycamore Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822691696	Natalie	12/27/14	Kayla	25747 Sunset Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691695	Clayton	12/27/14	Kayla	19917 Church Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691694	Ricky	12/27/14	Jacqueline	3461 County Line Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691693	Isaac	12/27/14	Melanie	1778 Washington Spring Field, New Cicily
+Good
+
+-2369985153822691692	Zachary	12/27/14	Kayla	4049 Pinon Spring Field, New Cicily
+Bad
+
+-2369985153822691691	Billy	12/27/14	Angela	13530 Hillside Spring Field, New Cicily
+Bad
+Bad
+Ugly
+Ugly
+
+-2369985153822691690	Curtis	12/27/14	Kayla	12140 Broadway Spring Field, New Cicily
+Bad
+
+-2369985153822691689	Joanne	12/27/14	Kayla	29830 Johnson Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822691688	Bradley	12/27/14	Kayla	9967 Mesquite Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691687	Angel	12/27/14	Melanie	19765 Church Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691686	Janis	12/27/14	Ethan	10327 Second Spring Field, New Cicily
+Bad
+
+-2369985153822691685	Herbert	12/27/14	Angela	26135 Pinon Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822691684	Gordon	12/27/14	Kayla	17445 Aloha Spring Field, New Cicily
+Ugly
+
+-2369985153822691683	Joann	12/27/14	Ethan	27691 Cypress Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691682	Peter	12/27/14	Jacqueline	5816 S 100 Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822691681	Spencer	12/27/14	Helen	4433 Cypress Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691680	Bradley	12/28/14	Helen	16918 Hampton Spring Field, New Cicily
+Bad
+
+-2369985153822691679	Sandra	12/28/14	Laura	23583 Aloha Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691678	Betty	12/28/14	Angela	14645 Johnson Spring Field, New Cicily
+Good
+
+-2369985153822691677	Emily	12/28/14	Helen	12529 Holly Spring Field, New Cicily
+Bad
+
+-2369985153822691676	Christine	12/28/14	Helen	16196 Seventh Spring Field, New Cicily
+Ugly
+Bad
+Good
+Good
+
+-2369985153822691675	Billy	12/28/14	Angela	21166 Church Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691674	William	12/28/14	Laura	14820 River Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691673	Larry	12/28/14	Kayla	23112 Lake Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691672	Brittany	12/28/14	Melanie	24434 Hampton Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822691671	Fredrick	12/28/14	Ethan	6319 Fifth Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691670	Allison	12/28/14	Ellen	1947 Walnut Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691669	Jeffrey	12/28/14	Christine	23145 Pleasant Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691668	Samuel	12/28/14	Laura	6772 Walnut Spring Field, New Cicily
+Good
+Bad
+Bad
+Good
+
+-2369985153822691667	Grace	12/28/14	Kayla	18922 Fourth Spring Field, New Cicily
+Ugly
+Good
+Good
+Good
+
+-2369985153822691666	Jerry	12/28/14	Kayla	28513 Oak Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691665	Angela	12/28/14	Laura	3590 Malulani Spring Field, New Cicily
+Good
+Good
+Good
+
+-2369985153822691664	Jim	12/28/14	Ellen	25335 Hill Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691663	Daryl	12/28/14	Melanie	5062 Lehua Spring Field, New Cicily
+Good
+
+-2369985153822691662	Maria	12/28/14	Laura	25239 Apache Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691661	Christopher	12/28/14	Ellen	27762 Birch Spring Field, New Cicily
+Good
+
+-2369985153822691660	Frank	12/28/14	Kayla	3524 Shore Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822691659	Jason	12/28/14	Melanie	6680 Navajo Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691658	Kurt	12/28/14	Angela	9900 Walnut Spring Field, New Cicily
+Good
+
+-2369985153822691657	Courtney	12/28/14	Angela	25072 Pine Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822691656	Wyatt	12/28/14	Melanie	8296 Walnut Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822691655	Virginia	12/28/14	Christine	20046 Walnut Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691654	Angela	12/28/14	Angela	20162 Birch Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691653	Kyle	12/28/14	Kayla	14677 Wilson Spring Field, New Cicily
+Ugly
+
+-2369985153822691652	Mark	12/28/14	Ellen	23697 Park Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691651	Anthony	12/28/14	Kayla	13580 Second Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691650	Terry	12/28/14	Laura	27849 Walnut Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691649	Luis	12/28/14	Ethan	4360 Cottonwood Spring Field, New Cicily
+Good
+
+-2369985153822691648	Alexander	12/28/14	Christine	4392 Juniper Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691647	Gerald	12/28/14	Angela	22660 Mountain View Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822691646	Kristin	12/28/14	Kayla	771 Columbine Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822691645	Natasha	12/28/14	Angela	2930 Airport Spring Field, New Cicily
+Bad
+Good
+Ugly
+Ugly
+
+-2369985153822691644	Sarah	12/28/14	Laura	22934 Smith Spring Field, New Cicily
+Good
+
+-2369985153822691643	Jorge	12/28/14	Ellen	28678 Juniper Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691642	Frank	12/28/14	Helen	22314 Cherry Spring Field, New Cicily
+Bad
+
+-2369985153822691641	Zoe	12/28/14	Ethan	27057 A Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691640	Gilbert	12/28/14	Ethan	22952 Lincoln Spring Field, New Cicily
+Ugly
+
+-2369985153822691639	Andrea	12/28/14	Ellen	19333 Wood Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822691638	Danny	12/28/14	Ellen	13092 Jackson Spring Field, New Cicily
+Bad
+
+-2369985153822691637	Alan	12/28/14	Helen	27565 Twelfth Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691636	Caleb	12/28/14	Ellen	5019 Quail Spring Field, New Cicily
+Ugly
+Good
+Good
+Bad
+
+-2369985153822691635	Frances	12/28/14	Laura	17143 Johnson Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691634	Francisco	12/28/14	Laura	18632 S 400 Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691633	Daisy	12/28/14	Kayla	24156 Aloha Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691632	Katie	12/28/14	Helen	8075 Canyon Spring Field, New Cicily
+Ugly
+
+-2369985153822691631	Natalie	12/28/14	Ethan	94 Oak Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691630	Kim	12/28/14	Ethan	9575 Sunset Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691629	Lydia	12/28/14	Kayla	29337 Evergreen Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822691628	Lindsey	12/29/14	Melanie	13699 Highland Spring Field, New Cicily
+Ugly
+
+-2369985153822691627	Billy	12/29/14	Angela	25536 Lee Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822691626	Julia	12/29/14	Ethan	9133 Malulani Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691625	Jacob	12/29/14	Ethan	29179 S 400 Spring Field, New Cicily
+Ugly
+Ugly
+Good
+Bad
+
+-2369985153822691624	Michael	12/29/14	Melanie	23468 Hampton Spring Field, New Cicily
+Bad
+
+-2369985153822691623	Rebecca	12/29/14	Laura	10761 Wood Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691622	Laura	12/29/14	Angela	26465 Third Spring Field, New Cicily
+Bad
+
+-2369985153822691621	Brandon	12/29/14	Melanie	26089 Church Spring Field, New Cicily
+Ugly
+Good
+Good
+
+-2369985153822691620	Janice	12/29/14	Ellen	1504 Hemlock Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822691619	Jason	12/29/14	Ellen	10833 Kukui Spring Field, New Cicily
+Good
+Ugly
+Good
+
+-2369985153822691618	Theodore	12/29/14	Ethan	24502 Pecan Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691617	Marvin	12/29/14	Helen	15292 Wilson Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691616	Yvette	12/29/14	Ellen	21728 Main Spring Field, New Cicily
+Ugly
+
+-2369985153822691615	Cheryl	12/29/14	Kayla	2519 Highland Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822691614	Lee	12/29/14	Ellen	20989 Holly Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691613	Jeffery	12/29/14	Ethan	22726 Washington Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691612	Annie	12/29/14	Ellen	21722 Lehua Spring Field, New Cicily
+Bad
+
+-2369985153822691611	Betty	12/29/14	Kayla	18005 Canyon Spring Field, New Cicily
+Bad
+
+-2369985153822691610	Megan	12/29/14	Laura	28177 Fifth Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691609	Kathleen	12/29/14	Helen	19446 Shore Spring Field, New Cicily
+Ugly
+
+-2369985153822691608	Rylee	12/29/14	Kayla	27293 Center Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691607	Haley	12/29/14	Ethan	20039 Eighth Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+Good
+
+-2369985153822691606	Edgar	12/29/14	Helen	27274 Ridge Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822691605	Carolyn	12/29/14	Melanie	4541 Eighth Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+-2369985153822691604	Cynthia	12/29/14	Melanie	1231 Main Spring Field, New Cicily
+Ugly
+
+-2369985153822691603	Kathryn	12/29/14	Christine	13940 Aspen Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691602	Hannah	12/29/14	Helen	23101 Walnut Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+-2369985153822691601	Wanda	12/29/14	Angela	5966 Palo Verde Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+-2369985153822691600	Grant	12/29/14	Ethan	18841 Cypress Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822691599	Henry	12/29/14	Kayla	2093 Highland Spring Field, New Cicily
+Ugly
+Ugly
+Good
+Bad
+
+-2369985153822691598	Debbie	12/29/14	Ethan	7330 Lake Spring Field, New Cicily
+Ugly
+
+-2369985153822691597	Mia	12/29/14	Melanie	28162 Magnolia Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822691596	Dale	12/29/14	Ellen	4159 Pinon Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691595	Tracey	12/29/14	Helen	15034 Wilson Spring Field, New Cicily
+Good
+
+-2369985153822691594	Marjorie	12/29/14	Melanie	12024 Fifth Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691593	Erin	12/29/14	Melanie	8614 Hampton Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822691592	Miranda	12/29/14	Ellen	15615 Fourth Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+-2369985153822691591	Danny	12/29/14	Kayla	22567 Pinon Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691590	Adriana	12/29/14	Helen	6688 County Line Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691589	Terry	12/29/14	Christine	21781 Lincoln Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822691588	Holly	12/29/14	Ethan	3371 Hemlock Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691587	Matthew	12/29/14	Laura	5620 Lakeview Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822691586	Tricia	12/30/14	Melanie	12385 Lincoln Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+-2369985153822691585	Corey	12/30/14	Laura	6732 Lakeview Spring Field, New Cicily
+Ugly
+
+-2369985153822691584	Christie	12/30/14	Ethan	2784 Broadway Spring Field, New Cicily
+Bad
+Bad
+Good
+
+-2369985153822691583	Kenneth	12/30/14	Kayla	26785 Dogwood Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822691582	Kerry	12/30/14	Theresa	18551 North Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691581	Mercedes	12/30/14	Helen	25174 Cedar Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822691580	Matthew	12/30/14	Melanie	18916 Pleasant Spring Field, New Cicily
+Bad
+
+-2369985153822691579	Rebecca	12/30/14	Kayla	11033 Highland Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691578	Nicholas	12/30/14	Ethan	26779 First Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691577	Joe	12/30/14	Kayla	11977 Center Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691576	Ricky	12/30/14	Laura	27739 Thirteenth Spring Field, New Cicily
+Good
+
+-2369985153822691575	Wesley	12/30/14	Ethan	8497 Pecan Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822691574	Kaitlyn	12/30/14	Laura	25513 Smith Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822691573	Lewis	12/30/14	Angela	22088 Canyon Spring Field, New Cicily
+Good
+Good
+Ugly
+
+-2369985153822691572	Gerald	12/30/14	Christine	1014 Williams Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822691571	Jerry	12/30/14	Kayla	10736 Tenth Spring Field, New Cicily
+Ugly
+
+-2369985153822691570	Patty	12/30/14	Theresa	21651 A Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691569	Martin	12/30/14	Ethan	19801 Hill Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691568	Manuel	12/30/14	Laura	13381 County Line Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691567	Scott	12/30/14	Angela	13679 Aloha Spring Field, New Cicily
+Bad
+Ugly
+
+-2369985153822691566	Wesley	12/30/14	Theresa	6621 Ridge Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691565	Mia	12/30/14	Helen	25481 North Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691564	Stuart	12/30/14	Melanie	12962 Canyon Spring Field, New Cicily
+Bad
+
+-2369985153822691563	Roger	12/30/14	Angela	7510 Williams Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822691562	Margaret	12/30/14	Ethan	9364 Maple Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691561	Veronica	12/30/14	Helen	3687 Aloha Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822691560	Calvin	12/30/14	Helen	27084 Fourth Spring Field, New Cicily
+Good
+Bad
+Good
+
+-2369985153822691559	Christina	12/30/14	Ethan	25935 Hickory Spring Field, New Cicily
+Ugly
+
+-2369985153822691558	Brian	12/30/14	Melanie	23726 Tenth Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822691557	Jay	12/30/14	Laura	11007 Lake Spring Field, New Cicily
+Bad
+
+-2369985153822691556	Morgan	12/30/14	Laura	20410 S 400 Spring Field, New Cicily
+Ugly
+Bad
+
+-2369985153822691555	Dennis	12/30/14	Laura	5030 Kahili Spring Field, New Cicily
+Good
+
+-2369985153822691554	Courtney	12/30/14	Christine	15613 Mountain View Spring Field, New Cicily
+Ugly
+
+-2369985153822691553	Micheal	12/30/14	Helen	13542 Kahili Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+-2369985153822691552	Peggy	12/30/14	Melanie	2904 Columbine Spring Field, New Cicily
+Good
+Bad
+Bad
+
+-2369985153822691551	Kristy	12/31/14	Ethan	21455 Highland Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822691550	Tina	12/31/14	Laura	2343 Malulani Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691549	Stacy	12/31/14	Angela	4722 Elm Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691548	Marilyn	12/31/14	Theresa	15256 Aspen Spring Field, New Cicily
+Bad
+Good
+
+-2369985153822691547	Lauren	12/31/14	Kayla	28813 Palo Verde Spring Field, New Cicily
+Good
+Good
+Bad
+Bad
+
+-2369985153822691546	Bernice	12/31/14	Melanie	12520 Quail Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691545	Renee	12/31/14	Melanie	15910 Park Spring Field, New Cicily
+Bad
+
+-2369985153822691544	Henry	12/31/14	Kayla	8384 S 100 Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691543	Erin	12/31/14	Helen	23236 Holly Spring Field, New Cicily
+Ugly
+Good
+
+-2369985153822691542	Samantha	12/31/14	Laura	16622 Thirteenth Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822691541	Sherri	12/31/14	Helen	8734 Narragansett Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822691540	Anna	12/31/14	Christine	4889 Lake Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+-2369985153822691539	Kurt	12/31/14	Laura	18879 Redwood Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822691538	Robin	12/31/14	Helen	4492 Holly Spring Field, New Cicily
+Good
+
+-2369985153822691537	Cathy	12/31/14	Helen	16913 Cedar Spring Field, New Cicily
+Bad
+
+-2369985153822691536	Gail	12/31/14	Melanie	15501 Second Spring Field, New Cicily
+Good
+Good
+Bad
+
+-2369985153822691535	Kendra	12/31/14	Christine	3946 Lakeview Spring Field, New Cicily
+Good
+
+-2369985153822691534	Manuel	12/31/14	Melanie	19973 Center Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+-2369985153822691533	Angela	12/31/14	Angela	20162 Birch Spring Field, New Cicily
+Bad
+
+-2369985153822691532	Freddie	12/31/14	Melanie	21575 Eighth Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822691531	Karen	12/31/14	Laura	25333 Narragansett Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+-2369985153822691530	Sally	12/31/14	Melanie	14768 Fourth Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+-2369985153822691529	Jazmin	12/31/14	Laura	25153 Delaware Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691528	Martha	12/31/14	Helen	4788 Wood Spring Field, New Cicily
+Bad
+
+-2369985153822691527	Earnest	12/31/14	Melanie	13169 Evergreen Spring Field, New Cicily
+Bad
+
+-2369985153822691526	Sandra	12/31/14	Ethan	21555 Delaware Spring Field, New Cicily
+Bad
+Bad
+
+-2369985153822691525	Dale	12/31/14	Christine	19100 Aspen Spring Field, New Cicily
+Good
+Good
+
+-2369985153822691524	Brad	12/31/14	Ethan	240 S 100 Spring Field, New Cicily
+Bad
+
+-2369985153822691523	Eleanor	12/31/14	Christine	17885 N 400 Spring Field, New Cicily
+Good
+Ugly
+
+-2369985153822691522	Matthew	12/31/14	Christine	3450 Tenth Spring Field, New Cicily
+Good
+
+-2369985153822691521	Pamela	12/31/14	Angela	1903 S 400 Spring Field, New Cicily
+Bad
+Good
+Good
+
+-2369985153822691520	Lillian	12/31/14	Theresa	18618 Hemlock Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+-2369985153822691519	Julie	12/31/14	Ethan	26606 Evergreen Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+-2369985153822691518	Christine	12/31/14	Laura	1864 Malulani Spring Field, New Cicily
+Ugly
+Ugly
+
+-2369985153822691517	Shelia	12/31/14	Theresa	9032 Center Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+-2369985153822691516	Jill	12/31/14	Theresa	17077 County Line Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+-2369985153822691515	Darrell	12/31/14	Laura	13518 Walnut Spring Field, New Cicily
+Good
+Bad
+
+-2369985153822691514	Marissa	12/31/14	Laura	2974 Thirteenth Spring Field, New Cicily
+Ugly
+
+-2369985153822691513	George	12/31/14	Christine	27954 Hill Spring Field, New Cicily
+Bad
+
+-2369985153822691512	Manuel	12/31/14	Helen	14406 Lee Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+-2369985153822691511	Jamie	12/31/14	Angela	22925 Ninth Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+-2369985153822691510	Michelle	12/31/14	Kayla	29046 River Spring Field, New Cicily
+Bad
+
+-2369985153822691509	Mikayla	12/31/14	Laura	13055 Ridge Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Good
+
+-2369985153822691508	Julie	12/31/14	Ethan	7286 Pinon Spring Field, New Cicily
+Bad
+Ugly
+Good
+Ugly
+
+-2369985153822691507	Reginald	12/31/14	Christine	10856 Main Spring Field, New Cicily
+Bad
+Good
+Bad
+
+-2369985153822691506	Steve	12/31/14	Theresa	15926 Park Spring Field, New Cicily
+Bad
+Ugly
+

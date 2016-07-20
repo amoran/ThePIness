@@ -1,0 +1,6268 @@
+Little Roman's
+
+Cheese
+CHEESE
+EXTRA_CHEESE
+
+Pepperoni
+CHEESE
+PEPPERONI
+
+Ultimate
+CHEESE
+PEPPERONI
+MUSHROOMS
+ONIONS
+SAUSAGE
+BACON
+EXTRA_CHEESE
+BLACK_OLIVES
+GREEN_PEPPERS
+
+-8861588626619736984	Pedro	10/1/14	Jack	26980 Lee Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736983	Francisco	10/1/14	Russell	25996 Main Spring Field, New Cicily
+Cheese
+
+-8861588626619736982	Gayle	10/1/14	Joel	7954 Columbine Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736981	Ray	10/1/14	Walter	8338 First Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736980	Jeremy	10/1/14	Roberto	20904 Oak Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736979	Mercedes	10/1/14	Roberto	10433 Church Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736978	Shaun	10/1/14	Joel	22460 Aloha Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736977	Dwight	10/1/14	Roberto	4956 Elm Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Cheese
+
+-8861588626619736976	Dustin	10/1/14	Roberto	22034 Williams Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736975	Daniel	10/1/14	Warren	27840 Center Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736974	Angie	10/1/14	Warren	16211 Evergreen Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736973	Gloria	10/1/14	Warren	2552 Williams Spring Field, New Cicily
+Cheese
+
+-8861588626619736972	Natalia	10/1/14	Michael	25448 Maple Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736971	Michele	10/1/14	Rosalie	17769 Fifth Spring Field, New Cicily
+Cheese
+
+-8861588626619736970	Rebecca	10/1/14	Rosalie	21475 Main Spring Field, New Cicily
+Ultimate
+
+-8861588626619736969	Mary	10/1/14	Warren	1747 Jackson Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736968	Isabella	10/1/14	Jack	14399 Lakeview Spring Field, New Cicily
+Ultimate
+
+-8861588626619736967	Ellen	10/1/14	Jack	12902 Wood Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736966	Dale	10/1/14	Rosalie	14933 Cedar Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736965	Michele	10/1/14	Joel	18042 Wilson Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736964	Charles	10/1/14	Jack	23184 Evergreen Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736963	Edgar	10/1/14	Michael	27274 Ridge Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736962	Jim	10/1/14	Russell	14554 Highland Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736961	Marvin	10/1/14	Rosalie	17327 Oak Spring Field, New Cicily
+Ultimate
+
+-8861588626619736960	Gregory	10/1/14	Walter	14492 Cedar Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736959	Martin	10/1/14	Walter	20060 Thirteenth Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736958	Ricky	10/1/14	Joel	29886 North Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736957	Lisa	10/1/14	Russell	8506 A Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736956	Glen	10/1/14	Russell	8113 Pinon Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736955	Billy	10/1/14	Walter	13530 Hillside Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736954	Jose	10/1/14	Michael	24277 Maple Spring Field, New Cicily
+Cheese
+
+-8861588626619736953	Miranda	10/1/14	Joel	15615 Fourth Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736952	Gina	10/1/14	Warren	21826 Walnut Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736951	Fernando	10/1/14	Joel	19578 Bay Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736950	Shelia	10/1/14	Russell	19812 Aloha Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736949	Dolores	10/1/14	Joel	19745 Shore Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736948	Jerome	10/1/14	Michael	24825 Williams Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736947	Gregory	10/1/14	Jack	7016 Highland Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736946	Joy	10/1/14	Russell	16861 Kansas Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736945	Earl	10/1/14	Roberto	8241 Pinon Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736944	Tina	10/2/14	Michael	18853 S 400 Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736943	Donnie	10/2/14	Jack	27902 Lakeview Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736942	Eileen	10/2/14	Walter	23961 Meadow Spring Field, New Cicily
+Ultimate
+
+-8861588626619736941	Linda	10/2/14	Rosalie	12419 Pinon Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736940	Adrienne	10/2/14	Michael	25143 Pecan Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736939	Rita	10/2/14	Jack	2199 Mountain View Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736938	Jon	10/2/14	Jack	9926 Willow Spring Field, New Cicily
+Cheese
+
+-8861588626619736937	Cheryl	10/2/14	Russell	17322 Canyon Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736936	Vanessa	10/2/14	Warren	20718 Mountain View Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736935	Jodi	10/2/14	Russell	25108 West Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736934	Billy	10/2/14	Jack	18829 Apache Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736933	Garrett	10/2/14	Rosalie	2725 Navajo Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736932	Constance	10/2/14	Rosalie	24162 Lehua Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736931	Brandi	10/2/14	Roberto	11548 Hemlock Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736930	Nolan	10/2/14	Michael	2646 Ninth Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619736929	Vanessa	10/2/14	Warren	476 Willow Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736928	Jeffery	10/2/14	Michael	22726 Washington Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736927	Joe	10/2/14	Jack	23674 Kansas Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736926	Dana	10/2/14	Roberto	16863 Aspen Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736925	Austin	10/2/14	Warren	11699 County Line Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736924	Melanie	10/2/14	Joel	14410 Seventh Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736923	Martin	10/2/14	Roberto	836 Sycamore Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736922	Erica	10/2/14	Michael	18424 Dogwood Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736921	Martha	10/2/14	Jack	21707 Sycamore Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736920	Ruby	10/2/14	Rosalie	12787 County Line Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736919	Stephen	10/2/14	Walter	17346 Jackson Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736918	Jaime	10/2/14	Walter	9607 Kukui Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736917	Clayton	10/2/14	Michael	19917 Church Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736916	Edwin	10/2/14	Rosalie	8779 Johnson Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+Cheese
+
+-8861588626619736915	Lydia	10/2/14	Russell	7035 Ninth Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736914	Danny	10/2/14	Joel	22567 Pinon Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736913	Carlos	10/2/14	Jack	13335 Kukui Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736912	Gina	10/2/14	Warren	21826 Walnut Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736911	Stacy	10/2/14	Joel	6195 N 400 Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619736910	Jerome	10/2/14	Warren	19989 Navajo Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736909	Leslie	10/2/14	Walter	1717 Lehua Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736908	Vincent	10/2/14	Jack	28315 N 400 Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736907	Angelina	10/2/14	Jack	5773 Quail Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736906	Rebecca	10/2/14	Warren	15692 Evergreen Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736905	Lance	10/2/14	Russell	3539 Center Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736904	Luis	10/2/14	Jack	19825 Cottonwood Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736903	Kimberly	10/2/14	Roberto	12101 Holly Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736902	Fernando	10/2/14	Rosalie	4401 Mountain View Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736901	Kristopher	10/2/14	Rosalie	28758 Broadway Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736900	Glen	10/2/14	Roberto	15093 Pinon Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736899	Joel	10/3/14	Roberto	20225 Seventh Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736898	Kathleen	10/3/14	Roberto	22946 Sixth Spring Field, New Cicily
+Ultimate
+
+-8861588626619736897	Jacob	10/3/14	Jack	29179 S 400 Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736896	Savannah	10/3/14	Russell	273 Willow Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736895	Tanya	10/3/14	Roberto	8588 Elm Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736894	Angelica	10/3/14	Jack	6896 North Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736893	Peggy	10/3/14	Jackie	13160 Third Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736892	Cheryl	10/3/14	Michael	9717 Willow Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736891	Peter	10/3/14	Rosalie	5179 Wilson Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736890	Katelyn	10/3/14	Rosalie	16325 River Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736889	Yvette	10/3/14	Michael	21728 Main Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736888	Cheryl	10/3/14	Rosalie	21182 Mesquite Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736887	Stanley	10/3/14	Roberto	19061 Hill Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736886	Jimmy	10/3/14	Warren	8886 Church Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736885	Shane	10/3/14	Rosalie	6638 Pleasant Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736884	Jacqueline	10/3/14	Warren	15048 Pine Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736883	Joy	10/3/14	Michael	28469 Mountain View Spring Field, New Cicily
+Ultimate
+
+-8861588626619736882	Frank	10/3/14	Warren	27095 Fifth Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736881	Alfred	10/3/14	Joel	28295 Pine Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736880	Monique	10/3/14	Rosalie	8757 Fifth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736879	Margaret	10/3/14	Michael	13608 Mesquite Spring Field, New Cicily
+Ultimate
+
+-8861588626619736878	Mia	10/3/14	Joel	25481 North Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736877	Melody	10/3/14	Michael	9729 Pecan Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736876	George	10/3/14	Michael	27294 Dogwood Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736875	Kirsten	10/3/14	Joel	19146 Meadow Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736874	Rick	10/3/14	Roberto	4764 Hickory Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736873	Bryan	10/3/14	Michael	5233 Park Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736872	Dave	10/3/14	Rosalie	833 Mountain View Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736871	Kelly	10/3/14	Roberto	25756 Birch Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736870	Larry	10/3/14	Russell	398 Ridge Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736869	Gene	10/3/14	Warren	15525 Wood Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736868	Owen	10/3/14	Jack	8788 Birch Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736867	Kristen	10/3/14	Warren	27830 Mountain View Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736866	Rita	10/3/14	Jack	25871 Eleventh Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736865	Cheyenne	10/3/14	Jack	9374 Sycamore Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736864	Omar	10/3/14	Warren	17757 First Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736863	Marco	10/3/14	Jack	19597 Smith Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736862	Adriana	10/3/14	Michael	6688 County Line Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736861	Mark	10/3/14	Jackie	15036 Second Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736860	Lyle	10/3/14	Jack	2883 West Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736859	Wesley	10/3/14	Warren	17572 Washington Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736858	Dennis	10/3/14	Michael	5030 Kahili Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736857	Thelma	10/3/14	Rosalie	4079 Canyon Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736856	Charlotte	10/3/14	Russell	17816 Hillside Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619736855	Karen	10/3/14	Warren	6273 Highland Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736854	Jeffery	10/3/14	Jackie	8450 Malulani Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736853	Deanna	10/3/14	Jack	22776 Airport Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736852	Russell	10/3/14	Michael	17493 Bay Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736851	Lindsey	10/4/14	Joel	13699 Highland Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736850	Juan	10/4/14	Ashley	25055 Mountain View Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736849	Howard	10/4/14	Russell	19408 Cedar Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736848	Emily	10/4/14	Michael	12529 Holly Spring Field, New Cicily
+Ultimate
+
+-8861588626619736847	Keith	10/4/14	Ashley	17124 Malulani Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736846	Jason	10/4/14	Warren	28806 Evergreen Spring Field, New Cicily
+Ultimate
+
+-8861588626619736845	Marian	10/4/14	Michael	22768 Canyon Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736844	Angela	10/4/14	Russell	3590 Malulani Spring Field, New Cicily
+Cheese
+
+-8861588626619736843	Levi	10/4/14	Warren	7256 Canyon Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736842	Douglas	10/4/14	Jackie	13057 Birch Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736841	Mike	10/4/14	Michael	4148 Lincoln Spring Field, New Cicily
+Ultimate
+
+-8861588626619736840	Sheila	10/4/14	Jack	694 Johnson Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736839	Lucy	10/4/14	Warren	27755 A Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736838	Glen	10/4/14	Michael	29935 Cherry Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736837	Andre	10/4/14	Roberto	6295 Magnolia Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736836	Mikayla	10/4/14	Jack	5635 Main Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736835	Renee	10/4/14	Roberto	28351 Navajo Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736834	Russell	10/4/14	Jackie	20079 Mesquite Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736833	Maria	10/4/14	Michael	2207 Cypress Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736832	Tommy	10/4/14	Jack	21116 Redwood Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736831	Bobby	10/4/14	Russell	24948 Orchard Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736830	Cassie	10/4/14	Roberto	22031 Kukui Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736829	Constance	10/4/14	Warren	27391 Thirteenth Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736828	Stephanie	10/4/14	Joel	21502 Hill Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736827	Manuel	10/4/14	Ashley	19465 Lee Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736826	Gloria	10/4/14	Roberto	16649 Pinon Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736825	Edwin	10/4/14	Jackie	26486 Sunset Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736824	Raymond	10/4/14	Jack	24056 Lake Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736823	Christy	10/4/14	Jack	4169 North Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736822	Carolyn	10/4/14	Roberto	24478 Wood Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619736821	Kurt	10/4/14	Ashley	22102 Seventh Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736820	Eric	10/4/14	Jack	29691 Lehua Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736819	Laura	10/4/14	Ashley	10275 Church Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736818	George	10/4/14	Warren	22458 Narragansett Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736817	Alexandria	10/4/14	Russell	10577 Broadway Spring Field, New Cicily
+Ultimate
+
+-8861588626619736816	Martha	10/4/14	Jackie	4584 Center Spring Field, New Cicily
+Cheese
+
+-8861588626619736815	Randy	10/4/14	Warren	19144 Willow Spring Field, New Cicily
+Cheese
+
+-8861588626619736814	Pat	10/4/14	Joel	2532 Pine Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736813	Ian	10/4/14	Jack	19484 Aloha Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736812	Herbert	10/4/14	Jackie	26135 Pinon Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736811	Andrew	10/4/14	Joel	3912 Fifth Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736810	Neil	10/4/14	Warren	19226 Williams Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736809	Geraldine	10/4/14	Jackie	4397 River Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736808	Lydia	10/4/14	Joel	29337 Evergreen Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736807	Isabella	10/4/14	Jackie	25978 Holly Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736806	Billy	10/5/14	Russell	25536 Lee Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736805	Christina	10/5/14	Ashley	4167 Ninth Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736804	Steven	10/5/14	Jack	20596 Bay Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736803	Desiree	10/5/14	Joel	27227 Park Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736802	Robin	10/5/14	Warren	4057 Elm Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736801	Fred	10/5/14	Jack	10583 Walnut Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736800	Daniel	10/5/14	Roberto	27840 Center Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736799	Juan	10/5/14	Michael	21123 Pine Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736798	Carl	10/5/14	Joel	23294 Pinon Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736797	Jillian	10/5/14	Joel	24095 Meadow Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736796	Kevin	10/5/14	Russell	6887 Kahili Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736795	Ann	10/5/14	Jack	1740 Lake Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736794	Brandy	10/5/14	Ashley	14530 S 400 Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736793	Stephen	10/5/14	Warren	12307 Main Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736792	Eddie	10/5/14	Roberto	14121 Eighth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736791	Grant	10/5/14	Ashley	14649 Willow Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736790	Christian	10/5/14	Jackie	19245 Hemlock Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736789	Holly	10/5/14	Roberto	8167 Cedar Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736788	Kristine	10/5/14	Joel	10891 Laurel Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736787	Dennis	10/5/14	Russell	5652 Narragansett Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736786	Jerry	10/5/14	Jackie	9229 River Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736785	Devon	10/5/14	Joel	16448 Orchard Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736784	Beth	10/5/14	Russell	8860 Center Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736783	Julia	10/5/14	Roberto	13173 Maple Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736782	Kristine	10/5/14	Jack	9421 Evergreen Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736781	Kari	10/5/14	Jack	6560 Center Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736780	Nancy	10/5/14	Ashley	14164 Meadow Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736779	Jack	10/5/14	Ashley	1175 Hampton Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736778	Kristi	10/5/14	Jack	17415 Quail Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736777	Patrick	10/5/14	Ashley	28358 Hillside Spring Field, New Cicily
+Cheese
+
+-8861588626619736776	Martha	10/5/14	Russell	4584 Center Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736775	Vincent	10/5/14	Jackie	991 Malulani Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736774	John	10/5/14	Warren	10074 County Line Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736773	Ellie	10/5/14	Joel	12915 S 100 Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736772	Jaden	10/5/14	Joel	25769 First Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736771	Courtney	10/5/14	Michael	15613 Mountain View Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736770	Karen	10/5/14	Jack	28120 Hampton Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736769	Terry	10/5/14	Ashley	7483 West Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736768	Sandra	10/5/14	Roberto	25729 Park Spring Field, New Cicily
+Cheese
+
+-8861588626619736767	Jeremiah	10/6/14	Michael	18316 Twelfth Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736766	Jacob	10/6/14	Joel	29179 S 400 Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736765	Joanne	10/6/14	Diane	16784 Wilson Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736764	Casey	10/6/14	Warren	13313 Hampton Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736763	Adam	10/6/14	Roberto	6801 Center Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736762	Brad	10/6/14	Roberto	20737 Lakeview Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736761	Mackenzie	10/6/14	Roberto	26134 West Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619736760	Jesse	10/6/14	Warren	12830 Sixth Spring Field, New Cicily
+Ultimate
+
+-8861588626619736759	Joshua	10/6/14	Russell	25767 Park Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736758	Gayle	10/6/14	Jack	29545 West Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736757	Johnathan	10/6/14	Roberto	18967 Juniper Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736756	Robert	10/6/14	Diane	15261 Oak Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736755	Samantha	10/6/14	Roberto	16622 Thirteenth Spring Field, New Cicily
+Cheese
+
+-8861588626619736754	Shirley	10/6/14	Jack	6338 Washington Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736753	Juan	10/6/14	Roberto	19673 Quail Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736752	Jacob	10/6/14	Joel	7748 Aloha Spring Field, New Cicily
+Ultimate
+
+-8861588626619736751	Stephen	10/6/14	Roberto	8730 Hill Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736750	Jesse	10/6/14	Roberto	17607 Malulani Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736749	Jon	10/6/14	Russell	667 Fourth Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736748	Crystal	10/6/14	Warren	9859 Lakeview Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619736747	Danielle	10/6/14	Jackie	3515 Fifth Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736746	Angela	10/6/14	Jack	18294 Spruce Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736745	Tony	10/6/14	Russell	6200 Cottonwood Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736744	Logan	10/6/14	Jackie	19164 Broadway Spring Field, New Cicily
+Cheese
+
+-8861588626619736743	Frank	10/6/14	Roberto	27205 S 400 Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736742	Jeffrey	10/6/14	Joel	6928 Meadow Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736741	Eli	10/6/14	Jackie	19335 Lee Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736740	Tamara	10/6/14	Roberto	840 Laurel Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736739	Frederick	10/6/14	Michael	9827 Ninth Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736738	Jacob	10/6/14	Warren	9430 A Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736737	Ruben	10/6/14	Michael	18309 River Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736736	Sean	10/6/14	Jackie	28698 Lakeview Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736735	Kelly	10/6/14	Michael	7136 Aspen Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736734	Thelma	10/6/14	Warren	21587 A Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736733	Stephanie	10/6/14	Warren	28914 Evergreen Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736732	Terry	10/6/14	Roberto	21730 Cedar Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736731	Sherri	10/6/14	Joel	5770 Willow Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736730	Lloyd	10/6/14	Jackie	5869 Aspen Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736729	Andre	10/6/14	Jack	21210 Aloha Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736728	Norman	10/6/14	Michael	8829 Malulani Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736727	Floyd	10/6/14	Joel	18373 Mesquite Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736726	Shirley	10/6/14	Diane	11872 Spruce Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736725	Irene	10/6/14	Joel	18083 Jackson Spring Field, New Cicily
+Ultimate
+
+-8861588626619736724	Stephanie	10/6/14	Michael	16944 Walnut Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736723	Timothy	10/6/14	Roberto	5123 Palo Verde Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736722	Calvin	10/6/14	Diane	28195 Redwood Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736721	Lewis	10/6/14	Diane	27240 Eighth Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736720	Betty	10/6/14	Jack	18599 Birch Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736719	Caroline	10/6/14	Roberto	10383 Mountain View Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736718	Maxine	10/6/14	Diane	28019 Smith Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736717	Mark	10/6/14	Jackie	25773 Ridge Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736716	Leo	10/6/14	Warren	7232 Twelfth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736715	Wendy	10/6/14	Michael	3007 Birch Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+Ultimate
+
+-8861588626619736714	Marilyn	10/6/14	Michael	1046 Lake Spring Field, New Cicily
+Cheese
+
+-8861588626619736713	Austin	10/6/14	Michael	8632 Second Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736712	Caden	10/7/14	Diane	24691 Kansas Spring Field, New Cicily
+Cheese
+
+-8861588626619736711	Anthony	10/7/14	Jackie	14994 Narragansett Spring Field, New Cicily
+Cheese
+
+-8861588626619736710	Madeline	10/7/14	Jackie	1521 Elm Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736709	Nathaniel	10/7/14	Michael	69 Church Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736708	Diana	10/7/14	Joel	23087 Elm Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619736707	Ellie	10/7/14	Joel	2432 Quail Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736706	Stuart	10/7/14	Jackie	25204 Lee Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736705	Lester	10/7/14	Russell	20111 Redwood Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736704	June	10/7/14	Russell	22234 Birch Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736703	Eugene	10/7/14	Kim	21132 West Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736702	Mary	10/7/14	Jack	1747 Jackson Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736701	Ariel	10/7/14	Kim	13376 Broadway Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736700	Fernando	10/7/14	Russell	9218 S 100 Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736699	Earnest	10/7/14	Diane	13169 Evergreen Spring Field, New Cicily
+Ultimate
+
+-8861588626619736698	Ann	10/7/14	Kim	18329 Delaware Spring Field, New Cicily
+Cheese
+
+-8861588626619736697	Madeline	10/7/14	Kim	26300 Magnolia Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736696	Natasha	10/7/14	Joel	2930 Airport Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736695	Jerry	10/7/14	Jackie	28029 Highland Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736694	Jessie	10/7/14	Diane	4786 Kansas Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736693	Duane	10/7/14	Russell	24985 A Spring Field, New Cicily
+Cheese
+
+-8861588626619736692	Anne	10/7/14	Jack	12104 Pine Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736691	Mark	10/7/14	Roberto	3892 Kahili Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736690	Brian	10/7/14	Michael	7525 Birch Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736689	Debra	10/7/14	Joel	11413 Wood Spring Field, New Cicily
+Ultimate
+
+-8861588626619736688	Deanna	10/7/14	Jack	11849 Aloha Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736687	Theodore	10/7/14	Jackie	27835 Lincoln Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736686	Paige	10/7/14	Jackie	19576 A Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736685	Maria	10/7/14	Jack	18160 Lee Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736684	Chelsea	10/7/14	Roberto	14080 A Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736683	Renee	10/7/14	Jack	23997 Spruce Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736682	Megan	10/7/14	Jackie	26611 Fourth Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736681	Nancy	10/7/14	Roberto	6927 Wilson Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736680	Hayden	10/7/14	Diane	23588 Delaware Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736679	Norma	10/7/14	Kim	2076 Williams Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736678	Tyler	10/7/14	Jackie	21064 Ridge Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736677	Johnathan	10/7/14	Kim	18683 Center Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736676	Guy	10/7/14	Jack	20130 Elm Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736675	Zachary	10/8/14	Jackie	22524 Ridge Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736674	Larry	10/8/14	Jack	22606 Hampton Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736673	Ricky	10/8/14	Russell	29828 Jackson Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736672	Antonio	10/8/14	Joel	179 Dogwood Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736671	Nicole	10/8/14	Diane	7316 Airport Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736670	Corey	10/8/14	Jack	6732 Lakeview Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736669	Christine	10/8/14	Joel	27693 Kahili Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736668	Gregory	10/8/14	Roberto	27771 Oak Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736667	Bailey	10/8/14	Joel	7218 Hemlock Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736666	Patricia	10/8/14	Michael	21559 Walnut Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736665	Cecil	10/8/14	Jack	29767 Maple Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736664	Gloria	10/8/14	Joel	14311 Hickory Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736663	Sonia	10/8/14	Diane	13479 Church Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736662	Lucas	10/8/14	Jackie	18207 Ninth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736661	Louis	10/8/14	Russell	11314 Fourth Spring Field, New Cicily
+Ultimate
+
+-8861588626619736660	Marcus	10/8/14	Roberto	25836 Thirteenth Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736659	Ruth	10/8/14	Joel	8433 Sunset Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736658	William	10/8/14	Shirley	25257 Spruce Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736657	Jeanette	10/8/14	Roberto	27879 Lehua Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736656	Janis	10/8/14	Joel	12226 Aloha Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736655	Kelly	10/8/14	Shirley	29169 Sixth Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736654	Liam	10/8/14	Shirley	23018 Williams Spring Field, New Cicily
+Ultimate
+
+-8861588626619736653	Wallace	10/8/14	Jackie	11459 Delaware Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736652	Tracy	10/8/14	Jackie	18918 Cypress Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736651	Annette	10/8/14	Joel	23917 Johnson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736650	Patrick	10/8/14	Jack	10146 Mesquite Spring Field, New Cicily
+Cheese
+
+-8861588626619736649	Terri	10/8/14	Michael	18084 Magnolia Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736648	Ella	10/8/14	Jackie	28931 Kahili Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736647	Caitlin	10/8/14	Joel	1455 Sycamore Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736646	Darlene	10/8/14	Diane	14737 Lee Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736645	Larry	10/8/14	Joel	15643 Magnolia Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736644	Marisa	10/8/14	Diane	8463 Lincoln Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736643	Lori	10/8/14	Michael	11953 Meadow Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736642	Audrey	10/8/14	Jack	1017 Shore Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736641	Tony	10/8/14	Roberto	21045 Center Spring Field, New Cicily
+Ultimate
+
+-8861588626619736640	Roger	10/8/14	Diane	4874 Willow Spring Field, New Cicily
+Ultimate
+
+-8861588626619736639	Howard	10/8/14	Jack	14788 Kahili Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736638	Wanda	10/8/14	Joel	5966 Palo Verde Spring Field, New Cicily
+Cheese
+
+-8861588626619736637	Victoria	10/8/14	Roberto	16952 Orchard Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736636	Melissa	10/8/14	Roberto	15673 Magnolia Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736635	Janice	10/8/14	Michael	18658 A Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736634	Lillian	10/8/14	Russell	19451 Lake Spring Field, New Cicily
+Ultimate
+
+-8861588626619736633	Holly	10/8/14	Jackie	18698 S 400 Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736632	Brody	10/8/14	Diane	2931 Aloha Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736631	Penny	10/8/14	Michael	5795 Fifth Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736630	Kim	10/8/14	Michael	2333 Birch Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736629	Sonia	10/8/14	Russell	14986 Dogwood Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736628	Harriet	10/8/14	Joel	16660 Pleasant Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736627	Ayden	10/8/14	Michael	10032 Sycamore Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736626	Jeff	10/8/14	Diane	286 S 400 Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736625	Sabrina	10/8/14	Joel	23833 Laurel Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619736624	Miguel	10/8/14	Roberto	13911 Apache Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736623	Joanna	10/8/14	Jack	12006 Aspen Spring Field, New Cicily
+Cheese
+
+-8861588626619736622	Jaden	10/8/14	Shirley	25769 First Spring Field, New Cicily
+Cheese
+
+-8861588626619736621	Amanda	10/8/14	Jackie	6098 Thirteenth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736620	Zachary	10/8/14	Joel	14922 Park Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736619	Alyssa	10/8/14	Jack	17553 Hillside Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736618	Tricia	10/9/14	Roberto	12385 Lincoln Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736617	Daniel	10/9/14	Michael	6174 Palo Verde Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736616	Don	10/9/14	Michael	7944 Shore Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736615	Sherry	10/9/14	Shirley	8522 Mesquite Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736614	Hayden	10/9/14	Roberto	14887 Maple Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736613	Lillian	10/9/14	Michael	5153 Kukui Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736612	Bridget	10/9/14	Roberto	447 Wood Spring Field, New Cicily
+Cheese
+
+-8861588626619736611	Mia	10/9/14	Michael	5814 Center Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736610	Mckenzie	10/9/14	Jack	19402 Juniper Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736609	Jim	10/9/14	Joel	24491 Cottonwood Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736608	Abigail	10/9/14	Roberto	15766 Hill Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736607	Adriana	10/9/14	Shirley	17186 Orchard Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736606	Allison	10/9/14	Jack	25584 West Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736605	Tyler	10/9/14	Jack	2064 Tenth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736604	Frank	10/9/14	Jack	27205 S 400 Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736603	Gail	10/9/14	Jackie	19646 Pinon Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736602	Vivian	10/9/14	Jack	6693 Seventh Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736601	Melody	10/9/14	Jack	9729 Pecan Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+Cheese
+
+-8861588626619736600	Anthony	10/9/14	Jackie	11637 Delaware Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736599	Tabitha	10/9/14	Shirley	13597 Sunset Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736598	Anna	10/9/14	Russell	1908 Orchard Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736597	Jane	10/9/14	Shirley	3433 Park Spring Field, New Cicily
+Cheese
+
+-8861588626619736596	Cynthia	10/9/14	Russell	1231 Main Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736595	Darren	10/9/14	Jackie	6122 Aspen Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Cheese
+
+-8861588626619736594	Debra	10/9/14	Jack	11413 Wood Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736593	Danielle	10/9/14	Michael	24170 Evergreen Spring Field, New Cicily
+Cheese
+
+-8861588626619736592	Brian	10/9/14	Michael	434 Dogwood Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736591	Suzanne	10/9/14	Joel	16605 Malulani Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736590	Dan	10/9/14	Michael	16941 Sycamore Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736589	Walter	10/9/14	Jackie	14975 Kansas Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+Cheese
+
+-8861588626619736588	Anne	10/9/14	Diane	22173 Mesquite Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736587	Jonathon	10/9/14	Jackie	22895 Mesquite Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736586	Alan	10/9/14	Joel	27565 Twelfth Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736585	Garry	10/9/14	Roberto	24067 Juniper Spring Field, New Cicily
+Ultimate
+
+-8861588626619736584	Matthew	10/9/14	Shirley	420 Shore Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736583	Arthur	10/9/14	Russell	11990 Church Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736582	Fernando	10/9/14	Joel	19578 Bay Spring Field, New Cicily
+Cheese
+
+-8861588626619736581	Dominic	10/9/14	Diane	20311 Twelfth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736580	Lynda	10/9/14	Jack	22838 Dogwood Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736579	Anita	10/9/14	Jackie	18065 Lakeview Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736578	Veronica	10/9/14	Joel	5147 Hickory Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736577	Willard	10/9/14	Jack	13513 Cottonwood Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736576	Gavin	10/9/14	Jack	19466 Magnolia Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736575	Katie	10/9/14	Michael	12260 First Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736574	Stacey	10/10/14	Russell	21602 North Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736573	Jean	10/10/14	Shirley	10867 Navajo Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736572	Vanessa	10/10/14	Joel	13850 Airport Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736571	Holly	10/10/14	Michael	14364 Pine Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736570	Ruby	10/10/14	Diane	17040 Quail Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736569	Fernando	10/10/14	Roberto	2138 Lincoln Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736568	Gina	10/10/14	Shirley	16296 Johnson Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736567	Brandi	10/10/14	Jackie	11548 Hemlock Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736566	Sheila	10/10/14	Russell	24616 Fourth Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736565	Sarah	10/10/14	Jack	9460 Mountain View Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736564	Faith	10/10/14	Diane	26144 Willow Spring Field, New Cicily
+Ultimate
+
+-8861588626619736563	Eugene	10/10/14	Roberto	21132 West Spring Field, New Cicily
+Ultimate
+
+-8861588626619736562	Isabella	10/10/14	Diane	7846 Hemlock Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736561	Carrie	10/10/14	Joel	25626 Twelfth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736560	Francis	10/10/14	Russell	11528 Williams Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736559	Addison	10/10/14	Michael	3876 Malulani Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736558	Pamela	10/10/14	Jack	25045 Aloha Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736557	Maria	10/10/14	Russell	23135 Church Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736556	Jon	10/10/14	Diane	18023 Kahili Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736555	Yvette	10/10/14	Roberto	21548 Johnson Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736554	Earnest	10/10/14	Shirley	13169 Evergreen Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736553	Riley	10/10/14	Jack	27209 Smith Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736552	Kayla	10/10/14	Shirley	8317 Malulani Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736551	Nicole	10/10/14	Roberto	8485 Washington Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736550	Bryan	10/10/14	Michael	5233 Park Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736549	Isabella	10/10/14	Jack	11331 Walnut Spring Field, New Cicily
+Ultimate
+
+-8861588626619736548	Alejandro	10/10/14	Roberto	4308 Johnson Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736547	Jonathan	10/10/14	Joel	8878 Broadway Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736546	Nicholas	10/10/14	Russell	17386 Ninth Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+Cheese
+
+-8861588626619736545	Pauline	10/10/14	Roberto	10715 Main Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736544	Deborah	10/10/14	Michael	10904 Maple Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736543	Kenneth	10/10/14	Shirley	24745 Airport Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736542	Donald	10/10/14	Jackie	22128 Jackson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736541	Ronald	10/10/14	Shirley	5525 S 100 Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736540	Nicolas	10/10/14	Shirley	21726 Bay Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736539	Craig	10/10/14	Roberto	676 Hampton Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736538	Rosa	10/10/14	Jackie	22361 Holly Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736537	Marcia	10/10/14	Shirley	567 Ridge Spring Field, New Cicily
+Cheese
+
+-8861588626619736536	Caleb	10/10/14	Jack	5019 Quail Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736535	Selena	10/10/14	Russell	26628 Meadow Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736534	Reginald	10/10/14	Joel	17642 Redwood Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736533	Jimmy	10/10/14	Roberto	16830 Jackson Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736532	Judith	10/10/14	Joel	17624 Shore Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736531	Neil	10/10/14	Jack	16291 Orchard Spring Field, New Cicily
+Ultimate
+
+-8861588626619736530	Veronica	10/10/14	Joel	20269 Park Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736529	Alexis	10/10/14	Joel	15814 Williams Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736528	Theresa	10/10/14	Jack	904 Columbine Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736527	Evan	10/11/14	Joel	18142 Delaware Spring Field, New Cicily
+Cheese
+
+-8861588626619736526	Annette	10/11/14	Jackie	1186 Magnolia Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736525	Michael	10/11/14	Diane	24792 Orchard Spring Field, New Cicily
+Ultimate
+
+-8861588626619736524	Jacob	10/11/14	Russell	29179 S 400 Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736523	Krista	10/11/14	Jack	26738 Third Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736522	Anita	10/11/14	Russell	3021 Ridge Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736521	Andrew	10/11/14	Michael	10470 Birch Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736520	Marcus	10/11/14	Loretta	5637 Magnolia Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736519	Jack	10/11/14	Joel	23636 Palo Verde Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736518	Ivan	10/11/14	Joel	19389 Pleasant Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736517	Christine	10/11/14	Joel	16196 Seventh Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736516	Sabrina	10/11/14	Diane	8734 Holly Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736515	Bethany	10/11/14	Russell	18579 Lee Spring Field, New Cicily
+Ultimate
+
+-8861588626619736514	Ella	10/11/14	Joel	15622 Third Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736513	Erika	10/11/14	Jack	23131 Pioneer Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736512	Lauren	10/11/14	Roberto	27748 Highland Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736511	Sonia	10/11/14	Jack	13479 Church Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736510	Calvin	10/11/14	Michael	2000 Quail Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736509	Leslie	10/11/14	Loretta	4209 Airport Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736508	Melanie	10/11/14	Russell	15031 Lake Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736507	Mindy	10/11/14	Loretta	15058 N 400 Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736506	Darren	10/11/14	Jackie	1825 Hemlock Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736505	Micheal	10/11/14	Michael	7557 Hampton Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736504	Sarah	10/11/14	Joel	18725 Highland Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619736503	Joel	10/11/14	Loretta	10009 Maple Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736502	Bobby	10/11/14	Jack	15155 Eighth Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736501	Adam	10/11/14	Jackie	13514 Pioneer Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736500	Angel	10/11/14	Joel	26235 Dogwood Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619736499	Vernon	10/11/14	Michael	29757 Wood Spring Field, New Cicily
+Ultimate
+
+-8861588626619736498	Erick	10/11/14	Jack	24311 Twelfth Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736497	Paula	10/11/14	Jackie	19176 Hampton Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736496	Carolyn	10/11/14	Jackie	4541 Eighth Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736495	Judith	10/11/14	Joel	18358 Aspen Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736494	Rick	10/11/14	Diane	4764 Hickory Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736493	Cameron	10/11/14	Michael	4688 Cypress Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736492	Duane	10/11/14	Loretta	24985 A Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736491	Kelly	10/11/14	Diane	25756 Birch Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736490	Tonya	10/11/14	Roberto	3858 Seventh Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736489	Eileen	10/11/14	Michael	11269 First Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736488	Michele	10/11/14	Jackie	3323 Kansas Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+Cheese
+
+-8861588626619736487	Jose	10/11/14	Loretta	27572 Columbine Spring Field, New Cicily
+Ultimate
+
+-8861588626619736486	Ryan	10/11/14	Roberto	23682 Holly Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619736485	Denise	10/11/14	Loretta	18833 Tenth Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736484	Alexandra	10/11/14	Diane	5525 Cottonwood Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736483	Ryan	10/11/14	Michael	22722 Evergreen Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736482	George	10/11/14	Roberto	27954 Hill Spring Field, New Cicily
+Ultimate
+
+-8861588626619736481	Walter	10/11/14	Russell	21303 Malulani Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736480	Deanna	10/11/14	Michael	22776 Airport Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736479	Melinda	10/12/14	Jackie	6123 Juniper Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736478	Kaden	10/12/14	Roberto	9174 Hill Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736477	Howard	10/12/14	Diane	19408 Cedar Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736476	Tara	10/12/14	Loretta	28296 Pioneer Spring Field, New Cicily
+Cheese
+
+-8861588626619736475	Andrea	10/12/14	Diane	24013 Kukui Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736474	Dustin	10/12/14	Roberto	22034 Williams Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736473	Samuel	10/12/14	Russell	2015 Mesquite Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736472	Craig	10/12/14	Jack	5316 Pine Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736471	Sheila	10/12/14	Jack	16067 Delaware Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736470	Ian	10/12/14	Joel	6866 Sixth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736469	Claudia	10/12/14	Joel	4029 Juniper Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736468	Trinity	10/12/14	Diane	26276 Laurel Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736467	Douglas	10/12/14	Joel	13057 Birch Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736466	Samantha	10/12/14	Joel	16622 Thirteenth Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736465	Brayden	10/12/14	Diane	445 Eighth Spring Field, New Cicily
+Ultimate
+
+-8861588626619736464	Karl	10/12/14	Russell	8282 Sixth Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736463	Joe	10/12/14	Loretta	16177 Pine Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736462	Diana	10/12/14	Loretta	26494 Ninth Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736461	Dale	10/12/14	Diane	29859 Eleventh Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736460	Victor	10/12/14	Loretta	26411 Redwood Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736459	Tanya	10/12/14	Diane	13478 Pine Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736458	Sheri	10/12/14	Michael	12323 Wilson Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736457	Joseph	10/12/14	Roberto	11576 Fifth Spring Field, New Cicily
+Cheese
+
+-8861588626619736456	Lawrence	10/12/14	Joel	7685 Cherry Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736455	Linda	10/12/14	Russell	14779 Birch Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736454	John	10/12/14	Diane	15711 Highland Spring Field, New Cicily
+Cheese
+
+-8861588626619736453	Terri	10/12/14	Diane	13895 Quail Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619736452	Cynthia	10/12/14	Joel	26386 Quail Spring Field, New Cicily
+Cheese
+
+-8861588626619736451	Shirley	10/12/14	Loretta	27840 Kahili Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736450	Angel	10/12/14	Jackie	26235 Dogwood Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736449	Austin	10/12/14	Jack	13518 Palo Verde Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736448	Barbara	10/12/14	Jack	23656 S 400 Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736447	Clifford	10/12/14	Diane	5273 Wilson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736446	Don	10/12/14	Diane	9133 N 400 Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736445	George	10/12/14	Jackie	4635 Mountain View Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736444	Denise	10/12/14	Jack	9488 Willow Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736443	Nathaniel	10/12/14	Diane	28486 Wilson Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736442	Cheryl	10/12/14	Joel	167 County Line Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736441	Edward	10/12/14	Russell	26536 S 100 Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736440	Heather	10/12/14	Loretta	12389 Quail Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736439	Alfred	10/12/14	Loretta	6172 Pine Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736438	Misty	10/12/14	Jack	21739 S 400 Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736437	Irene	10/12/14	Russell	18083 Jackson Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736436	Vivian	10/12/14	Roberto	16060 River Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736435	Jean	10/12/14	Joel	12521 Magnolia Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736434	Sidney	10/12/14	Roberto	21395 Apache Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736433	Erin	10/12/14	Russell	26872 First Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736432	Joann	10/12/14	Diane	27691 Cypress Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736431	Caleb	10/12/14	Michael	15074 Pioneer Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736430	Geraldine	10/12/14	Russell	4397 River Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736429	Linda	10/12/14	Jackie	7915 Airport Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+Ultimate
+
+-8861588626619736428	Billy	10/13/14	Loretta	1490 Eighth Spring Field, New Cicily
+Ultimate
+
+-8861588626619736427	Caden	10/13/14	Jack	24691 Kansas Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736426	Tara	10/13/14	Roberto	28296 Pioneer Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736425	Alexis	10/13/14	Jackie	9198 Magnolia Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736424	Frank	10/13/14	Joel	4106 Columbine Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736423	Roberta	10/13/14	Russell	4607 Williams Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736422	Lindsay	10/13/14	Russell	15604 Shore Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736421	Zoey	10/13/14	Michael	15861 Columbine Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736420	Shannon	10/13/14	Jackie	1594 Palo Verde Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736419	Kathryn	10/13/14	Loretta	1294 Fifth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736418	Latoya	10/13/14	Roberto	5843 Pioneer Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736417	Andre	10/13/14	Michael	25547 N 400 Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736416	Derrick	10/13/14	Jackie	1583 Highland Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736415	Felicia	10/13/14	Russell	4082 Lincoln Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736414	Christine	10/13/14	Jack	29058 Hemlock Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736413	Trinity	10/13/14	Michael	8944 Highland Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736412	Harriet	10/13/14	Loretta	26653 Hampton Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736411	Laurie	10/13/14	Jack	25959 County Line Spring Field, New Cicily
+Ultimate
+
+-8861588626619736410	Dale	10/13/14	Loretta	19100 Aspen Spring Field, New Cicily
+Ultimate
+
+-8861588626619736409	Phyllis	10/13/14	Jack	9222 Hickory Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736408	Sara	10/13/14	Joel	18606 Hemlock Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736407	Philip	10/13/14	Joel	634 Eleventh Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736406	Mark	10/13/14	Loretta	3892 Kahili Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736405	Glenda	10/13/14	Jack	27318 Ninth Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736404	Rodney	10/13/14	Michael	13525 Eighth Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736403	Jordan	10/13/14	Jackie	411 Eleventh Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736402	Richard	10/13/14	Russell	13561 Pleasant Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736401	Nevaeh	10/13/14	Michael	2360 Pinon Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736400	Roy	10/13/14	Loretta	13866 Lake Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736399	Terry	10/13/14	Diane	9562 Orchard Spring Field, New Cicily
+Ultimate
+
+-8861588626619736398	Laurie	10/13/14	Jackie	17257 Kahili Spring Field, New Cicily
+Ultimate
+
+-8861588626619736397	Darryl	10/13/14	Diane	15441 Johnson Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619736396	Brittany	10/14/14	Roberto	25430 Ninth Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736395	Vanessa	10/14/14	Jack	13850 Airport Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736394	Natalie	10/14/14	Loretta	12865 Third Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736393	Ricky	10/14/14	Joel	23104 Lakeview Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736392	Nathaniel	10/14/14	Russell	25606 Bay Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736391	Sylvia	10/14/14	Jack	15148 First Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736390	Yvonne	10/14/14	Jack	9096 Twelfth Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736389	Crystal	10/14/14	Harry	15406 S 400 Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736388	Clarence	10/14/14	Joel	22097 West Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736387	Ted	10/14/14	Roberto	12560 Mesquite Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736386	Carson	10/14/14	Jackie	26207 Oak Spring Field, New Cicily
+Ultimate
+
+-8861588626619736385	Bobby	10/14/14	Jackie	28439 River Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619736384	Cassandra	10/14/14	Russell	21402 Cottonwood Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736383	Joe	10/14/14	Joel	21459 Fourth Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736382	Patty	10/14/14	Jack	21651 A Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736381	Wesley	10/14/14	Jack	21126 Kahili Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736380	Christine	10/14/14	Joel	17205 A Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736379	Angel	10/14/14	Jackie	22620 Meadow Spring Field, New Cicily
+Cheese
+
+-8861588626619736378	Kathleen	10/14/14	Russell	19446 Shore Spring Field, New Cicily
+Ultimate
+
+-8861588626619736377	Henry	10/14/14	Russell	7409 Jackson Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736376	Jeff	10/14/14	Joel	29444 Fifth Spring Field, New Cicily
+Ultimate
+
+-8861588626619736375	Valerie	10/14/14	Diane	9267 Twelfth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736374	Arlene	10/14/14	Roberto	25344 Kukui Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736373	Aubrey	10/14/14	Diane	26519 N 400 Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736372	Nancy	10/14/14	Russell	8050 Navajo Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736371	Suzanne	10/14/14	Roberto	7985 Quail Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736370	Harold	10/14/14	Joel	1746 Malulani Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736369	Ethel	10/14/14	Loretta	26013 Williams Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736368	Claudia	10/14/14	Jack	8728 Hillside Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736367	Garry	10/14/14	Jackie	3765 Hampton Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736366	Jaime	10/14/14	Harry	9607 Kukui Spring Field, New Cicily
+Ultimate
+
+-8861588626619736365	Larry	10/14/14	Harry	398 Ridge Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736364	Rodney	10/14/14	Jack	5868 Wilson Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736363	Lee	10/14/14	Joel	3857 Thirteenth Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736362	Calvin	10/14/14	Russell	14560 Magnolia Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736361	Javier	10/14/14	Joel	12610 County Line Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736360	Jerome	10/14/14	Russell	2199 Pinon Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736359	Willie	10/14/14	Russell	283 Hampton Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736358	Gina	10/14/14	Diane	22234 Spruce Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736357	Phillip	10/14/14	Roberto	26492 Third Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736356	Frances	10/14/14	Diane	602 Jackson Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736355	Vincent	10/14/14	Harry	28315 N 400 Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736354	Edwin	10/14/14	Jack	16702 Eighth Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736353	Miguel	10/14/14	Russell	13911 Apache Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736352	Christian	10/14/14	Loretta	14988 Holly Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736351	Terry	10/14/14	Jack	7483 West Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736350	Gerard	10/14/14	Diane	11349 Tenth Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736349	Gerald	10/15/14	Diane	713 A Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736348	James	10/15/14	Loretta	14750 Second Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736347	Maurice	10/15/14	Jack	20454 Jackson Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736346	Tyler	10/15/14	Jack	26746 Tenth Spring Field, New Cicily
+Ultimate
+
+-8861588626619736345	Jesus	10/15/14	Roberto	16740 Pecan Spring Field, New Cicily
+Ultimate
+
+-8861588626619736344	Tom	10/15/14	Loretta	2730 Columbine Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736343	Hayden	10/15/14	Diane	27026 Delaware Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736342	Russell	10/15/14	Randall	18353 Navajo Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736341	Erin	10/15/14	Jack	13439 Pioneer Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736340	Kerry	10/15/14	Harry	18551 North Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736339	Theresa	10/15/14	Randall	5031 Hampton Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736338	Trevor	10/15/14	Harry	10077 Johnson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736337	Terrence	10/15/14	Russell	2091 Tenth Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736336	Jasmine	10/15/14	Jack	17405 River Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736335	Brent	10/15/14	Jack	3401 Jackson Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736334	Paul	10/15/14	Roberto	6855 Wilson Spring Field, New Cicily
+Cheese
+
+-8861588626619736333	Howard	10/15/14	Harry	21477 Smith Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736332	Tommy	10/15/14	Roberto	26723 First Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736331	Brian	10/15/14	Russell	29964 Sunset Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736330	Neil	10/15/14	Randall	6381 Apache Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736329	Alicia	10/15/14	Joel	12992 Pioneer Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736328	Janis	10/15/14	Joel	12226 Aloha Spring Field, New Cicily
+Cheese
+
+-8861588626619736327	Kendra	10/15/14	Jack	3946 Lakeview Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736326	Clayton	10/15/14	Roberto	311 Maple Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736325	Stephen	10/15/14	Jack	25342 Columbine Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619736324	Kylee	10/15/14	Roberto	26661 Palo Verde Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736323	Dale	10/15/14	Randall	19100 Aspen Spring Field, New Cicily
+Ultimate
+
+-8861588626619736322	Christine	10/15/14	Joel	4247 Cypress Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736321	Alejandro	10/15/14	Roberto	4308 Johnson Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736320	Phillip	10/15/14	Russell	430 Lakeview Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736319	Allan	10/15/14	Roberto	1009 Cypress Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736318	Meredith	10/15/14	Harry	28601 Holly Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736317	Jenny	10/15/14	Loretta	1078 Mountain View Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736316	Destiny	10/15/14	Joel	6478 Eleventh Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736315	Evan	10/15/14	Jack	274 Fifth Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736314	Kathleen	10/15/14	Roberto	21385 Redwood Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736313	Nathan	10/15/14	Roberto	3108 Wilson Spring Field, New Cicily
+Cheese
+
+-8861588626619736312	Michele	10/15/14	Jack	3323 Kansas Spring Field, New Cicily
+Cheese
+
+-8861588626619736311	Lee	10/15/14	Joel	22093 Fourth Spring Field, New Cicily
+Ultimate
+
+-8861588626619736310	Kristine	10/15/14	Russell	14248 Oak Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736309	Caleb	10/15/14	Diane	531 Seventh Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736308	Marissa	10/15/14	Russell	7640 Broadway Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736307	Leroy	10/15/14	Diane	25891 County Line Spring Field, New Cicily
+Cheese
+
+-8861588626619736306	Maurice	10/15/14	Joel	23914 Lehua Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736305	Anita	10/15/14	Randall	16327 Quail Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736304	Debra	10/15/14	Harry	26313 Hillside Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736303	Isaac	10/15/14	Loretta	2918 N 400 Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736302	Wendy	10/15/14	Joel	3007 Birch Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736301	Brandi	10/15/14	Loretta	8636 Smith Spring Field, New Cicily
+Ultimate
+
+-8861588626619736300	April	10/15/14	Harry	28161 River Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736299	Lydia	10/15/14	Roberto	29337 Evergreen Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736298	Monica	10/15/14	Diane	17878 Shore Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736297	Damian	10/16/14	Loretta	27667 Park Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736296	Joel	10/16/14	Joel	20225 Seventh Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736295	Russell	10/16/14	Joel	13709 Aspen Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736294	Patrick	10/16/14	Diane	22462 Mesquite Spring Field, New Cicily
+Cheese
+
+-8861588626619736293	Shaun	10/16/14	Loretta	22460 Aloha Spring Field, New Cicily
+Ultimate
+
+-8861588626619736292	Madeline	10/16/14	Loretta	1521 Elm Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736291	Alyssa	10/16/14	Diane	3347 Dogwood Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736290	Trevor	10/16/14	Jack	16455 Willow Spring Field, New Cicily
+Ultimate
+
+-8861588626619736289	Miguel	10/16/14	Loretta	6905 Highland Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736288	Jerry	10/16/14	Randall	28513 Oak Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736287	Shawna	10/16/14	Jack	24268 Broadway Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736286	Adriana	10/16/14	Harry	937 Pioneer Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736285	Trinity	10/16/14	Diane	26276 Laurel Spring Field, New Cicily
+Ultimate
+
+-8861588626619736284	Jorge	10/16/14	Russell	24365 Kansas Spring Field, New Cicily
+Ultimate
+
+-8861588626619736283	Jason	10/16/14	Diane	6680 Navajo Spring Field, New Cicily
+Ultimate
+
+-8861588626619736282	Hunter	10/16/14	Roberto	17471 Cypress Spring Field, New Cicily
+Cheese
+
+-8861588626619736281	Manuel	10/16/14	Jack	19973 Center Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736280	Eduardo	10/16/14	Joel	10436 Laurel Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736279	Heather	10/16/14	Jack	20439 Aloha Spring Field, New Cicily
+Cheese
+
+-8861588626619736278	Ryan	10/16/14	Russell	20955 Mountain View Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736277	Ann	10/16/14	Diane	18329 Delaware Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736276	Erin	10/16/14	Diane	14765 Fourth Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736275	Eleanor	10/16/14	Roberto	17885 N 400 Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736274	Jack	10/16/14	Harry	19802 Williams Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736273	Sofia	10/16/14	Loretta	10634 Johnson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736272	Destiny	10/16/14	Joel	6478 Eleventh Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736271	Raymond	10/16/14	Russell	24056 Lake Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736270	Evan	10/16/14	Loretta	274 Fifth Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736269	Rebecca	10/16/14	Joel	6145 Holly Spring Field, New Cicily
+Cheese
+
+-8861588626619736268	Janice	10/16/14	Jack	16440 Kahili Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736267	Nicholas	10/16/14	Diane	14911 Lake Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736266	Calvin	10/16/14	Diane	14560 Magnolia Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736265	Frank	10/16/14	Roberto	22314 Cherry Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736264	Marcia	10/16/14	Loretta	567 Ridge Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736263	Pauline	10/16/14	Diane	28736 Second Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736262	Rebecca	10/16/14	Jack	4039 Palo Verde Spring Field, New Cicily
+Ultimate
+
+-8861588626619736261	Natalie	10/16/14	Loretta	14615 Fourth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736260	Mckenzie	10/16/14	Roberto	20108 Pioneer Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736259	Courtney	10/16/14	Joel	15613 Mountain View Spring Field, New Cicily
+Cheese
+
+-8861588626619736258	Bonnie	10/16/14	Russell	9035 Wilson Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736257	Carmen	10/16/14	Joel	5550 Hill Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736256	Lucille	10/16/14	Loretta	28096 S 400 Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736255	Nichole	10/17/14	Russell	9211 Redwood Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736254	Christina	10/17/14	Russell	4167 Ninth Spring Field, New Cicily
+Cheese
+
+-8861588626619736253	Christine	10/17/14	Loretta	16196 Seventh Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736252	Lauren	10/17/14	Diane	22828 Redwood Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736251	Krista	10/17/14	Russell	26662 Cypress Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736250	Shannon	10/17/14	Joel	10758 Johnson Spring Field, New Cicily
+Cheese
+
+-8861588626619736249	Sarah	10/17/14	Diane	15771 Kansas Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736248	Jillian	10/17/14	Diane	16941 Pioneer Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736247	Mary	10/17/14	Jack	1747 Jackson Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736246	Martin	10/17/14	Russell	27408 Ninth Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736245	Joe	10/17/14	Diane	21459 Fourth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736244	Betty	10/17/14	Randall	10234 Holly Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736243	James	10/17/14	Pamela	26121 County Line Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736242	Carl	10/17/14	Loretta	11003 Canyon Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736241	Terri	10/17/14	Jack	23813 Hickory Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736240	Peggy	10/17/14	Russell	21276 Malulani Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736239	Steven	10/17/14	Loretta	29248 Park Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736238	Stephen	10/17/14	Pamela	7632 S 400 Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736237	Michael	10/17/14	Loretta	3206 Highland Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736236	Luis	10/17/14	Russell	20319 Second Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736235	Bryan	10/17/14	Randall	4513 Hickory Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736234	Steve	10/17/14	Pamela	3455 Fourth Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736233	Joanna	10/17/14	Joel	12353 Eighth Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619736232	Marianne	10/17/14	Roberto	26743 Hemlock Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736231	Andrea	10/17/14	Pamela	17944 Sixth Spring Field, New Cicily
+Cheese
+
+-8861588626619736230	Valerie	10/17/14	Pamela	27726 Laurel Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736229	Philip	10/17/14	Diane	634 Eleventh Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736228	Donald	10/17/14	Pamela	22128 Jackson Spring Field, New Cicily
+Ultimate
+
+-8861588626619736227	Jon	10/17/14	Russell	16549 Shore Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736226	Glen	10/17/14	Russell	8113 Pinon Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736225	Colin	10/17/14	Pamela	25993 Center Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736224	Nicolas	10/17/14	Russell	6776 Sycamore Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736223	Marie	10/17/14	Randall	7137 Walnut Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736222	Ricky	10/17/14	Pamela	8558 Shore Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736221	Maya	10/17/14	Diane	3039 Highland Spring Field, New Cicily
+Cheese
+
+-8861588626619736220	Amy	10/17/14	Pamela	23631 Washington Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736219	Adriana	10/17/14	Jack	6688 County Line Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736218	Bonnie	10/17/14	Roberto	28421 Airport Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736217	Shannon	10/17/14	Joel	12523 Third Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736216	Gregory	10/17/14	Joel	21017 Cherry Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736215	Julie	10/17/14	Pamela	25763 Malulani Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736214	Arthur	10/17/14	Joel	15124 Columbine Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736213	Margaret	10/17/14	Pamela	21676 Broadway Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736212	Karen	10/17/14	Jack	19627 Kahili Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736211	Russell	10/17/14	Randall	9242 Center Spring Field, New Cicily
+Cheese
+
+-8861588626619736210	Carolyn	10/17/14	Russell	21395 Redwood Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736209	Aaliyah	10/17/14	Russell	14189 Williams Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736208	Rhonda	10/17/14	Joel	27055 Smith Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736207	Donnie	10/18/14	Roberto	27902 Lakeview Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736206	Gayle	10/18/14	Russell	7954 Columbine Spring Field, New Cicily
+Cheese
+
+-8861588626619736205	Patricia	10/18/14	Loretta	27415 Ridge Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736204	Micheal	10/18/14	Roberto	18079 North Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736203	Justin	10/18/14	Amber	28822 Pine Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736202	Jonathan	10/18/14	Randall	26150 Second Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736201	Angie	10/18/14	Russell	16211 Evergreen Spring Field, New Cicily
+Cheese
+
+-8861588626619736200	Janice	10/18/14	Roberto	19033 Center Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736199	Herman	10/18/14	Joel	17852 Ridge Spring Field, New Cicily
+Ultimate
+
+-8861588626619736198	Timothy	10/18/14	Randall	15206 Lee Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736197	Jason	10/18/14	Loretta	6680 Navajo Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736196	Michael	10/18/14	Amber	17248 Wood Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736195	Helen	10/18/14	Amber	28260 First Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736194	Jacob	10/18/14	Loretta	7748 Aloha Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736193	Don	10/18/14	Russell	11159 Eleventh Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+Cheese
+
+-8861588626619736192	Mason	10/18/14	Jack	10217 Shore Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736191	Bailey	10/18/14	Loretta	14183 Holly Spring Field, New Cicily
+Ultimate
+
+-8861588626619736190	Jeanette	10/18/14	Amber	26382 First Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736189	Kendra	10/18/14	Randall	13505 Juniper Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736188	Billy	10/18/14	Loretta	18336 Columbine Spring Field, New Cicily
+Cheese
+
+-8861588626619736187	Alexis	10/18/14	Diane	14562 Third Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736186	Darrell	10/18/14	Jack	5646 Smith Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736185	Maurice	10/18/14	Diane	15870 Tenth Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736184	Curtis	10/18/14	Joel	27824 Mountain View Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619736183	Edwin	10/18/14	Loretta	23917 Willow Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736182	Sonya	10/18/14	Loretta	20762 Apache Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736181	Scott	10/18/14	Randall	4879 Second Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736180	Sierra	10/18/14	Joel	23507 Hemlock Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736179	Bryan	10/18/14	Loretta	17221 Pine Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736178	George	10/18/14	Roberto	22458 Narragansett Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736177	Chad	10/18/14	Amber	23991 Maple Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736176	Harry	10/18/14	Diane	20488 Lincoln Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736175	Seth	10/18/14	Roberto	11749 Redwood Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736174	Jerome	10/18/14	Amber	20682 Holly Spring Field, New Cicily
+Cheese
+
+-8861588626619736173	Scott	10/18/14	Russell	12476 Tenth Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736172	Gregory	10/18/14	Roberto	7016 Highland Spring Field, New Cicily
+Ultimate
+
+-8861588626619736171	Andrew	10/18/14	Joel	3912 Fifth Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736170	Courtney	10/18/14	Diane	15613 Mountain View Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736169	Leslie	10/18/14	Joel	25818 Lincoln Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736168	Theresa	10/18/14	Amber	18627 Main Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736167	Karen	10/18/14	Randall	28120 Hampton Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736166	Cheryl	10/18/14	Amber	10422 Mountain View Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736165	Kevin	10/19/14	Russell	23451 Twelfth Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736164	Martha	10/19/14	Joel	19772 Elm Spring Field, New Cicily
+Cheese
+
+-8861588626619736163	Virgil	10/19/14	Gwendolyn	14817 Fourth Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736162	Lindsey	10/19/14	Gwendolyn	13699 Highland Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736161	Brenda	10/19/14	Gwendolyn	11204 Narragansett Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736160	Randall	10/19/14	Amber	21949 Meadow Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736159	Anthony	10/19/14	Amber	17758 Hickory Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736158	Thelma	10/19/14	Amber	21558 Aspen Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736157	Richard	10/19/14	Randall	14317 Twelfth Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736156	Diana	10/19/14	Loretta	23087 Elm Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736155	Jeffery	10/19/14	Randall	5024 Williams Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736154	Bonnie	10/19/14	Loretta	29665 Mesquite Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736153	Elizabeth	10/19/14	Roberto	29134 Malulani Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736152	Reginald	10/19/14	Randall	21895 Williams Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736151	Tony	10/19/14	Roberto	2554 Hemlock Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736150	Melissa	10/19/14	Joel	29703 River Spring Field, New Cicily
+Ultimate
+
+-8861588626619736149	Landon	10/19/14	Amber	19929 Jackson Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736148	Karen	10/19/14	Randall	15708 Sixth Spring Field, New Cicily
+Cheese
+
+-8861588626619736147	Kelly	10/19/14	Gwendolyn	29169 Sixth Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736146	Audrey	10/19/14	Roberto	21490 Meadow Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736145	Barbara	10/19/14	Roberto	15046 A Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736144	Billy	10/19/14	Joel	27288 Oak Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736143	Max	10/19/14	Russell	12712 Columbine Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736142	Tim	10/19/14	Loretta	19821 Dogwood Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736141	Caitlin	10/19/14	Loretta	1455 Sycamore Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736140	Corey	10/19/14	Randall	16866 S 100 Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736139	Jack	10/19/14	Randall	17264 Cottonwood Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619736138	Garrett	10/19/14	Amber	29319 Pioneer Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736137	Catherine	10/19/14	Amber	27497 N 400 Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619736136	Kathy	10/19/14	Jack	21146 Juniper Spring Field, New Cicily
+Ultimate
+
+-8861588626619736135	Beverly	10/19/14	Russell	7390 Hampton Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736134	Andre	10/19/14	Russell	4061 Pinon Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736133	Caleb	10/19/14	Jack	29935 Pecan Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736132	Julia	10/19/14	Joel	13173 Maple Spring Field, New Cicily
+Cheese
+
+-8861588626619736131	Rebecca	10/19/14	Russell	4674 Cedar Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736130	Frederick	10/19/14	Roberto	6448 Lake Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736129	Ricky	10/19/14	Jack	16315 Airport Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736128	Frances	10/19/14	Randall	602 Jackson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736127	Willie	10/19/14	Roberto	7129 Sixth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736126	Robin	10/19/14	Roberto	15865 Broadway Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736125	Manuel	10/19/14	Jack	14923 A Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736124	Leslie	10/19/14	Roberto	1717 Lehua Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736123	Terry	10/19/14	Jack	27410 Airport Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736122	Diana	10/19/14	Roberto	21732 Sycamore Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736121	Walter	10/19/14	Loretta	21303 Malulani Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619736120	Geraldine	10/19/14	Roberto	4397 River Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619736119	Bruce	10/19/14	Randall	10146 Meadow Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619736118	Kathy	10/19/14	Loretta	20003 Kahili Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736117	Elizabeth	10/20/14	Jack	2205 Fourth Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736116	Ethan	10/20/14	Amber	16020 Cedar Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736115	Harriet	10/20/14	Russell	15727 Lake Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736114	Adam	10/20/14	Jack	7420 Maple Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736113	Mario	10/20/14	Jack	21149 Pioneer Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619736112	Curtis	10/20/14	Randall	9600 County Line Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736111	Steven	10/20/14	Roberto	17204 Quail Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736110	Gabrielle	10/20/14	Randall	26474 Holly Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736109	Gabriella	10/20/14	Randall	26567 Quail Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736108	Jesse	10/20/14	Gwendolyn	12830 Sixth Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736107	Calvin	10/20/14	Loretta	20406 Lakeview Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736106	Shelia	10/20/14	Loretta	3440 Hill Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736105	Andrea	10/20/14	Loretta	26348 Sixth Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736104	Charles	10/20/14	Jack	1705 Fourth Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736103	Heather	10/20/14	Russell	12229 Hill Spring Field, New Cicily
+Ultimate
+
+-8861588626619736102	Clarence	10/20/14	Jack	4858 Hemlock Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736101	Jimmy	10/20/14	Joel	8886 Church Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736100	Benny	10/20/14	Loretta	22673 Ridge Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736099	Gerald	10/20/14	Jack	16032 Fourth Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736098	Dale	10/20/14	Gwendolyn	6089 Meadow Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736097	Dolores	10/20/14	Gwendolyn	15356 Dogwood Spring Field, New Cicily
+Cheese
+
+-8861588626619736096	Earnest	10/20/14	Joel	13169 Evergreen Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736095	Laura	10/20/14	Jack	13397 Oak Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736094	Kathryn	10/20/14	Roberto	13940 Aspen Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736093	Chelsea	10/20/14	Gwendolyn	24085 Birch Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736092	Rick	10/20/14	Jack	6865 Twelfth Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736091	Gail	10/20/14	Joel	5208 Aloha Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736090	Nicolas	10/20/14	Joel	6776 Sycamore Spring Field, New Cicily
+Cheese
+
+-8861588626619736089	Matthew	10/20/14	Russell	7201 Eleventh Spring Field, New Cicily
+Ultimate
+
+-8861588626619736088	Sandra	10/20/14	Jack	15620 Kahili Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736087	Zachary	10/20/14	Randall	8860 Johnson Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736086	Diana	10/20/14	Amber	3162 West Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619736085	Alison	10/20/14	Amber	12344 Kansas Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736084	Kate	10/20/14	Randall	15631 Lincoln Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736083	Sarah	10/20/14	Loretta	23117 Oak Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736082	Candice	10/20/14	Joel	16264 Seventh Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736081	Ricardo	10/20/14	Amber	28223 Mesquite Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736080	Sarah	10/20/14	Jack	21561 Hampton Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736079	Jean	10/20/14	Joel	12521 Magnolia Spring Field, New Cicily
+Ultimate
+
+-8861588626619736078	Molly	10/20/14	Roberto	209 Ridge Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736077	Stacie	10/20/14	Russell	22780 Mountain View Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736076	Lawrence	10/20/14	Gwendolyn	5256 Kukui Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736075	Blake	10/20/14	Joel	5320 N 400 Spring Field, New Cicily
+Cheese
+
+-8861588626619736074	Victor	10/20/14	Russell	18531 Airport Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736073	Lonnie	10/20/14	Amber	28928 County Line Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736072	Nancy	10/21/14	Joel	7934 Smith Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736071	Sylvia	10/21/14	Gwendolyn	1683 Hillside Spring Field, New Cicily
+Ultimate
+
+-8861588626619736070	Gwendolyn	10/21/14	Gwendolyn	1097 Redwood Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619736069	Kathryn	10/21/14	Angela	18556 Malulani Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736068	Ruby	10/21/14	Amber	17040 Quail Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736067	Cooper	10/21/14	Gwendolyn	19181 Magnolia Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736066	Anne	10/21/14	Amber	23916 Laurel Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736065	Jesse	10/21/14	Randall	25046 Eleventh Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736064	Harvey	10/21/14	Randall	16824 Maple Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619736063	James	10/21/14	Russell	16533 Williams Spring Field, New Cicily
+Cheese
+
+-8861588626619736062	Patricia	10/21/14	Russell	21559 Walnut Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619736061	Shawn	10/21/14	Angela	11619 Evergreen Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736060	Frances	10/21/14	Roberto	10395 Main Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619736059	Brandon	10/21/14	Roberto	8494 Main Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736058	Stanley	10/21/14	Amber	19061 Hill Spring Field, New Cicily
+Ultimate
+
+-8861588626619736057	Seth	10/21/14	Angela	7643 Delaware Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619736056	Russell	10/21/14	Joel	14779 Meadow Spring Field, New Cicily
+Ultimate
+
+-8861588626619736055	Jacob	10/21/14	Amber	7748 Aloha Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619736054	Marvin	10/21/14	Gwendolyn	7565 Cottonwood Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736053	Wesley	10/21/14	Jack	6621 Ridge Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736052	Stephen	10/21/14	Angela	24842 Pecan Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619736051	Whitney	10/21/14	Gwendolyn	5628 N 400 Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736050	Kaitlin	10/21/14	Randall	247 Apache Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736049	Carl	10/21/14	Roberto	16707 Cedar Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736048	Cindy	10/21/14	Roberto	8790 Twelfth Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736047	Mildred	10/21/14	Randall	8505 Eleventh Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736046	Lori	10/21/14	Amber	11953 Meadow Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736045	Andrea	10/21/14	Amber	13147 Pioneer Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619736044	Kristine	10/21/14	Jack	9421 Evergreen Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736043	Brent	10/21/14	Amber	1388 Pinon Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736042	Sarah	10/21/14	Angela	15250 Palo Verde Spring Field, New Cicily
+Cheese
+
+-8861588626619736041	Terry	10/21/14	Joel	8307 West Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+Ultimate
+
+-8861588626619736040	Keith	10/21/14	Amber	23909 County Line Spring Field, New Cicily
+Cheese
+
+-8861588626619736039	Vivian	10/21/14	Joel	16060 River Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619736038	Donna	10/21/14	Jack	4051 Broadway Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736037	Arthur	10/21/14	Joel	11990 Church Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736036	Wesley	10/21/14	Russell	16295 Bay Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619736035	Bernard	10/21/14	Randall	3420 Aspen Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736034	Herbert	10/21/14	Joel	26135 Pinon Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619736033	Richard	10/22/14	Russell	10395 Wilson Spring Field, New Cicily
+Cheese
+
+-8861588626619736032	Pam	10/22/14	Gwendolyn	1354 Hill Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736031	Franklin	10/22/14	Joel	5438 West Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736030	Philip	10/22/14	Gwendolyn	29554 Pecan Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736029	Ruben	10/22/14	Joel	8803 Fourth Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619736028	Jay	10/22/14	Roberto	22438 Church Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736027	Kerry	10/22/14	Jack	8088 Narragansett Spring Field, New Cicily
+Cheese
+
+-8861588626619736026	Darlene	10/22/14	Randall	742 Narragansett Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619736025	Andrew	10/22/14	Gwendolyn	22495 Hillside Spring Field, New Cicily
+Ultimate
+
+-8861588626619736024	Brittney	10/22/14	Angela	10528 Cottonwood Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736023	Diane	10/22/14	Jack	4913 Ridge Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619736022	Ricky	10/22/14	Amber	18624 Columbine Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619736021	Christy	10/22/14	Randall	19877 Seventh Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619736020	Jamie	10/22/14	Gwendolyn	1800 Kukui Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736019	Destiny	10/22/14	Gwendolyn	25804 Mountain View Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736018	Randall	10/22/14	Angela	29224 County Line Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619736017	Alice	10/22/14	Joel	11796 Columbine Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619736016	Terri	10/22/14	Roberto	13895 Quail Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736015	Angel	10/22/14	Russell	26235 Dogwood Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736014	Johnny	10/22/14	Amber	21679 Cypress Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619736013	Courtney	10/22/14	Joel	10966 Holly Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619736012	Mitchell	10/22/14	Angela	22042 Palo Verde Spring Field, New Cicily
+Ultimate
+
+-8861588626619736011	Aaliyah	10/22/14	Angela	6696 Sycamore Spring Field, New Cicily
+Cheese
+
+-8861588626619736010	Johnnie	10/22/14	Randall	6316 S 100 Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736009	Layla	10/22/14	Gwendolyn	8031 First Spring Field, New Cicily
+Cheese
+
+-8861588626619736008	Jamie	10/22/14	Randall	16442 Aspen Spring Field, New Cicily
+Pepperoni
+
+-8861588626619736007	Wayne	10/22/14	Russell	8555 Cherry Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619736006	Marjorie	10/22/14	Joel	12024 Fifth Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619736005	Misty	10/22/14	Roberto	21739 S 400 Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619736004	Willie	10/22/14	Russell	283 Hampton Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619736003	Kristi	10/22/14	Amber	17415 Quail Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619736002	Sidney	10/22/14	Angela	11404 Redwood Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619736001	Arthur	10/22/14	Roberto	29473 Twelfth Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619736000	Dolores	10/22/14	Gwendolyn	19745 Shore Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619735999	Rosa	10/22/14	Joel	21675 Orchard Spring Field, New Cicily
+Cheese
+
+-8861588626619735998	Franklin	10/22/14	Jack	2031 Pinon Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735997	Kimberly	10/23/14	Amber	8437 Williams Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619735996	Samuel	10/23/14	Amber	12889 Washington Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735995	Marcus	10/23/14	Russell	16479 Highland Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619735994	Donna	10/23/14	Randall	15382 Quail Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735993	Daniel	10/23/14	Joel	27840 Center Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735992	Stefanie	10/23/14	Gwendolyn	21015 Kahili Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735991	Allan	10/23/14	Joel	27000 Hickory Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735990	Tina	10/23/14	Russell	20747 Lakeview Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735989	Chester	10/23/14	Randall	25302 Palo Verde Spring Field, New Cicily
+Cheese
+
+-8861588626619735988	Rosalie	10/23/14	Guy	26090 Wilson Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735987	Mason	10/23/14	Angela	9403 Third Spring Field, New Cicily
+Ultimate
+
+-8861588626619735986	Shawn	10/23/14	Guy	11619 Evergreen Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735985	Naomi	10/23/14	Gwendolyn	10579 Spruce Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735984	Madeline	10/23/14	Angela	17624 Seventh Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735983	Yvette	10/23/14	Joel	21728 Main Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619735982	Russell	10/23/14	Russell	14779 Meadow Spring Field, New Cicily
+Cheese
+
+-8861588626619735981	Dale	10/23/14	Roberto	29859 Eleventh Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619735980	Bethany	10/23/14	Gwendolyn	4526 Juniper Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735979	Kelly	10/23/14	Gwendolyn	13108 Quail Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735978	Kent	10/23/14	Amber	9040 County Line Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735977	Sarah	10/23/14	Randall	18725 Highland Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735976	Jackie	10/23/14	Angela	27159 S 400 Spring Field, New Cicily
+Cheese
+
+-8861588626619735975	Martin	10/23/14	Amber	23117 S 100 Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735974	Vivian	10/23/14	Gwendolyn	6693 Seventh Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619735973	Becky	10/23/14	Roberto	25658 Kansas Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735972	Kayla	10/23/14	Angela	8317 Malulani Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Cheese
+
+-8861588626619735971	Anthony	10/23/14	Roberto	11637 Delaware Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619735970	Colleen	10/23/14	Roberto	3288 Airport Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619735969	Rebecca	10/23/14	Gwendolyn	24396 Wood Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619735968	Mark	10/23/14	Angela	12307 Redwood Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735967	Nancy	10/23/14	Randall	5530 Thirteenth Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735966	Logan	10/23/14	Joel	23104 First Spring Field, New Cicily
+Ultimate
+
+-8861588626619735965	Clinton	10/23/14	Amber	24126 N 400 Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735964	Bernard	10/23/14	Guy	9303 Twelfth Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619735963	Dale	10/23/14	Joel	4159 Pinon Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619735962	Jenna	10/23/14	Randall	2356 Palo Verde Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735961	Russell	10/23/14	Gwendolyn	7564 Tenth Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735960	Denise	10/23/14	Joel	18833 Tenth Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735959	Krystal	10/23/14	Joel	6566 Shore Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735958	Joseph	10/23/14	Russell	6125 Park Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619735957	Marcus	10/23/14	Amber	671 Twelfth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735956	Jose	10/23/14	Joel	18721 Second Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735955	Ernest	10/23/14	Randall	10672 Lee Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735954	Anita	10/23/14	Joel	7921 Mountain View Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735953	Kathryn	10/23/14	Amber	25629 Kukui Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735952	Kayla	10/23/14	Gwendolyn	8775 Magnolia Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735951	Vincent	10/23/14	Randall	28315 N 400 Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735950	Rachel	10/23/14	Joel	12541 Quail Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735949	Nicole	10/23/14	Amber	23075 Eighth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735948	Carl	10/23/14	Gwendolyn	27663 Kahili Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735947	Cassidy	10/23/14	Roberto	20705 Hampton Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735946	Russell	10/23/14	Russell	17493 Bay Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735945	Philip	10/23/14	Amber	23819 Main Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735944	Victoria	10/24/14	Renee	18157 Sixth Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735943	Tricia	10/24/14	Gwendolyn	22014 Pleasant Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619735942	Maurice	10/24/14	Amber	20454 Jackson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735941	Terry	10/24/14	Renee	20401 Maple Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735940	Vernon	10/24/14	Joel	15988 Laurel Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735939	Cynthia	10/24/14	Joel	27786 Johnson Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619735938	Lyle	10/24/14	Amber	1494 Birch Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619735937	Larry	10/24/14	Angela	23112 Lake Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735936	Courtney	10/24/14	Amber	5260 North Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619735935	Martin	10/24/14	Randall	1008 Maple Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735934	Devon	10/24/14	Joel	24362 Fourth Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619735933	Benjamin	10/24/14	Angela	24275 Pleasant Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735932	Thelma	10/24/14	Joel	18449 Hickory Spring Field, New Cicily
+Ultimate
+
+-8861588626619735931	Sandy	10/24/14	Russell	11658 First Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735930	Joe	10/24/14	Russell	21459 Fourth Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735929	James	10/24/14	Joel	26121 County Line Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735928	Micheal	10/24/14	Randall	7557 Hampton Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735927	Gina	10/24/14	Joel	11788 Highland Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735926	Tony	10/24/14	Randall	6200 Cottonwood Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619735925	Ann	10/24/14	Gwendolyn	3215 Third Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619735924	Frank	10/24/14	Guy	27205 S 400 Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619735923	Vera	10/24/14	Randall	1242 Broadway Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619735922	Alondra	10/24/14	Angela	28138 Pinon Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619735921	Kathryn	10/24/14	Guy	24060 Hampton Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735920	Ruth	10/24/14	Amber	9225 Kukui Spring Field, New Cicily
+Ultimate
+
+-8861588626619735919	Kristin	10/24/14	Russell	771 Columbine Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735918	Autumn	10/24/14	Randall	29341 Bay Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735917	Barry	10/24/14	Joel	26965 Sixth Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735916	Daniela	10/24/14	Guy	1923 Kukui Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735915	Angie	10/24/14	Angela	6032 Center Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735914	John	10/24/14	Renee	14242 Aloha Spring Field, New Cicily
+Cheese
+
+-8861588626619735913	Andrea	10/24/14	Amber	16979 Elm Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619735912	Oscar	10/24/14	Angela	13752 N 400 Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735911	Patricia	10/24/14	Guy	14757 Elm Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735910	Clyde	10/24/14	Renee	19969 Sunset Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619735909	Erik	10/24/14	Amber	505 Spruce Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735908	Nicole	10/24/14	Gwendolyn	5576 Laurel Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735907	Paul	10/24/14	Joel	9978 Broadway Spring Field, New Cicily
+Ultimate
+
+-8861588626619735906	Lisa	10/24/14	Renee	8506 A Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735905	Mia	10/24/14	Angela	28162 Magnolia Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735904	Christopher	10/24/14	Renee	26012 Second Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735903	Kristine	10/24/14	Angela	14248 Oak Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735902	Marie	10/24/14	Randall	7137 Walnut Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735901	Kylie	10/24/14	Gwendolyn	6529 Kahili Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735900	Monica	10/24/14	Joel	15969 Laurel Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735899	Bryan	10/24/14	Amber	17221 Pine Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735898	Brian	10/24/14	Guy	12482 Cypress Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619735897	Rachel	10/24/14	Randall	19525 Bay Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735896	Kayla	10/24/14	Joel	8775 Magnolia Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735895	Randy	10/24/14	Randall	19144 Willow Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735894	Joshua	10/24/14	Guy	23722 Spruce Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735893	Michele	10/24/14	Gwendolyn	25713 Pinon Spring Field, New Cicily
+Cheese
+
+-8861588626619735892	Shelley	10/24/14	Gwendolyn	9410 Kansas Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735891	Carl	10/24/14	Guy	27663 Kahili Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735890	Norma	10/24/14	Angela	2076 Williams Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735889	Mckenzie	10/24/14	Russell	20108 Pioneer Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735888	Alyssa	10/24/14	Angela	15369 Willow Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735887	Corey	10/24/14	Angela	22852 Elm Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735886	Danny	10/24/14	Joel	2752 Willow Spring Field, New Cicily
+Cheese
+
+-8861588626619735885	Kathy	10/24/14	Guy	15005 Apache Spring Field, New Cicily
+Ultimate
+
+-8861588626619735884	Yvonne	10/25/14	Russell	18917 Johnson Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735883	Jimmy	10/25/14	Angela	17270 Church Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735882	Mary	10/25/14	Joel	26569 Hickory Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735881	Marvin	10/25/14	Angela	18539 Maple Spring Field, New Cicily
+Ultimate
+
+-8861588626619735880	Tanya	10/25/14	Joel	8588 Elm Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735879	Barbara	10/25/14	Gwendolyn	1487 Delaware Spring Field, New Cicily
+Cheese
+
+-8861588626619735878	Ethan	10/25/14	Angela	5480 Williams Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735877	Haley	10/25/14	Randall	23077 S 400 Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735876	Guy	10/25/14	Randall	29776 Sixth Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735875	Kaitlyn	10/25/14	Angela	25513 Smith Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735874	Tony	10/25/14	Renee	2554 Hemlock Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735873	Norman	10/25/14	Amber	4331 Cherry Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735872	Dale	10/25/14	Russell	29859 Eleventh Spring Field, New Cicily
+Cheese
+
+-8861588626619735871	Garrett	10/25/14	Randall	11860 Ninth Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735870	Liam	10/25/14	Amber	23018 Williams Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735869	Stephen	10/25/14	Gwendolyn	24842 Pecan Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735868	Eddie	10/25/14	Russell	14121 Eighth Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735867	Johnnie	10/25/14	Guy	22182 Sunset Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735866	Hector	10/25/14	Guy	24873 Narragansett Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735865	Phillip	10/25/14	Renee	12160 Thirteenth Spring Field, New Cicily
+Ultimate
+
+-8861588626619735864	John	10/25/14	Renee	21484 Seventh Spring Field, New Cicily
+Cheese
+
+-8861588626619735863	Erica	10/25/14	Renee	18424 Dogwood Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619735862	Natalie	10/25/14	Joel	27261 Sycamore Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735861	Jack	10/25/14	Angela	19802 Williams Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619735860	Sean	10/25/14	Guy	28698 Lakeview Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735859	Brandy	10/25/14	Gwendolyn	1857 Twelfth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735858	Marco	10/25/14	Amber	6869 Seventh Spring Field, New Cicily
+Cheese
+
+-8861588626619735857	Nicole	10/25/14	Gwendolyn	5576 Laurel Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735856	Ashlee	10/25/14	Gwendolyn	6527 Shore Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619735855	Rosa	10/25/14	Joel	22361 Holly Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735854	Jose	10/25/14	Renee	4493 Smith Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619735853	Kristine	10/25/14	Guy	14248 Oak Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619735852	Debbie	10/25/14	Joel	18348 Sixth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735851	Cody	10/25/14	Russell	4028 Cherry Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735850	Daniel	10/25/14	Randall	6695 Sixth Spring Field, New Cicily
+Ultimate
+
+-8861588626619735849	Nolan	10/25/14	Guy	16217 Lake Spring Field, New Cicily
+Ultimate
+
+-8861588626619735848	Jeffrey	10/25/14	Guy	3849 Meadow Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619735847	Bryce	10/26/14	Cristian	10966 Mountain View Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735846	Felicia	10/26/14	Gwendolyn	16392 Jackson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735845	Carol	10/26/14	Angela	28717 Wood Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735844	Diamond	10/26/14	Joel	19129 Wood Spring Field, New Cicily
+Ultimate
+
+-8861588626619735843	Andrea	10/26/14	Russell	13702 Pine Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619735842	Billy	10/26/14	Gwendolyn	21166 Church Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735841	Melanie	10/26/14	Joel	28437 Palo Verde Spring Field, New Cicily
+Cheese
+
+-8861588626619735840	Luis	10/26/14	Randall	15970 Navajo Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619735839	Tristan	10/26/14	Guy	9490 Evergreen Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619735838	Katherine	10/26/14	Randall	13183 Meadow Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735837	Kyle	10/26/14	Angela	6290 Columbine Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735836	Lillian	10/26/14	Angela	3961 Jackson Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619735835	Doris	10/26/14	Joel	1666 Mountain View Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735834	Darius	10/26/14	Joel	24475 Lakeview Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735833	Becky	10/26/14	Joel	1781 Malulani Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735832	Latoya	10/26/14	Randall	5843 Pioneer Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735831	Lauren	10/26/14	Renee	8309 Seventh Spring Field, New Cicily
+Cheese
+
+-8861588626619735830	Shirley	10/26/14	Randall	6338 Washington Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735829	Don	10/26/14	Russell	11159 Eleventh Spring Field, New Cicily
+Cheese
+
+-8861588626619735828	Mackenzie	10/26/14	Russell	16591 North Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735827	Catherine	10/26/14	Joel	7997 Sunset Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735826	Janis	10/26/14	Gwendolyn	12226 Aloha Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619735825	Brady	10/26/14	Russell	29144 Aloha Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735824	Barry	10/26/14	Randall	25107 Palo Verde Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735823	Alondra	10/26/14	Gwendolyn	28138 Pinon Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735822	Daniel	10/26/14	Cristian	14431 Delaware Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735821	Jay	10/26/14	Renee	19300 Smith Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735820	Valerie	10/26/14	Russell	29685 Delaware Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735819	Sylvia	10/26/14	Cristian	9334 Third Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735818	Micheal	10/26/14	Guy	19036 Mountain View Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735817	Russell	10/26/14	Angela	14023 Smith Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619735816	Terrence	10/26/14	Joel	21518 Thirteenth Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735815	Jared	10/26/14	Guy	14909 Shore Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619735814	Thomas	10/26/14	Cristian	17062 Palo Verde Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735813	Rebecca	10/26/14	Renee	6145 Holly Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619735812	Danielle	10/26/14	Gwendolyn	24170 Evergreen Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735811	Marilyn	10/26/14	Guy	19760 Meadow Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735810	Traci	10/26/14	Gwendolyn	17884 Fourth Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619735809	Sierra	10/26/14	Angela	23507 Hemlock Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735808	Zoe	10/26/14	Joel	27057 A Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619735807	Jesse	10/26/14	Randall	18771 Cherry Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619735806	Zachary	10/26/14	Joel	4049 Pinon Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619735805	Nicholas	10/26/14	Randall	17829 Aloha Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735804	Willie	10/26/14	Joel	283 Hampton Spring Field, New Cicily
+Cheese
+
+-8861588626619735803	Carlos	10/26/14	Randall	13335 Kukui Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735802	Yvonne	10/26/14	Gwendolyn	23834 Navajo Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619735801	Fernando	10/26/14	Joel	19578 Bay Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735800	Tonya	10/26/14	Cristian	5316 S 100 Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619735799	Francisco	10/26/14	Angela	18632 S 400 Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735798	Janet	10/26/14	Angela	29192 Oak Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735797	Bruce	10/26/14	Joel	9922 Cedar Spring Field, New Cicily
+Cheese
+
+-8861588626619735796	Billy	10/26/14	Randall	18838 Ninth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735795	Marion	10/26/14	Russell	5654 Sycamore Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619735794	Michele	10/26/14	Angela	11772 Wilson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+
+-8861588626619735793	Shari	10/27/14	Randall	14651 Broadway Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619735792	Betty	10/27/14	Randall	14645 Johnson Spring Field, New Cicily
+Cheese
+
+-8861588626619735791	Terrance	10/27/14	Brooke	2797 Magnolia Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619735790	Brenda	10/27/14	Russell	11204 Narragansett Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+
+-8861588626619735789	Fred	10/27/14	Joel	1868 S 100 Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735788	Danny	10/27/14	Randall	9876 Lakeview Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735787	Shari	10/27/14	Cristian	24293 Fifth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735786	Crystal	10/27/14	Russell	15406 S 400 Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735785	Scott	10/27/14	Angela	25489 Shore Spring Field, New Cicily
+Cheese
+
+-8861588626619735784	Lillian	10/27/14	Gwendolyn	3961 Jackson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735783	Lillian	10/27/14	Angela	19029 Kahili Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735782	Cristian	10/27/14	Brooke	25284 Sunset Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735781	Regina	10/27/14	Gwendolyn	6311 Spruce Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619735780	Jasmine	10/27/14	Randall	17405 River Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735779	Tony	10/27/14	Renee	2554 Hemlock Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619735778	Douglas	10/27/14	Renee	21939 Dogwood Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735777	Frank	10/27/14	Renee	24481 Fifth Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735776	Ellen	10/27/14	Gwendolyn	12902 Wood Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735775	Thomas	10/27/14	Randall	24046 Third Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735774	Krista	10/27/14	Gwendolyn	22213 Lehua Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735773	Jay	10/27/14	Russell	7667 Williams Spring Field, New Cicily
+Cheese
+
+-8861588626619735772	Chloe	10/27/14	Joel	14524 Shore Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735771	Ruth	10/27/14	Gwendolyn	29127 Eleventh Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619735770	Jay	10/27/14	Angela	19300 Smith Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735769	Jonathan	10/27/14	Randall	15105 Twelfth Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735768	William	10/27/14	Randall	3435 Oak Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735767	Ian	10/27/14	Renee	24602 Church Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735766	Trevor	10/27/14	Angela	9030 Elm Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735765	Rita	10/27/14	Cristian	17974 Washington Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619735764	Preston	10/27/14	Joel	29695 County Line Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619735763	Carson	10/27/14	Russell	10727 Kahili Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619735762	Arthur	10/27/14	Brooke	1332 Quail Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735761	Tricia	10/27/14	Joel	5179 Pine Spring Field, New Cicily
+Ultimate
+
+-8861588626619735760	Kylie	10/27/14	Brooke	8166 Wilson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735759	Glenda	10/27/14	Renee	27318 Ninth Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735758	Penny	10/27/14	Brooke	10671 Canyon Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735757	Floyd	10/27/14	Brooke	18373 Mesquite Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735756	Danielle	10/27/14	Randall	11320 Sunset Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735755	Pauline	10/27/14	Cristian	28736 Second Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619735754	Kellie	10/27/14	Joel	1270 Jackson Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735753	Jacob	10/27/14	Cristian	9869 Evergreen Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735752	Manuel	10/27/14	Randall	28403 Eighth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735751	Robin	10/27/14	Gwendolyn	23919 Cherry Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735750	Duane	10/27/14	Joel	19919 Seventh Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735749	Rebecca	10/27/14	Renee	15692 Evergreen Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619735748	Lance	10/27/14	Brooke	3539 Center Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619735747	Kyle	10/27/14	Joel	21287 S 100 Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619735746	Chelsey	10/27/14	Russell	21138 Eighth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735745	Sherry	10/27/14	Gwendolyn	29863 Wilson Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735744	Henry	10/27/14	Randall	471 Juniper Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735743	Earl	10/27/14	Angela	20550 Thirteenth Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735742	Isabella	10/27/14	Renee	25978 Holly Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735741	Antonio	10/28/14	Russell	4728 Pine Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619735740	Patrick	10/28/14	Russell	22462 Mesquite Spring Field, New Cicily
+Cheese
+
+-8861588626619735739	Sydney	10/28/14	Russell	5872 Lake Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735738	Joe	10/28/14	Angela	23320 Pecan Spring Field, New Cicily
+Ultimate
+
+-8861588626619735737	Adriana	10/28/14	Joel	23543 Eleventh Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619735736	Louise	10/28/14	Renee	13311 Ninth Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735735	Christine	10/28/14	Angela	16196 Seventh Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735734	Billy	10/28/14	Renee	12855 S 100 Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735733	Cheryl	10/28/14	Gwendolyn	9717 Willow Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735732	William	10/28/14	Cristian	18621 N 400 Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735731	Tom	10/28/14	Angela	17626 Juniper Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735730	Reginald	10/28/14	Angela	21895 Williams Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735729	Grace	10/28/14	Russell	6526 S 100 Spring Field, New Cicily
+Ultimate
+
+-8861588626619735728	Regina	10/28/14	Renee	6311 Spruce Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735727	Alejandro	10/28/14	Randall	23801 Thirteenth Spring Field, New Cicily
+Ultimate
+
+-8861588626619735726	Katelyn	10/28/14	Russell	16325 River Spring Field, New Cicily
+Cheese
+
+-8861588626619735725	Lois	10/28/14	Cristian	4627 Pine Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735724	Vicky	10/28/14	Angela	13177 Hickory Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735723	Jasmine	10/28/14	Angela	17405 River Spring Field, New Cicily
+Ultimate
+
+-8861588626619735722	Naomi	10/28/14	Gwendolyn	27902 Hill Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735721	Danny	10/28/14	Randall	25322 Broadway Spring Field, New Cicily
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619735720	Mitchell	10/28/14	Renee	254 Highland Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619735719	Marvin	10/28/14	Cristian	7565 Cottonwood Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619735718	Shane	10/28/14	Russell	29341 Walnut Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619735717	Jeanne	10/28/14	Renee	1548 Maple Spring Field, New Cicily
+Ultimate
+
+-8861588626619735716	Felicia	10/28/14	Renee	2105 Washington Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735715	Ann	10/28/14	Angela	7798 Elm Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735714	Dolores	10/28/14	Joel	15356 Dogwood Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619735713	Willie	10/28/14	Joel	17951 Broadway Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735712	Wesley	10/28/14	Joel	8389 Fifth Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735711	Theodore	10/28/14	Cristian	516 Apache Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619735710	Riley	10/28/14	Angela	27209 Smith Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735709	Harriet	10/28/14	Brooke	26653 Hampton Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735708	Vernon	10/28/14	Renee	29614 Redwood Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735707	Sylvia	10/28/14	Angela	28929 Dogwood Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619735706	Joe	10/28/14	Gwendolyn	14775 Aspen Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735705	Danielle	10/28/14	Cristian	24170 Evergreen Spring Field, New Cicily
+Ultimate
+
+-8861588626619735704	Kristen	10/28/14	Gwendolyn	27830 Mountain View Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735703	Sally	10/28/14	Randall	12124 Smith Spring Field, New Cicily
+Cheese
+
+-8861588626619735702	Brent	10/28/14	Russell	23607 Laurel Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735701	Leon	10/28/14	Russell	28390 Hillside Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735700	Jonathon	10/28/14	Russell	22895 Mesquite Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735699	Ann	10/28/14	Renee	2967 Washington Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735698	Madeline	10/28/14	Russell	5456 Eleventh Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619735697	Lee	10/28/14	Russell	18670 Oak Spring Field, New Cicily
+Ultimate
+Pepperoni
+Pepperoni
+
+-8861588626619735696	Shannon	10/28/14	Gwendolyn	12523 Third Spring Field, New Cicily
+Cheese
+
+-8861588626619735695	Manuel	10/28/14	Cristian	7274 Maple Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735694	Jada	10/28/14	Angela	15246 Third Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619735693	Lynn	10/28/14	Gwendolyn	14904 A Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619735692	Zachary	10/28/14	Joel	1360 River Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735691	Alyssa	10/28/14	Joel	17553 Hillside Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735690	Hugh	10/29/14	Cristian	18494 Main Spring Field, New Cicily
+Cheese
+
+-8861588626619735689	Sandra	10/29/14	Randall	23583 Aloha Spring Field, New Cicily
+Ultimate
+
+-8861588626619735688	Francisco	10/29/14	Renee	25996 Main Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735687	Clayton	10/29/14	Cristian	21596 Narragansett Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619735686	Patricia	10/29/14	Cristian	27415 Ridge Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735685	Kurt	10/29/14	Gwendolyn	19482 Kansas Spring Field, New Cicily
+Ultimate
+Cheese
+Cheese
+
+-8861588626619735684	Gerald	10/29/14	Brooke	21958 Mesquite Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735683	Lonnie	10/29/14	Brooke	13522 Lake Spring Field, New Cicily
+Ultimate
+
+-8861588626619735682	Larry	10/29/14	Brooke	3784 Cherry Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735681	Landon	10/29/14	Randall	20030 Eighth Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735680	Oscar	10/29/14	Angela	11324 Hill Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735679	Andrew	10/29/14	Randall	22495 Hillside Spring Field, New Cicily
+Cheese
+
+-8861588626619735678	Katherine	10/29/14	Joel	13584 Jackson Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735677	Sylvia	10/29/14	Gwendolyn	19834 Cherry Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735676	Scott	10/29/14	Joel	25489 Shore Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619735675	Haley	10/29/14	Joel	23077 S 400 Spring Field, New Cicily
+Cheese
+
+-8861588626619735674	Devin	10/29/14	Renee	9108 Pecan Spring Field, New Cicily
+Cheese
+
+-8861588626619735673	Bridget	10/29/14	Randall	447 Wood Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+
+-8861588626619735672	Jim	10/29/14	Cristian	11438 First Spring Field, New Cicily
+Cheese
+
+-8861588626619735671	Hailey	10/29/14	Cristian	7451 Fourth Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619735670	Roger	10/29/14	Randall	25534 Bay Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735669	Jeffery	10/29/14	Renee	11602 Kansas Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735668	Nathan	10/29/14	Randall	29497 Redwood Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735667	Terry	10/29/14	Cristian	29796 Juniper Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735666	Laurie	10/29/14	Gwendolyn	25959 County Line Spring Field, New Cicily
+Cheese
+
+-8861588626619735665	Bobby	10/29/14	Brooke	10887 Fourth Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619735664	Bernice	10/29/14	Russell	25576 Malulani Spring Field, New Cicily
+Ultimate
+Ultimate
+Ultimate
+
+-8861588626619735663	Christian	10/29/14	Russell	7055 Mesquite Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619735662	June	10/29/14	Randall	8568 N 400 Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735661	Ruben	10/29/14	Renee	20016 S 400 Spring Field, New Cicily
+Ultimate
+
+-8861588626619735660	Phillip	10/29/14	Randall	430 Lakeview Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735659	Suzanne	10/29/14	Russell	13574 Magnolia Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735658	Ruby	10/29/14	Joel	12787 County Line Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735657	Melissa	10/29/14	Russell	15673 Magnolia Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735656	Javier	10/29/14	Joel	12610 County Line Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735655	Sierra	10/29/14	Randall	23507 Hemlock Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735654	Monica	10/29/14	Brooke	26400 Sixth Spring Field, New Cicily
+Cheese
+
+-8861588626619735653	Samantha	10/29/14	Brooke	29411 Kahili Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735652	Shannon	10/29/14	Gwendolyn	21706 Lincoln Spring Field, New Cicily
+Cheese
+
+-8861588626619735651	Vincent	10/29/14	Renee	991 Malulani Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735650	Arthur	10/29/14	Brooke	15124 Columbine Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735649	Tanner	10/29/14	Brooke	6617 Laurel Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735648	Jimmy	10/29/14	Renee	9784 Wood Spring Field, New Cicily
+Ultimate
+Ultimate
+
+-8861588626619735647	Margaret	10/29/14	Renee	21676 Broadway Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735646	Jacob	10/29/14	Russell	21333 Mesquite Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735645	Michele	10/29/14	Gwendolyn	3227 Laurel Spring Field, New Cicily
+Ultimate
+
+-8861588626619735644	Lori	10/29/14	Brooke	26647 Seventh Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735643	Rachel	10/29/14	Russell	3059 Jackson Spring Field, New Cicily
+Cheese
+
+-8861588626619735642	Ashlyn	10/29/14	Cristian	10979 Quail Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619735641	Alan	10/29/14	Brooke	2197 Smith Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735640	Audrey	10/30/14	Joel	9435 Navajo Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735639	Martha	10/30/14	Joel	19772 Elm Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735638	Eddie	10/30/14	Gwendolyn	4012 Navajo Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735637	Alvin	10/30/14	Brooke	12057 Park Spring Field, New Cicily
+Ultimate
+
+-8861588626619735636	Justin	10/30/14	Renee	28822 Pine Spring Field, New Cicily
+Cheese
+
+-8861588626619735635	Terry	10/30/14	Randall	20401 Maple Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735634	Dan	10/30/14	Brooke	4764 Eleventh Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735633	Brenda	10/30/14	Gwendolyn	25962 Eleventh Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Pepperoni
+Cheese
+
+-8861588626619735632	Wendy	10/30/14	Brooke	24224 Ridge Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735631	Earl	10/30/14	Joel	13811 Narragansett Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735630	Linda	10/30/14	Russell	29735 Walnut Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735629	Arnold	10/30/14	Randall	28828 Highland Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735628	Mary	10/30/14	Cristian	17460 Washington Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735627	Jimmy	10/30/14	Brooke	22223 Mountain View Spring Field, New Cicily
+Cheese
+
+-8861588626619735626	Lauren	10/30/14	Gwendolyn	27748 Highland Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735625	Kate	10/30/14	Brooke	8731 Redwood Spring Field, New Cicily
+Cheese
+Ultimate
+Pepperoni
+
+-8861588626619735624	Juan	10/30/14	Russell	22703 Redwood Spring Field, New Cicily
+Cheese
+
+-8861588626619735623	Caitlyn	10/30/14	Brooke	14270 Lehua Spring Field, New Cicily
+Cheese
+Pepperoni
+Pepperoni
+
+-8861588626619735622	Louis	10/30/14	Russell	11314 Fourth Spring Field, New Cicily
+Ultimate
+Cheese
+Pepperoni
+Cheese
+
+-8861588626619735621	Holly	10/30/14	Randall	15329 Pine Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735620	Justin	10/30/14	Gwendolyn	22978 Fourth Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735619	Andre	10/30/14	Brooke	6295 Magnolia Spring Field, New Cicily
+Ultimate
+
+-8861588626619735618	Gerald	10/30/14	Cristian	16032 Fourth Spring Field, New Cicily
+Ultimate
+
+-8861588626619735617	Dolores	10/30/14	Gwendolyn	15356 Dogwood Spring Field, New Cicily
+Pepperoni
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735616	Chelsey	10/30/14	Cristian	26001 Juniper Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735615	Sherry	10/30/14	Gwendolyn	9780 Pecan Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735614	Erica	10/30/14	Russell	22412 Eleventh Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735613	Henry	10/30/14	Brooke	7409 Jackson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735612	Cody	10/30/14	Cristian	9114 Juniper Spring Field, New Cicily
+Cheese
+Cheese
+
+-8861588626619735611	Albert	10/30/14	Cristian	6365 Williams Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735610	Elijah	10/30/14	Randall	17880 Walnut Spring Field, New Cicily
+Ultimate
+Pepperoni
+Cheese
+
+-8861588626619735609	Darrell	10/30/14	Russell	22205 Pleasant Spring Field, New Cicily
+Pepperoni
+Ultimate
+Cheese
+Cheese
+
+-8861588626619735608	Kristin	10/30/14	Russell	771 Columbine Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+Cheese
+
+-8861588626619735607	Carolyn	10/30/14	Joel	10547 Wilson Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735606	Anna	10/30/14	Randall	1908 Orchard Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735605	Allen	10/30/14	Russell	6472 River Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735604	Kelly	10/30/14	Russell	25756 Birch Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735603	Jenny	10/30/14	Joel	1078 Mountain View Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735602	Oscar	10/30/14	Joel	13752 N 400 Spring Field, New Cicily
+Cheese
+
+-8861588626619735601	Janice	10/30/14	Russell	16440 Kahili Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735600	Edith	10/30/14	Russell	4703 Cottonwood Spring Field, New Cicily
+Pepperoni
+Cheese
+Ultimate
+
+-8861588626619735599	Matthew	10/30/14	Randall	15461 Eighth Spring Field, New Cicily
+Cheese
+
+-8861588626619735598	Dwayne	10/30/14	Cristian	12901 Eleventh Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735597	George	10/30/14	Renee	12425 Center Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619735596	Benjamin	10/30/14	Brooke	19866 Seventh Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619735595	Allen	10/30/14	Cristian	10713 Airport Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+Ultimate
+
+-8861588626619735594	Isaac	10/30/14	Gwendolyn	2918 N 400 Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735593	Ann	10/30/14	Cristian	5837 Cedar Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735592	Veronica	10/30/14	Gwendolyn	5147 Hickory Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735591	Shane	10/30/14	Brooke	16041 Hemlock Spring Field, New Cicily
+Cheese
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619735590	Courtney	10/30/14	Russell	16819 Hill Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735589	Karen	10/30/14	Brooke	28120 Hampton Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735588	Brian	10/30/14	Russell	27246 Park Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735587	Carolyn	10/30/14	Renee	6225 Lakeview Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735586	Carla	10/31/14	Randall	26753 Evergreen Spring Field, New Cicily
+Cheese
+
+-8861588626619735585	Sally	10/31/14	Joel	4167 Oak Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735584	Jeffery	10/31/14	Russell	11049 Narragansett Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735583	Krista	10/31/14	Randall	26662 Cypress Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735582	Jeffrey	10/31/14	Gwendolyn	23145 Pleasant Spring Field, New Cicily
+Cheese
+
+-8861588626619735581	Sandra	10/31/14	Randall	9195 Eleventh Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735580	Edwin	10/31/14	Cristian	15642 Magnolia Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619735579	Tammy	10/31/14	Randall	29927 Thirteenth Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735578	Calvin	10/31/14	Gwendolyn	17752 Pine Spring Field, New Cicily
+Ultimate
+
+-8861588626619735577	Faith	10/31/14	Gwendolyn	26144 Willow Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735576	Sheila	10/31/14	Angela	26111 Thirteenth Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735575	Victor	10/31/14	Renee	16963 Bay Spring Field, New Cicily
+Pepperoni
+Pepperoni
+Ultimate
+
+-8861588626619735574	Sergio	10/31/14	Renee	18326 Orchard Spring Field, New Cicily
+Cheese
+Cheese
+Cheese
+
+-8861588626619735573	Clifford	10/31/14	Angela	18257 Johnson Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735572	Zachary	10/31/14	Cristian	24168 Cottonwood Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735571	Angela	10/31/14	Randall	20162 Birch Spring Field, New Cicily
+Ultimate
+Ultimate
+Pepperoni
+
+-8861588626619735570	Lonnie	10/31/14	Renee	16409 Kukui Spring Field, New Cicily
+Cheese
+Ultimate
+
+-8861588626619735569	Stephen	10/31/14	Russell	8076 Holly Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735568	Amy	10/31/14	Randall	10976 Elm Spring Field, New Cicily
+Cheese
+Pepperoni
+Ultimate
+
+-8861588626619735567	Kendra	10/31/14	Brooke	13505 Juniper Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619735566	Heather	10/31/14	Cristian	20439 Aloha Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735565	Derek	10/31/14	Russell	10829 Lake Spring Field, New Cicily
+Cheese
+
+-8861588626619735564	Riley	10/31/14	Angela	27209 Smith Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619735563	Troy	10/31/14	Russell	27653 Johnson Spring Field, New Cicily
+Cheese
+
+-8861588626619735562	Bill	10/31/14	Cristian	21909 Meadow Spring Field, New Cicily
+Pepperoni
+Cheese
+Pepperoni
+
+-8861588626619735561	Valerie	10/31/14	Angela	547 Aspen Spring Field, New Cicily
+Ultimate
+Pepperoni
+Ultimate
+
+-8861588626619735560	Erik	10/31/14	Joel	21964 Pleasant Spring Field, New Cicily
+Cheese
+
+-8861588626619735559	Christine	10/31/14	Angela	4247 Cypress Spring Field, New Cicily
+Cheese
+Pepperoni
+
+-8861588626619735558	Willie	10/31/14	Brooke	11374 Wilson Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735557	Rosie	10/31/14	Cristian	23081 West Spring Field, New Cicily
+Cheese
+Cheese
+Ultimate
+
+-8861588626619735556	Joanne	10/31/14	Joel	4281 Sixth Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735555	Darren	10/31/14	Renee	6122 Aspen Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619735554	Arthur	10/31/14	Randall	20398 Eighth Spring Field, New Cicily
+Cheese
+Cheese
+Pepperoni
+
+-8861588626619735553	Marco	10/31/14	Brooke	6869 Seventh Spring Field, New Cicily
+Pepperoni
+Pepperoni
+
+-8861588626619735552	Diana	10/31/14	Renee	3162 West Spring Field, New Cicily
+Ultimate
+
+-8861588626619735551	Alexandra	10/31/14	Randall	25963 Broadway Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735550	Kylie	10/31/14	Cristian	6529 Kahili Spring Field, New Cicily
+Ultimate
+Cheese
+Ultimate
+
+-8861588626619735549	Patty	10/31/14	Russell	23154 Oak Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735548	Kendra	10/31/14	Brooke	2449 Juniper Spring Field, New Cicily
+Pepperoni
+Cheese
+Cheese
+
+-8861588626619735547	Marcus	10/31/14	Brooke	8887 West Spring Field, New Cicily
+Pepperoni
+Ultimate
+Ultimate
+
+-8861588626619735546	Cassandra	10/31/14	Russell	10485 Cedar Spring Field, New Cicily
+Pepperoni
+Cheese
+
+-8861588626619735545	Lyle	10/31/14	Brooke	2883 West Spring Field, New Cicily
+Ultimate
+Cheese
+
+-8861588626619735544	Max	10/31/14	Joel	12253 Kahili Spring Field, New Cicily
+Pepperoni
+
+-8861588626619735543	Gregory	10/31/14	Brooke	7016 Highland Spring Field, New Cicily
+Pepperoni
+Ultimate
+
+-8861588626619735542	Nathaniel	10/31/14	Randall	21617 Wood Spring Field, New Cicily
+Ultimate
+Ultimate
+Cheese
+
+-8861588626619735541	Kayla	10/31/14	Joel	10103 Eleventh Spring Field, New Cicily
+Ultimate
+
+-8861588626619735540	Bruce	10/31/14	Renee	10146 Meadow Spring Field, New Cicily
+Cheese
+Ultimate
+Cheese
+
+-8861588626619735539	Brent	10/31/14	Joel	443 Hampton Spring Field, New Cicily
+Ultimate
+Pepperoni
+
+-8861588626619735538	Oscar	10/31/14	Angela	154 Wilson Spring Field, New Cicily
+Ultimate
+

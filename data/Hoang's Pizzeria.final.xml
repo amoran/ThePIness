@@ -1,0 +1,28 @@
+<restauraunt-data>
+<restauraunt>
+<name>
+Hoang's Pizzeria
+</name>
+</restauraunt>
+<menu>
+<menuItem name='Cheese'>
+<topping type='CHEESE'/>
+<topping type='EXTRA_CHEESE'/>
+</menuItem>
+<menuItem name='Fish'>
+<topping type='CHEESE'/>
+<topping type='SARDINES'/>
+</menuItem>
+<menuItem name='Ultimate Fish'>
+<topping type='CHEESE'/>
+<topping type='SARDINES'/>
+<topping type='MUSHROOMS'/>
+<topping type='ONIONS'/>
+<topping type='EXTRA_CHEESE'/>
+<topping type='GREEN_PEPPERS'/>
+<topping type='JALAPENOS'/>
+</menuItem>
+</menu>
+<orders>
+</orders>
+</restauraunt-data>
