@@ -1,0 +1,13 @@
+.jumbo-right {
+	width: 25%;
+	float: left;
+}
+
+.jumbo-left {
+	width: 75%;
+	float: left;
+}
+
+.jumbo-right img {
+	width: 100%;
+}
