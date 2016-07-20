@@ -13,7 +13,7 @@ router.use(function(req, res, next) {
 	console.log('Request received.');
 
 	res.header("Access-Control-Allow-Origin", "localhost");
-	res.header("Access-Control-Allow-Methods", "GET,PUT,POST,DELETE");
+	res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
 	res.header("Access-Control-Allow-Headers", "X-Request-With, Content-Type");
 
 	next();
