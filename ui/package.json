@@ -2,8 +2,9 @@
   "name": "thepiness",
   "version": "0.0.1",
   "description": "Raspberry Pi Pizza Competition",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
