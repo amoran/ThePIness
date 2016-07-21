@@ -26,6 +26,8 @@ router.use('/api/customers', require('./routes/customers'));
 router.use('/api/orders', require('./routes/orders'));
 
 app.use('/', router);
+ app.use(express.static('./public'));
+
 app.listen(port);
 console.log('Server online (port ' + port + ')');
 

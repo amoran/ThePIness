@@ -1,13 +1,15 @@
-$('.yes-no').on('selection',function(){
-     var selection = $('.yes-no-select').val();
+$('#yes-no').on('change',function(){
+    var selection = this.value;
     switch(selection){
     	case "Yes":
-    	$("#returning-customer").show()
-    	$("#yes-no").hide()
-   	break;
-    default:
-    $(".returning-customer-dropdown").hide()
-    $(".yes-no").hide()
+    	   $("#returning-customer").show();
+            console.log("Yes Selected");
+           break;
+        case "No":
+            $("#returning-customer").hide();
+            console.log("No Selected");
+        default:
+            console.log("Bad Selection");
     }
 });
 
