@@ -8,6 +8,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
+    <!-- Special version of Bootstrap that only affects content wrapped in .bootstrap-iso -->
+    <link rel="stylesheet" href="https://formden.com/static/cdn/bootstrap-iso.css" /> 
+    <!--below link because I appended comments-->
+    <link rel="stylesheet" href="https://formden.com/static/cdn/font-awesome/4.4.0/css/font-awesome.min.css" />
+    
 
     <title>The PIness</title>
 
@@ -63,6 +68,65 @@
         <p>This is where you order a pizza.</p>
       </div>
 
+      <!--Below the form to order pizza-->
+      <div class="bootstrap-iso">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+              <form method="post">
+                <div class="form-group ">
+                  <label class="control-label requiredField" for="customerName">
+                    Name
+                    <span class="asteriskField">
+                     *
+                    </span>
+                  </label>
+                  <div class="input-group">
+                    <div class="input-group-addon">
+                      <i class="fa fa-odnoklassniki">
+                      </i>
+                    </div>
+                      <input class="form-control" id="customerName" name="customerName" placeholder="Type name here" type="text"/>
+                    </div>
+                  </div>
+                  <div class="form-group ">
+                    <label class="control-label requiredField" for="pizzaSelection">
+                      Pizza Type
+                      <span class="asteriskField">
+                      *
+                      </span>
+                    </label>
+                    <select class="select form-control" id="pizzaSelection" name="pizzaSelection">
+                      <option value="Will">
+                       Will
+                      </option>
+                      <option value="dynamically">
+                       dynamically
+                      </option>
+                      <option value="add once database connected">
+                        add once database connected
+                      </option>
+                    </select>
+                  </div>
+                  <div class="form-group ">
+                    <label class="control-label " for="message">
+                      Delivery Instructions (optional)
+                    </label>
+                    <textarea class="form-control" cols="40" id="message" name="message" rows="10"></textarea>
+                  </div>
+                  <div class="form-group">
+                    <div>
+                      <button class="btn btn-primary " name="submit" type="submit">
+                        Submit
+                      </button>
+                    </div>
+                  </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div> <!-- /container -->
 
 
@@ -73,5 +137,9 @@
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="js/bootstrap.min.js"></script>
     <script src="../orders.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/orders.css">
+    <!--For the auto-complete for the first name-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="js/auto-complete.js"></script>
   </body>
 </html>
