@@ -71,53 +71,48 @@
       <!--Below the form to order pizza-->
       <div class="bootstrap-iso">
         <div class="container-fluid">
-          <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
               <form method="post">
-                <div class="form-group ">
-                  <label class="control-label requiredField" for="customerName">
-                    Name
-                    <span class="asteriskField">
-                     *
-                    </span>
-                  </label>
-                  <div class="input-group">
-                    <div class="input-group-addon">
-                      <i class="fa fa-odnoklassniki">
-                      </i>
-                    </div>
-                      <input class="form-control" id="customerName" name="customerName" placeholder="Type name here" type="text"/>
-                    </div>
-                  </div>
-                  <div class="form-group ">
-                    <label class="control-label requiredField" for="pizzaSelection">
-                      Pizza Type
+                  <div class="returning-customer-dropdown">
+                    <label for="returningCustomer">
+                      Are you a returning customer?
                       <span class="asteriskField">
                       *
                       </span>
                     </label>
-                    <select class="select form-control" id="pizzaSelection" name="pizzaSelection">
-                      <option value="Will">
-                       Will
+                    <select class="yes-no-select" id="yes-no" name="returningCustomer" placeholder="Select">
+                      <option value="Yes" id="yes">
+                       Yes
                       </option>
-                      <option value="dynamically">
-                       dynamically
-                      </option>
-                      <option value="add once database connected">
-                        add once database connected
+                      <option value="No" id="no">
+                       No
                       </option>
                     </select>
                   </div>
-                  <div class="form-group ">
-                    <label class="control-label " for="message">
-                      Delivery Instructions (optional)
-                    </label>
-                    <textarea class="form-control" cols="40" id="message" name="message" rows="10"></textarea>
-                  </div>
-                  <div class="form-group">
+
+                  <!--Returning customer validation-->
+                  <div id="returning-customer-validation">
+                    <select id="choose-validation">
+                      <option value="name">
+                        Name
+                      </option>
+                      <option value="address">
+                        Address
+                      </option>
+                    </select>
+                    <form id="validate-name">
+                      <label>Please enter your name: </label>
+                      <input type="text" name="first-name"><br>
+                      <input type="submit" value="Submit">
+                    </form>
+                    <form id="validate-address">
+                      <label>Please enter your address: </label>
+                      <input type="text" name="address"><br>
+                      <input type="submit" value="Submit">
+                    </form>
                     <div>
-                      <button class="btn btn-primary " name="submit" type="submit">
-                        Submit
+                      <button id="validate-button" name="submit" type="submit">
+                       Submit
                       </button>
                     </div>
                   </div>
@@ -136,10 +131,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="../orders.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/orders.css">
-    <!--For the auto-complete for the first name-->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="js/auto-complete.js"></script>
+    <script src="js/order-form.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/order.css">
   </body>
 </html>
