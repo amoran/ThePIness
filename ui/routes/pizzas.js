@@ -8,7 +8,7 @@ router.route('/')
 		var database = new Database(function() {});
 
 		function getPizzasCallback(result) {
-
+			res.json({ message: JSON.stringify(result)});
 			database.closeDatabase();
 
 		}
