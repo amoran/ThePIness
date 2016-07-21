@@ -50,7 +50,7 @@ Database.prototype.getPizzas = function (callback) {
       return callback();
     }
     console.log(rows[0]);
-    return callback(rows[0]);
+    return callback(rows);
   });
 };
 
