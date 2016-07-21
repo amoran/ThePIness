@@ -7,13 +7,13 @@ router.route('/')
 	.get(function(req,res) {
 		var database = new Database(function() {});
 
-		function getStoresCallback(result) {
+		function getCustomersCallback(result) {
 
 			database.closeDatabase();
 
 		}
 
-		database.getStores(getStoresCallback);
+		database.getCustomers(getCustomersCallback);
 
 });
 

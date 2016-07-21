@@ -21,6 +21,9 @@ router.use(function(req, res, next) {
 
 router.use('/', require('./routes/index'));
 router.use('/api/stores', require('./routes/stores'));
+router.use('/api/pizzas', require('./routes/pizzas'));
+router.use('/api/customers', require('./routes/customers'));
+router.use('/api/orders', require('./routes/orders'));
 
 app.use('/', router);
 app.listen(port);
