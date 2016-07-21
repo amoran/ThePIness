@@ -5,7 +5,8 @@ var Database = require('../database/database.js');
 
 router.route('/')
 	.get(function(req,res) {
-		var database = new Database(function() {});
+		var database = new Database(readyCallback);
+
 
 		function getPizzasCallback(result) {
 			res.json({ message: JSON.stringify(result)});
@@ -13,7 +14,11 @@ router.route('/')
 
 		}
 
-		database.getPizzas(getPizzasCallback);
+		function readyCallback(isReady) {
+			if (isReady)
+				database.getPizzas(getPizzasCallback);
+
+		}
 
 });
 

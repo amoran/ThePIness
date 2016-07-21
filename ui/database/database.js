@@ -16,6 +16,7 @@ function Database(callback) {
 	    }
 	    else {
 	      console.log('Connected to Database!');
+        callback(true);
 	    }
 	});
 }
@@ -30,12 +31,14 @@ Database.prototype.closeDatabase = function(callback) {
 };
 
 
-var QRY_GET_PIZZA = 'SELECT * FROM PIZZAS WHERE STORE_ID = ? ;';
+var QRY_GET_PIZZA = 'SELECT * FROM PIZZAS;';
 
-Database.prototype.getPizzas = function (store, callback) {
+Database.prototype.getPizzas = function (callback) {
+  console.log("Getting Pizzas");
   var _this = this;
 
-  this.connection.query(QRY_GET_PIZZA, store, function (err, rows) {
+  this.connection.query(QRY_GET_PIZZA, function (err, rows) {
+    console.log("Made db call");
     if (err) {
       console.log ('(Database) (getPizzas) Error searching ' +
                          'for pizza in DB.');
@@ -43,11 +46,10 @@ Database.prototype.getPizzas = function (store, callback) {
     }
 
     if (rows.length === 0) {
-      console.log ('(Database) (getPizzas) No pizza found with ' +
-                         'store <' + store + '>.');
+      console.log ('(Database) (getPizzas) No pizza found.');
       return callback();
     }
-
+    console.log(rows[0]);
     return callback(rows[0]);
   });
 };
