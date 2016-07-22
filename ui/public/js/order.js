@@ -158,6 +158,8 @@ $('#orderPlace').on('click',function () {
         dataType: 'json',
         success: function (data) {
             console.log('Input order successfully');
+            window.location.replace("/success.html");
+
 
         },
         error: function() {
