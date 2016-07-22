@@ -5,7 +5,7 @@ function Database(callback) {
 	this.connection = mysql.createConnection({
 			host: 'localhost',
 			user: 'root',
-			password: 'redr0ver',
+			password: 'mysql123',
 			database: 'pizza',
 	    multipleStatements: true
 	});
