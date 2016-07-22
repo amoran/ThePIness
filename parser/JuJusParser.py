@@ -4,41 +4,11 @@ import MySQLdb
 #import re for RegEx parsing.
 # import re
 
-#define our original and new files.
-# original = open("./results/Bad JuJu's Pizzas.20130201.txt", 'r')
-# temp_write = open("./results/temp.txt", 'w')
-# temp_read = open("./results/temp.txt", 'r')
-# new = open("./results/Bad Juju's Pizzas Test.txt", 'w')
-
 #define connection to our MySQL db.
 connection = MySQLdb.connect(host = "localhost", user = "root", passwd = "redr0ver", db = "pizza")
 cur = connection.cursor()
 
-#begin parsing.
-# with original as f:
-#         for _ in range(26):                             #skip over the non-informative lines on the top.
-#             next(f)
-#         for line in f:                                  #for every line in the file.
-#             if line.startswith('-'):                    #if the line starts with -, the designation for a customer number.
-#                 line = re.sub('\t', ';', line)          #substitute the tab character with a ';', the field delimiter I am using
-#                 line = re.sub('\n', ';', line)          #substitute the newline character at the end with a ';', the field delimiter I am using.
-#             elif line.startswith('\n'):                 #if the line is only a newline, so it's delimiting records.
-#                 line = re.sub('\n', ':', line)          #substitute the newline character with a ':', the record delimiter I am using.
-#             else:                                       #the only other kind of lines are ones that signify pizzas ordered.
-#                 line = re.sub('\n', ', ', line)         #substitute the newline character with ', ' to group the pizzas together.
-#             temp_write.write(line)
-
-# #parsing clean-up (aka I couldn't find the error so I'm taking care of it here).
-# with temp_read as f:
-#         for line in f:
-#             line = re.sub(', :', ':', line)
-#             new.write(line)
-      
-# #close new file
-# temp_write.close()
-# new.close()
-
-final = open("Bad Jujus Pizzas Test.txt", 'r')
+final = open("../data/Bad Jujus Pizzas Test.txt", 'r')
 
 cur.execute("INSERT INTO STORES (STORE_NAME) VALUES('Bad Jujus Pizzas');")
 STORE_ID = cur.lastrowid
@@ -109,16 +79,3 @@ with final as f:
             (ORDER_ID, CUSTOMER_ID, ORDER_DATE, STORE_ID, PIZZA_NAMES))
         connection.commit()
 
-
-
-
-# cursor.execute("INSERT INTO mytable(height) VALUES(%s)",(height))
-
-
-
-
-#run the query
-# cur.execute(query)
-
-#commit the changes
-# cur.commit()

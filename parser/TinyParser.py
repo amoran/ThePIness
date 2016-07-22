@@ -108,12 +108,12 @@ with fresh as f:
         #     if i != len(toppings)-1:
         #         toppingsFormatted += ', '
 
-        print "Order ID: " + ORDER_ID
-        print "Driver: " + driver
-        print "Date: " + ORDER_DATE
-        print "Customer: " + customer
-        print "Address: " + address
-        print "Pizzas: " + PIZZA_NAME
+        # print "Order ID: " + ORDER_ID
+        # print "Driver: " + driver
+        # print "Date: " + ORDER_DATE
+        # print "Customer: " + customer
+        # print "Address: " + address
+        # print "Pizzas: " + PIZZA_NAME
         # print "Toppings: " + toppingsFormatted
 
 

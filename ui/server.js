@@ -24,6 +24,7 @@ router.use('/api/stores', require('./routes/stores'));
 router.use('/api/pizzas', require('./routes/pizzas'));
 router.use('/api/customers', require('./routes/customers'));
 router.use('/api/orders', require('./routes/orders'));
+router.use('/api/stats', require('./routes/stats'));
 
 app.use('/', router);
  app.use(express.static('./public'));

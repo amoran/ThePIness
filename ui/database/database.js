@@ -19,6 +19,9 @@ function Database(callback) {
         callback(true);
 	    }
 	});
+
+  this.connection.query("SET sql_mode = 'NO_UNSIGNED_SUBTRACTION'");
+
 }
 
 // Public API ==================================================================
@@ -73,6 +76,28 @@ Database.prototype.getStores = function (callback) {
     }
 
     return callback(rows[0]);
+  });
+};
+
+var QRY_GET_TOP = "SELECT s.STORE_ID, p.PIZZA_NAME, COUNT(o.PIZZA_NAMES) AS NUM_PIZZAS " 
+QRY_GET_TOP += "FROM pizzas AS p, stores AS s, orders AS o "
+QRY_GET_TOP += "WHERE p.STORE_ID = s.STORE_ID AND o.PIZZA_NAMES LIKE CONCAT('%', p.PIZZA_NAME, '%') "
+QRY_GET_TOP += "GROUP BY p.PIZZA_NAME "
+QRY_GET_TOP += "ORDER BY NUM_PIZZAS;"
+
+Database.prototype.getTopPizzas = function (callback) {
+  this.connection.query(QRY_GET_TOP, function (err, rows) {
+    if (err) {
+      console.log ('(Database) (getTopPizzas) Error searching for top in DB.' + err);
+      return callback();
+    }
+
+    if (rows.length === 0) {
+      console.log ('(Database) (getTopPizzas) No tops found');
+      return callback();
+    }
+
+    return callback(rows);
   });
 };
 
