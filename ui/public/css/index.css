@@ -11,3 +11,8 @@
 .jumbo-right img {
 	width: 100%;
 }
+
+.carousel-image {
+  display: inline;
+  margin: auto;
+}
