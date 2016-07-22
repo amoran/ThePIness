@@ -3,10 +3,10 @@ import MySQLdb
 
 
 #define connection to our MySQL db.
-connection = MySQLdb.connect(host = "localhost", user = "root", passwd = "redr0ver", db = "pizza")
+connection = MySQLdb.connect(host = "localhost", user = "root", passwd = "mysql123", db = "pizza")
 cur = connection.cursor()
 
-final = open("../data/Tiny Pizzas.20130201.csv", 'r')
+final = open("../data/TinyPizzas/Tiny Pizzas.20130201.csv", 'r')
 
 cur.execute("INSERT INTO STORES (STORE_NAME) VALUES('Tiny Pizzas');")
 STORE_ID = cur.lastrowid

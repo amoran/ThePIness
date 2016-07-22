@@ -5,7 +5,7 @@ import MySQLdb
 # import re
 
 #define connection to our MySQL db.
-connection = MySQLdb.connect(host = "localhost", user = "root", passwd = "redr0ver", db = "pizza")
+connection = MySQLdb.connect(host = "localhost", user = "root", passwd = "mysql123", db = "pizza")
 cur = connection.cursor()
 
 final = open("../data/Bad Jujus Pizzas Test.txt", 'r')
