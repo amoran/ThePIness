@@ -14,4 +14,16 @@
 	display: none;	
 }
 
+#totalContainer{
+	text-align: right;
+	display: none;
+}
 
+.moneyHeader{
+	font-weight: bold;
+}
+
+.text-warn{
+	color: red;
+	padding: 2px;
+}

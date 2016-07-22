@@ -9,8 +9,10 @@ router.route('/')
 
 
 		function getPizzasCallback(result) {
-			res.json({ message: JSON.stringify(result)});
+			console.log(result);
+
 			database.closeDatabase();
+			res.json({ message: result});
 
 		}
 

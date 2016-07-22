@@ -15,6 +15,29 @@ router.route('/')
 
 		database.getOrders(getOrdersCallback);
 
-});
+	})
+	.post(function(req,res) {
+		var database = new Database(function() {});
+		var name = req.param('name');
+		var address = req.param('address');
+		var store = req.param('store');
+		var pizza = req.param('pizza');
+		console.log('Got post request');
+
+		function putOrderCallback(result) {
+
+			console.log(result);
+
+			database.closeDatabase();
+			res.json({ message: result});
+
+		}
+
+		function readyCallback(isReady) {
+			if (isReady)
+				database.putOrder(putOrderCallback);
+
+		}
+	});
 
 module.exports = router;

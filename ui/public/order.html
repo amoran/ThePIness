@@ -8,19 +8,17 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
-    <!-- Special version of Bootstrap that only affects content wrapped in .bootstrap-iso -->
-    <link rel="stylesheet" href="https://formden.com/static/cdn/bootstrap-iso.css" /> 
-    <!--below link because I appended comments-->
-    <link rel="stylesheet" href="https://formden.com/static/cdn/font-awesome/4.4.0/css/font-awesome.min.css" />
-    
 
     <title>The PIness</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-switch.min.css">
 
     <!-- Extra CSS -->
     <link href="css/index.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="css/order.css">
 
   </head>
 
@@ -45,18 +43,6 @@
               <li><a href="index.html">Home</a></li>
               <li><a href="about.html">About</a></li>
               <li class="active"><a href="order.html">Order</a></li>
-              <!-- <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li class="dropdown-header">Nav header</li>
-                  <li><a href="#">Separated link</a></li>
-                  <li><a href="#">One more separated link</a></li>
-                </ul>
-              </li> -->
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
@@ -65,76 +51,75 @@
       <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
         <h1>Order Page</h1>
-        <p>This is where you order a pizza.</p>
-      </div>
+        <p>Fill in the form below to order a pizza.</p>
 
-      <!--Below the form to order pizza-->
-      <div class="bootstrap-iso">
-        <div class="container-fluid">
-            <div class="col-md-6 col-sm-6 col-xs-12">
-              <form method="post">
-                  <div class="returning-customer-dropdown">
-                    <label for="returningCustomer">
-                      Are you a returning customer?
-                      <span class="asteriskField">
-                      *
-                      </span>
-                    </label>
-                    <select class="yes-no-select" id="yes-no" name="returningCustomer" placeholder="Select">
-                      <option selected disabled hidden style='display: none' value=''>
-                      </option>
+        <form id="orderForm">
+          <fieldset id="storeSelectParent" class="form-group">
+            <label for="storeSelect">Store</label>
+            <select class="form-control" id="storeSelect">
+            <option disabled selected value> -- select an option -- </option>
+            <!-- Info will be added here by Jquery... -->
+            </select>
+          </fieldset>
+          <fieldset id="pizzaSelectParent" class="form-group">
+            <label for="pizzaSelect">Pizza</label>
+            <select class="form-control" id="pizzaSelect">
+              <option disabled selected value> -- select an option -- </option>
+              <!-- Info will be added here by Jquery... -->
+            </select>
+          </fieldset>
+          <fieldset class="form-group">
+            <label for="nameInput">Full Name</label>
+            <input type="text" class="form-control" id="nameInput" placeholder="Full Name">
+          </fieldset>
+          <fieldset class="form-group">
+            <label for="streetInput">Address</label>
+            <input type="text" class="form-control" id="streetInput" placeholder="Street">
+          </fieldset>
+          <fieldset class="form-group">
+            <input type="text" class="form-control" id="cityInput" placeholder="City">
+          </fieldset>
+          <fieldset class="form-group">
+            <input type="text" class="form-control" id="stateInput" placeholder="State">
+          </fieldset>
+          <fieldset class="form-group">
+            <input type="number" class="form-control" id="zipInput" placeholder="Zip Code">
+          </fieldset>
+          <fieldset class="form-group">
+            <label for="deliveryCheckbox">Delivery?</label>
+            </br>
+            <input type="checkbox" name="deliveryCheckbox" data-on-text="Yes" data-off-text="No" checked>
+          </fieldset>
+          <button type="button" id="orderCalculate" class="btn btn-primary">Calculate Total</button>
+        </form>
 
-                      <option value="Yes" id="yes">
-                       Yes
-                      </option>
-                      <option value="No" id="no">
-                       No
-                      </option>
-                    </select>
-                  </div>
-
-                  <!--Returning customer validation-->
-                  <div id="returning-customer">
-                    <select id="choose-validation">
-                      <option value="name">
-                        Name
-                      </option>
-                      <option value="address">
-                        Address
-                      </option>
-                    </select>
-                    <form id="validate-name">
-                      <label>Please enter your name: </label>
-                      <input type="text" name="first-name"><br>
-                      <input type="submit" value="Submit">
-                    </form>
-                    <form id="validate-address">
-                      <label>Please enter your address: </label>
-                      <input type="text" name="address"><br>
-                      <input type="submit" value="Submit">
-                    </form>
-                    <div>
-                      <button id="validate-button" name="submit" type="submit">
-                       Submit
-                      </button>
-                    </div>
-                  </div>
-              </form>
-            </div>
+        <div id="totalContainer">
+          <div>
+            <span class="moneyHeader">Subtotal: $</span>
+            <span id="pizzaAmount">10.00</span>
           </div>
-        </div>
-      </div>
+          <div>
+            <span class="moneyHeader">Returning Customer Coupon: $</span>
+            <span id="returningCouponAmount">0.00</span>
+          </div>
+          <div>
+            <span class="moneyHeader">Total: $</span>
+            <span id="totalAmount">0.00</span>
+          </div>
+          <button type="button" id="orderPlace" class="btn btn-success">Place Order</button>
 
+        </div>
+
+      </div>
     </div> <!-- /container -->
 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/order-form.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/order.css">
+    <script src="js/bootstrap-switch.min.js"></script>
+    <script src="js/order.js"></script>
   </body>
 </html>

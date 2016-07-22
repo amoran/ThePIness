@@ -9,7 +9,10 @@ router.route('/')
 
 		function getStoresCallback(result) {
 
+			console.log(result);
+
 			database.closeDatabase();
+			res.json({ message: result})
 
 		}
 

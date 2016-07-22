@@ -5,15 +5,25 @@ var Database = require('../database/database.js');
 
 router.route('/')
 	.get(function(req,res) {
-		var database = new Database(function() {});
+		var database = new Database(readyCallback);
+		var customerName = req.param('name');
+		var customerAddress = req.param('address');
+		console.log(customerName);
+		console.log(customerAddress);
 
-		function getCustomersCallback(result) {
+		function getCustomerCallback(result) {
+
+			console.log(result);
 
 			database.closeDatabase();
+			res.json({ message: result})
 
 		}
 
-		database.getCustomers(getCustomersCallback);
+		function readyCallback(isReady) {
+			if (isReady)
+				database.getCustomer(customerName, customerAddress, getCustomerCallback);
+		}
 
 });
 
